@@ -1,0 +1,1986 @@
+-DOCSTART- -X- O
+MIAMI -X- _ B-Name - Basic - Right
+-- -X- _ O
+Miami -X- _ B-NC - Within - Wrong
+Marlins -X- _ I-NC - Within - Wrong
+manager -X- _ I-NC - Within - Wrong
+Don -X- _ I-NC - Within - Wrong
+Mattingly -X- _ I-NC - Within - Wrong
+said -X- _ I-NC - Within - Wrong
+he -X- _ I-NC - Within - Wrong
+was -X- _ I-NC - Within - Wrong
+n't -X- _ I-NC - Within - Wrong
+surprised -X- _ I-NC - Within - Wrong
+. -X- _ O
+J. -X- _ B-Name - Basic - Right
+T. -X- _ I-Name - Basic - Right
+Realmuto -X- _ I-Name - Basic - Right
+singled -X- _ B-Number - Basic - Right
+home -X- _ O
+the -X- _ O
+winning -X- _ B-Word - Within - Right
+run -X- _ I-Word - Within - Right
+in -X- _ O
+the -X- _ O
+bottom -X- _ O
+of -X- _ O
+the -X- _ O
+10th -X- _ B-Number - Basic - Right
+inning -X- _ O
+, -X- _ O
+and -X- _ O
+the -X- _ O
+Marlins -X- _ B-Name - Basic - Right
+beat -X- _ O
+the -X- _ O
+Washington -X- _ B-Name - Basic - Right
+Nationals -X- _ I-Name - Basic - Right
+2 -X- _ B-Number - Basic - Right
+- -X- _ O
+1 -X- _ B-Number - Basic - Right
+on -X- _ O
+Wednesday -X- _ B-Word - Basic - Wrong
+night -X- _ O
+. -X- _ O
+The -X- _ O
+Marlins -X- _ O
+won -X- _ O
+for -X- _ O
+the -X- _ O
+fourth -X- _ B-Number - Across - Wrong
+time -X- _ O
+in -X- _ O
+five -X- _ O
+games -X- _ O
+. -X- _ O
+Bryce -X- _ B-Name - Basic - Right
+Harper -X- _ I-Name - Basic - Right
+was -X- _ O
+hit -X- _ B-Word - Basic - Right
+by -X- _ I-Word - Basic - Right
+a -X- _ I-Word - Basic - Right
+pitch -X- _ I-Word - Basic - Right
+from -X- _ O
+Kyle -X- _ B-Name - Basic - Right
+Barraclough -X- _ I-Name - Basic - Right
+leading -X- _ B-Word - Within - Right
+off -X- _ I-Word - Within - Right
+the -X- _ O
+ninth -X- _ O
+and -X- _ O
+went -X- _ B-Context - Within - Right
+to -X- _ I-Context - Within - Right
+second -X- _ I-Context - Within - Right
+on -X- _ O
+Ryan -X- _ B-Name - Basic - Right
+Zimmerman -X- _ I-Name - Basic - Right
+'s -X- _ O
+single -X- _ B-Word - Basic - Right
+. -X- _ O
+After -X- _ B-Context - Within - Right
+Juan -X- _ I-Context - Within - Right
+Soto -X- _ I-Context - Within - Right
+grounded -X- _ B-Word - Basic - Right
+into -X- _ O
+a -X- _ O
+fielder -X- _ O
+'s -X- _ O
+choice -X- _ O
+, -X- _ O
+Murphy -X- _ B-Context - Within - Right
+lined -X- _ I-Context - Within - Right
+a -X- _ O
+single -X- _ B-Word - Basic - Right
+to -X- _ O
+right -X- _ O
+field -X- _ O
+to -X- _ O
+score -X- _ B-Word - Within - Right
+Harper -X- _ O
+. -X- _ O
+Sierra -X- _ B-Name - Basic - Right
+scored -X- _ O
+on -X- _ B-Context - Within - Right
+Realmuto -X- _ I-Context - Within - Right
+'s -X- _ I-Context - Within - Right
+single -X- _ B-Word - Basic - Right
+to -X- _ O
+left -X- _ O
+, -X- _ O
+but -X- _ O
+Realmuto -X- _ B-Context - Within - Wrong
+was -X- _ I-Context - Within - Wrong
+thrown -X- _ I-Context - Within - Wrong
+out -X- _ I-Context - Within - Wrong
+at -X- _ I-Context - Within - Wrong
+the -X- _ I-Context - Within - Wrong
+plate -X- _ I-Context - Within - Wrong
+to -X- _ O
+end -X- _ O
+the -X- _ O
+inning -X- _ O
+. -X- _ O
+Brett -X- _ B-Name - Basic - Right
+Graves -X- _ I-Name - Basic - Right
+( -X- _ O
+1 -X- _ B-Number - Basic - Right
+- -X- _ O
+1 -X- _ B-Number - Basic - Right
+) -X- _ O
+pitched -X- _ O
+a -X- _ O
+perfect -X- _ B-Word - Within - Right
+10th -X- _ O
+for -X- _ O
+the -X- _ O
+win -X- _ B-Word - Basic - Right
+. -X- _ O
+Ryan -X- _ B-Name - Basic - Right
+Madson -X- _ I-Name - Basic - Right
+pitched -X- _ O
+a -X- _ O
+perfect -X- _ B-Word - Within - Right
+ninth -X- _ O
+to -X- _ O
+complete -X- _ O
+the -X- _ O
+five -X- _ B-Word - Within - Wrong
+- -X- _ I-Word - Within - Wrong
+hitter -X- _ I-Word - Within - Wrong
+. -X- _ O
+Miguel -X- _ B-Name - Basic - Right
+Rojas -X- _ I-Name - Basic - Right
+hit -X- _ O
+a -X- _ O
+leadoff -X- _ B-Word - Within - Right
+single -X- _ B-Word - Basic - Right
+in -X- _ O
+the -X- _ O
+eighth -X- _ O
+, -X- _ O
+and -X- _ B-Context - Within - Right
+J. -X- _ I-Context - Within - Right
+T. -X- _ I-Context - Within - Right
+Realmuto -X- _ I-Context - Within - Right
+followed -X- _ I-Context - Within - Right
+with -X- _ O
+a -X- _ O
+single -X- _ B-Word - Basic - Wrong
+to -X- _ I-Word - Basic - Wrong
+center -X- _ I-Word - Basic - Wrong
+. -X- _ O
+Cameron -X- _ B-Name - Basic - Right
+Maybin -X- _ I-Name - Basic - Right
+then -X- _ B-Context - Within - Wrong
+grounded -X- _ B-Word - Basic - Right
+out -X- _ I-Word - Basic - Right
+to -X- _ O
+end -X- _ B-Word - Within - Right
+the -X- _ I-Word - Within - Right
+inning -X- _ I-Word - Within - Right
+. -X- _ O
+Adam -X- _ B-Name - Basic - Right
+Conley -X- _ I-Name - Basic - Right
+got -X- _ O
+two -X- _ B-Number - Basic - Right
+outs -X- _ O
+in -X- _ O
+the -X- _ O
+seventh -X- _ O
+, -X- _ O
+and -X- _ B-Context - Within - Wrong
+Adam -X- _ B-Name - Basic - Wrong
+Conley -X- _ I-Name - Basic - Wrong
+gave -X- _ O
+up -X- _ O
+a -X- _ O
+single -X- _ B-Word - Basic - Right
+to -X- _ O
+Miguel -X- _ B-Name - Basic - Right
+Rojas -X- _ I-Name - Basic - Right
+and -X- _ O
+a -X- _ O
+two -X- _ B-Word - Basic - Right
+- -X- _ I-Word - Basic - Right
+out -X- _ I-Word - Basic - Right
+walk -X- _ I-Word - Basic - Right
+to -X- _ O
+Starlin -X- _ B-Name - Basic - Right
+Castro -X- _ I-Name - Basic - Right
+. -X- _ O
+Brad -X- _ B-Name - Basic - Wrong
+Ziegler -X- _ I-Name - Basic - Wrong
+came -X- _ O
+on -X- _ O
+and -X- _ O
+got -X- _ O
+Cameron -X- _ B-Name - Basic - Right
+Maybin -X- _ I-Name - Basic - Right
+to -X- _ O
+ground -X- _ B-Word - Basic - Right
+out -X- _ I-Word - Basic - Right
+to -X- _ O
+end -X- _ O
+the -X- _ O
+inning -X- _ O
+. -X- _ O
+The -X- _ O
+Nationals -X- _ B-Context - Within - Wrong
+took -X- _ I-Context - Within - Wrong
+a -X- _ I-Context - Within - Wrong
+1 -X- _ I-Context - Within - Wrong
+- -X- _ I-Context - Within - Wrong
+0 -X- _ I-Context - Within - Wrong
+lead -X- _ I-Context - Within - Wrong
+in -X- _ I-Context - Within - Wrong
+the -X- _ I-Context - Within - Wrong
+first -X- _ I-Context - Within - Wrong
+when -X- _ I-Context - Within - Wrong
+Trea -X- _ I-Context - Within - Wrong
+Turner -X- _ I-Context - Within - Wrong
+led -X- _ I-Context - Within - Wrong
+off -X- _ I-Context - Within - Wrong
+with -X- _ I-Context - Within - Wrong
+a -X- _ I-Context - Within - Wrong
+single -X- _ I-Context - Within - Wrong
+, -X- _ I-Context - Within - Wrong
+stole -X- _ I-Context - Within - Wrong
+second -X- _ I-Context - Within - Wrong
+and -X- _ I-Context - Within - Wrong
+went -X- _ I-Context - Within - Wrong
+to -X- _ I-Context - Within - Wrong
+third -X- _ I-Context - Within - Wrong
+on -X- _ I-Context - Within - Wrong
+a -X- _ I-Context - Within - Wrong
+wild -X- _ I-Context - Within - Wrong
+pitch -X- _ I-Context - Within - Wrong
+. -X- _ O
+He -X- _ O
+stole -X- _ B-Context - Within - Wrong
+third -X- _ I-Context - Within - Wrong
+and -X- _ I-Context - Within - Wrong
+third -X- _ I-Context - Within - Wrong
+, -X- _ I-Context - Within - Wrong
+but -X- _ I-Context - Within - Wrong
+Richards -X- _ I-Context - Within - Wrong
+escaped -X- _ I-Context - Within - Wrong
+further -X- _ I-Context - Within - Wrong
+damage -X- _ I-Context - Within - Wrong
+by -X- _ I-Context - Within - Wrong
+striking -X- _ I-Context - Within - Wrong
+out -X- _ I-Context - Within - Wrong
+Ryan -X- _ I-Context - Within - Wrong
+Zimmerman -X- _ I-Context - Within - Wrong
+and -X- _ I-Context - Within - Wrong
+getting -X- _ I-Context - Within - Wrong
+Juan -X- _ I-Context - Within - Wrong
+Soto -X- _ I-Context - Within - Wrong
+to -X- _ I-Context - Within - Wrong
+ground -X- _ I-Context - Within - Wrong
+out -X- _ I-Context - Within - Wrong
+. -X- _ O
+The -X- _ O
+Nationals -X- _ B-Context - Within - Wrong
+threatened -X- _ I-Context - Within - Wrong
+in -X- _ I-Context - Within - Wrong
+the -X- _ I-Context - Within - Wrong
+fourth -X- _ I-Context - Within - Wrong
+when -X- _ I-Context - Within - Wrong
+Soto -X- _ I-Context - Within - Wrong
+led -X- _ I-Context - Within - Wrong
+off -X- _ I-Context - Within - Wrong
+with -X- _ I-Context - Within - Wrong
+a -X- _ I-Context - Within - Wrong
+single -X- _ I-Context - Within - Wrong
+, -X- _ I-Context - Within - Wrong
+stole -X- _ I-Context - Within - Wrong
+second -X- _ I-Context - Within - Wrong
+and -X- _ I-Context - Within - Wrong
+went -X- _ I-Context - Within - Wrong
+to -X- _ I-Context - Within - Wrong
+third -X- _ I-Context - Within - Wrong
+on -X- _ I-Context - Within - Wrong
+a -X- _ I-Context - Within - Wrong
+wild -X- _ I-Context - Within - Wrong
+pitch -X- _ I-Context - Within - Wrong
+. -X- _ O
+Richards -X- _ B-Context - Basic - Wrong
+struck -X- _ I-Context - Basic - Wrong
+out -X- _ I-Context - Basic - Wrong
+Ryan -X- _ I-Context - Basic - Wrong
+Zimmerman -X- _ I-Context - Basic - Wrong
+and -X- _ I-Context - Basic - Wrong
+got -X- _ I-Context - Basic - Wrong
+Juan -X- _ I-Context - Basic - Wrong
+Soto -X- _ I-Context - Basic - Wrong
+to -X- _ I-Context - Basic - Wrong
+ground -X- _ I-Context - Basic - Wrong
+out -X- _ I-Context - Basic - Wrong
+to -X- _ O
+end -X- _ B-Context - Within - Wrong
+the -X- _ I-Context - Within - Wrong
+inning -X- _ I-Context - Within - Wrong
+. -X- _ O
+In -X- _ O
+the -X- _ O
+fifth -X- _ O
+, -X- _ O
+Richards -X- _ B-Name - Basic - Right
+struck -X- _ B-Word - Basic - Right
+out -X- _ I-Word - Basic - Right
+Michael -X- _ B-Name - Basic - Right
+A. -X- _ I-Name - Basic - Right
+Taylor -X- _ I-Name - Basic - Right
+and -X- _ I-Name - Basic - Right
+Matt -X- _ I-Name - Basic - Right
+Wieters -X- _ I-Name - Basic - Right
+to -X- _ O
+end -X- _ B-Word - Within - Right
+the -X- _ I-Word - Within - Right
+inning -X- _ I-Word - Within - Right
+. -X- _ O
+Richards -X- _ B-Name - Basic - Right
+struck -X- _ B-Word - Basic - Right
+out -X- _ I-Word - Basic - Right
+Michael -X- _ B-Name - Basic - Right
+A. -X- _ I-Name - Basic - Right
+Taylor -X- _ I-Name - Basic - Right
+to -X- _ O
+end -X- _ B-Context - Within - Wrong
+the -X- _ I-Context - Within - Wrong
+fifth -X- _ I-Context - Within - Wrong
+with -X- _ O
+a -X- _ O
+runner -X- _ B-Context - Within - Wrong
+on -X- _ I-Context - Within - Wrong
+second -X- _ I-Context - Within - Wrong
+to -X- _ O
+end -X- _ B-Context - Within - Wrong
+the -X- _ I-Context - Within - Wrong
+inning -X- _ I-Context - Within - Wrong
+. -X- _ O
+Richards -X- _ O
+retired -X- _ B-Context - Within - Wrong
+the -X- _ I-Context - Within - Wrong
+first -X- _ I-Context - Within - Wrong
+10 -X- _ I-Context - Within - Wrong
+batters -X- _ I-Context - Within - Wrong
+he -X- _ O
+faced -X- _ O
+before -X- _ O
+Starlin -X- _ O
+Castro -X- _ O
+singled -X- _ O
+with -X- _ O
+one -X- _ O
+out -X- _ O
+in -X- _ O
+the -X- _ O
+sixth -X- _ O
+. -X- _ O
+He -X- _ B-Context - Within - Right
+was -X- _ I-Context - Within - Right
+replaced -X- _ I-Context - Within - Right
+by -X- _ I-Context - Within - Right
+Adam -X- _ I-Context - Within - Right
+Conley -X- _ I-Context - Within - Right
+, -X- _ O
+who -X- _ O
+retired -X- _ O
+the -X- _ O
+next -X- _ O
+two -X- _ B-Number - Within - Wrong
+batters -X- _ O
+. -X- _ O
+
+CINCINNATI -X- _ B-Name - Basic - Right
+-- -X- _ O
+Reds -X- _ B-NC - Within - Right
+manager -X- _ I-NC - Within - Right
+Dusty -X- _ I-NC - Within - Right
+Baker -X- _ I-NC - Within - Right
+knew -X- _ I-NC - Within - Right
+it -X- _ I-NC - Within - Right
+was -X- _ I-NC - Within - Right
+gone -X- _ I-NC - Within - Right
+. -X- _ O
+Joey -X- _ B-Name - Basic - Right
+Votto -X- _ I-Name - Basic - Right
+had -X- _ O
+three -X- _ B-Number - Basic - Right
+hits -X- _ O
+, -X- _ O
+including -X- _ O
+a -X- _ O
+tiebreaking -X- _ B-Word - Within - Wrong
+RBI -X- _ O
+single -X- _ O
+in -X- _ O
+the -X- _ O
+eighth -X- _ O
+inning -X- _ O
+that -X- _ O
+sent -X- _ O
+the -X- _ O
+Reds -X- _ B-Name - Basic - Right
+to -X- _ O
+a -X- _ O
+6 -X- _ B-Number - Basic - Right
+- -X- _ O
+2 -X- _ B-Number - Basic - Right
+victory -X- _ B-Word - Within - Right
+over -X- _ O
+the -X- _ O
+Philadelphia -X- _ B-Name - Basic - Right
+Phillies -X- _ I-Name - Basic - Right
+on -X- _ O
+Wednesday -X- _ B-Word - Basic - Wrong
+night -X- _ O
+. -X- _ O
+The -X- _ O
+Reds -X- _ O
+won -X- _ O
+for -X- _ O
+the -X- _ O
+fourth -X- _ B-Number - Across - Wrong
+time -X- _ O
+in -X- _ O
+five -X- _ O
+games -X- _ O
+. -X- _ O
+Joey -X- _ B-Name - Basic - Right
+Votto -X- _ I-Name - Basic - Right
+had -X- _ O
+three -X- _ B-Number - Basic - Right
+hits -X- _ O
+, -X- _ O
+including -X- _ O
+a -X- _ O
+two -X- _ B-Number - Basic - Wrong
+- -X- _ O
+run -X- _ O
+single -X- _ O
+in -X- _ O
+the -X- _ O
+sixth -X- _ O
+inning -X- _ O
+off -X- _ O
+Tommy -X- _ B-Name - Basic - Right
+Hunter -X- _ I-Name - Basic - Right
+( -X- _ O
+2 -X- _ B-Number - Basic - Right
+- -X- _ O
+1 -X- _ B-Number - Basic - Right
+) -X- _ O
+. -X- _ O
+Wandy -X- _ B-Name - Basic - Right
+Peralta -X- _ I-Name - Basic - Right
+( -X- _ O
+2 -X- _ B-Name - Basic - Right
+- -X- _ O
+2 -X- _ B-Name - Basic - Right
+) -X- _ O
+got -X- _ O
+the -X- _ O
+win -X- _ O
+with -X- _ O
+1 -X- _ B-Number - Basic - Right
+1/3 -X- _ I-Number - Basic - Right
+innings -X- _ O
+of -X- _ O
+scoreless -X- _ B-Number - Basic - Right
+relief -X- _ O
+. -X- _ O
+Sal -X- _ B-Name - Basic - Right
+Romano -X- _ I-Name - Basic - Right
+got -X- _ O
+the -X- _ O
+last -X- _ B-Number - Within - Right
+two -X- _ I-Number - Within - Right
+outs -X- _ O
+of -X- _ O
+the -X- _ O
+seventh -X- _ O
+, -X- _ O
+and -X- _ B-Context - Within - Wrong
+Sal -X- _ I-Context - Within - Wrong
+Romano -X- _ I-Context - Within - Wrong
+got -X- _ I-Context - Within - Wrong
+the -X- _ I-Context - Within - Wrong
+final -X- _ I-Context - Within - Wrong
+two -X- _ I-Context - Within - Wrong
+outs -X- _ I-Context - Within - Wrong
+of -X- _ I-Context - Within - Wrong
+the -X- _ I-Context - Within - Wrong
+inning -X- _ I-Context - Within - Wrong
+. -X- _ O
+Jared -X- _ B-Name - Basic - Right
+Hughes -X- _ I-Name - Basic - Right
+got -X- _ O
+the -X- _ O
+last -X- _ B-Number - Within - Right
+five -X- _ I-Number - Within - Right
+outs -X- _ O
+for -X- _ O
+his -X- _ O
+seventh -X- _ B-Number - Basic - Right
+save -X- _ O
+in -X- _ O
+eight -X- _ B-Number - Across - Wrong
+chances -X- _ O
+, -X- _ O
+completing -X- _ B-Context - Within - Wrong
+the -X- _ I-Context - Within - Wrong
+four -X- _ I-Context - Within - Wrong
+- -X- _ I-Context - Within - Wrong
+hitter -X- _ I-Context - Within - Wrong
+. -X- _ O
+Hughes -X- _ B-Context - Within - Wrong
+gave -X- _ I-Context - Within - Wrong
+up -X- _ I-Context - Within - Wrong
+a -X- _ I-Context - Within - Wrong
+one -X- _ I-Context - Within - Wrong
+- -X- _ I-Context - Within - Wrong
+out -X- _ I-Context - Within - Wrong
+single -X- _ I-Context - Within - Wrong
+to -X- _ I-Context - Within - Wrong
+Cesar -X- _ I-Context - Within - Wrong
+Hernandez -X- _ I-Context - Within - Wrong
+in -X- _ I-Context - Within - Wrong
+the -X- _ I-Context - Within - Wrong
+eighth -X- _ I-Context - Within - Wrong
+before -X- _ I-Context - Within - Wrong
+retiring -X- _ I-Context - Within - Wrong
+Asdrubal -X- _ I-Context - Within - Wrong
+Cabrera -X- _ I-Context - Within - Wrong
+on -X- _ I-Context - Within - Wrong
+a -X- _ I-Context - Within - Wrong
+double-play -X- _ I-Context - Within - Wrong
+grounder -X- _ I-Context - Within - Wrong
+. -X- _ O
+Jared -X- _ B-Name - Basic - Right
+Hughes -X- _ I-Name - Basic - Right
+got -X- _ O
+the -X- _ O
+last -X- _ B-Number - Within - Right
+five -X- _ I-Number - Within - Right
+outs -X- _ O
+for -X- _ O
+his -X- _ O
+seventh -X- _ B-Number - Basic - Right
+save -X- _ O
+in -X- _ O
+eight -X- _ B-Number - Across - Wrong
+chances -X- _ O
+, -X- _ O
+getting -X- _ O
+Asdrubal -X- _ B-Name - Basic - Right
+Cabrera -X- _ I-Name - Basic - Right
+to -X- _ O
+ground -X- _ B-Word - Basic - Wrong
+into -X- _ O
+a -X- _ O
+game-ending -X- _ B-Word - Within - Wrong
+double -X- _ O
+play -X- _ O
+. -X- _ O
+Hoskins -X- _ B-Name - Basic - Right
+hit -X- _ O
+a -X- _ O
+two -X- _ B-Number - Basic - Right
+- -X- _ O
+run -X- _ O
+homer -X- _ O
+in -X- _ O
+the -X- _ O
+first -X- _ B-Number - Basic - Wrong
+inning -X- _ O
+off -X- _ O
+Matt -X- _ B-Name - Basic - Right
+Harvey -X- _ I-Name - Basic - Right
+, -X- _ O
+who -X- _ O
+gave -X- _ O
+up -X- _ O
+two -X- _ B-Number - Basic - Right
+runs -X- _ O
+and -X- _ O
+six -X- _ B-Number - Basic - Wrong
+hits -X- _ O
+in -X- _ O
+five -X- _ B-Number - Basic - Right
+innings -X- _ O
+. -X- _ O
+The -X- _ O
+Reds -X- _ B-Name - Basic - Right
+took -X- _ O
+a -X- _ O
+1 -X- _ B-Number - Basic - Right
+- -X- _ O
+0 -X- _ B-Number - Basic - Right
+lead -X- _ B-Word - Within - Right
+in -X- _ O
+the -X- _ O
+second -X- _ O
+on -X- _ O
+Tucker -X- _ B-Name - Basic - Right
+Barnhart -X- _ I-Name - Basic - Right
+'s -X- _ O
+RBI -X- _ O
+double -X- _ B-Number - Basic - Right
+, -X- _ O
+but -X- _ B-Context - Within - Wrong
+the -X- _ I-Context - Within - Wrong
+Reds -X- _ I-Context - Within - Wrong
+tied -X- _ I-Context - Within - Wrong
+it -X- _ I-Context - Within - Wrong
+in -X- _ I-Context - Within - Wrong
+the -X- _ I-Context - Within - Wrong
+bottom -X- _ I-Context - Within - Wrong
+of -X- _ I-Context - Within - Wrong
+the -X- _ I-Context - Within - Wrong
+inning -X- _ I-Context - Within - Wrong
+on -X- _ I-Context - Within - Wrong
+Tucker -X- _ I-Context - Within - Wrong
+Barnhart -X- _ I-Context - Within - Wrong
+'s -X- _ I-Context - Within - Wrong
+RBI -X- _ I-Context - Within - Wrong
+double -X- _ I-Context - Within - Wrong
+. -X- _ O
+The -X- _ O
+Reds -X- _ B-Context - Within - Wrong
+tied -X- _ I-Context - Within - Wrong
+it -X- _ I-Context - Within - Wrong
+in -X- _ I-Context - Within - Wrong
+the -X- _ I-Context - Within - Wrong
+third -X- _ I-Context - Within - Wrong
+when -X- _ O
+Votto -X- _ B-Name - Basic - Right
+drew -X- _ O
+a -X- _ O
+one -X- _ B-Word - Basic - Right
+- -X- _ I-Word - Basic - Right
+out -X- _ I-Word - Basic - Right
+walk -X- _ I-Word - Basic - Right
+, -X- _ O
+advanced -X- _ O
+on -X- _ O
+Harvey -X- _ B-Context - Within - Wrong
+'s -X- _ I-Context - Within - Wrong
+sacrifice -X- _ I-Context - Within - Wrong
+and -X- _ I-Context - Within - Wrong
+scored -X- _ I-Context - Within - Wrong
+on -X- _ I-Context - Within - Wrong
+Eugenio -X- _ I-Context - Within - Wrong
+Suarez -X- _ I-Context - Within - Wrong
+'s -X- _ I-Context - Within - Wrong
+groundout -X- _ I-Context - Within - Wrong
+. -X- _ O
+The -X- _ O
+Reds -X- _ O
+tied -X- _ B-Word - Within - Right
+it -X- _ O
+in -X- _ O
+the -X- _ O
+fourth -X- _ O
+. -X- _ O
+Adam -X- _ B-Name - Basic - Right
+Duvall -X- _ I-Name - Basic - Right
+walked -X- _ O
+with -X- _ O
+one -X- _ B-Word - Basic - Right
+out -X- _ I-Word - Basic - Right
+and -X- _ O
+advanced -X- _ B-Context - Within - Right
+to -X- _ I-Context - Within - Right
+second -X- _ I-Context - Within - Right
+on -X- _ I-Context - Within - Right
+Harvey -X- _ I-Context - Within - Right
+'s -X- _ I-Context - Within - Right
+sacrifice -X- _ I-Context - Within - Right
+bunt -X- _ I-Context - Within - Right
+. -X- _ O
+After -X- _ B-Context - Within - Right
+Harvey -X- _ I-Context - Within - Right
+sacrificed -X- _ I-Context - Within - Right
+him -X- _ I-Context - Within - Right
+to -X- _ I-Context - Within - Right
+second -X- _ I-Context - Within - Right
+, -X- _ O
+Billy -X- _ O
+Hamilton -X- _ O
+hit -X- _ O
+an -X- _ O
+RBI -X- _ B-Word - Basic - Right
+single -X- _ I-Word - Basic - Right
+. -X- _ O
+Philadelphia -X- _ O
+tied -X- _ B-Context - Within - Wrong
+it -X- _ I-Context - Within - Wrong
+in -X- _ I-Context - Within - Wrong
+the -X- _ I-Context - Within - Wrong
+fifth -X- _ I-Context - Within - Wrong
+when -X- _ O
+Franco -X- _ O
+led -X- _ B-Word - Within - Right
+off -X- _ I-Word - Within - Right
+with -X- _ O
+a -X- _ O
+double -X- _ B-Number - Basic - Right
+and -X- _ B-Context - Within - Right
+advanced -X- _ I-Context - Within - Right
+to -X- _ I-Context - Within - Right
+third -X- _ I-Context - Within - Right
+on -X- _ I-Context - Within - Right
+a -X- _ I-Context - Within - Right
+groundout -X- _ I-Context - Within - Right
+by -X- _ I-Context - Within - Right
+Andrew -X- _ I-Context - Within - Right
+Knapp -X- _ I-Context - Within - Right
+. -X- _ O
+Velasquez -X- _ O
+struck -X- _ O
+out -X- _ O
+Adam -X- _ B-Name - Within - Right
+Duvall -X- _ I-Name - Within - Right
+and -X- _ I-Name - Within - Right
+Dilson -X- _ I-Name - Within - Right
+Herrera -X- _ I-Name - Within - Right
+to -X- _ O
+end -X- _ B-Context - Within - Wrong
+the -X- _ I-Context - Within - Wrong
+threat -X- _ I-Context - Within - Wrong
+. -X- _ O
+
+ST. -X- _ B-Name - Basic - Right
+LOUIS -X- _ I-Name - Basic - Right
+-- -X- _ O
+St. -X- _ B-NC - Within - Wrong
+Louis -X- _ I-NC - Within - Wrong
+Cardinals -X- _ I-NC - Within - Wrong
+manager -X- _ I-NC - Within - Wrong
+Mike -X- _ I-NC - Within - Wrong
+Matheny -X- _ I-NC - Within - Wrong
+was -X- _ I-NC - Within - Wrong
+pleased -X- _ I-NC - Within - Wrong
+with -X- _ I-NC - Within - Wrong
+his -X- _ I-NC - Within - Wrong
+team -X- _ I-NC - Within - Wrong
+'s -X- _ I-NC - Within - Wrong
+performance -X- _ I-NC - Within - Wrong
+. -X- _ O
+Matt -X- _ B-Name - Basic - Right
+Carpenter -X- _ I-Name - Basic - Right
+led -X- _ B-Word - Within - Right
+off -X- _ I-Word - Within - Right
+the -X- _ O
+bottom -X- _ B-Word - Basic - Right
+of -X- _ I-Word - Basic - Right
+the -X- _ I-Word - Basic - Right
+ninth -X- _ I-Word - Basic - Right
+with -X- _ O
+a -X- _ O
+home -X- _ B-Word - Basic - Right
+run -X- _ I-Word - Basic - Right
+and -X- _ O
+the -X- _ O
+Cardinals -X- _ B-Name - Basic - Right
+beat -X- _ B-Word - Within - Right
+the -X- _ O
+Chicago -X- _ B-Name - Basic - Right
+White -X- _ I-Name - Basic - Right
+Sox -X- _ I-Name - Basic - Right
+3 -X- _ B-Number - Basic - Right
+- -X- _ O
+2 -X- _ B-Number - Basic - Right
+on -X- _ O
+Tuesday -X- _ B-Word - Basic - Right
+night -X- _ O
+. -X- _ O
+St. -X- _ O
+Louis -X- _ O
+has -X- _ O
+won -X- _ O
+seven -X- _ B-Number - Across - Wrong
+of -X- _ O
+its -X- _ O
+last -X- _ O
+eight -X- _ O
+games -X- _ O
+. -X- _ O
+Nicky -X- _ B-Name - Basic - Right
+Delmonico -X- _ I-Name - Basic - Right
+singled -X- _ B-Word - Basic - Right
+with -X- _ O
+one -X- _ B-Number - Basic - Right
+out -X- _ O
+in -X- _ O
+the -X- _ O
+eighth -X- _ O
+against -X- _ O
+Dominic -X- _ B-Name - Basic - Right
+Leone -X- _ I-Name - Basic - Right
+and -X- _ O
+moved -X- _ B-Context - Within - Wrong
+to -X- _ I-Context - Within - Wrong
+second -X- _ I-Context - Within - Wrong
+on -X- _ I-Context - Within - Wrong
+Nicky -X- _ I-Context - Within - Wrong
+Delmonico -X- _ I-Context - Within - Wrong
+'s -X- _ I-Context - Within - Wrong
+sacrifice -X- _ I-Context - Within - Wrong
+bunt -X- _ I-Context - Within - Wrong
+. -X- _ O
+Welington -X- _ B-Context - Within - Right
+Castillo -X- _ I-Context - Within - Right
+struck -X- _ I-Context - Within - Right
+out -X- _ I-Context - Within - Right
+and -X- _ I-Context - Within - Right
+Trayce -X- _ I-Context - Within - Right
+Thompson -X- _ I-Context - Within - Right
+struck -X- _ I-Context - Within - Right
+out -X- _ I-Context - Within - Right
+to -X- _ I-Context - Within - Right
+end -X- _ I-Context - Within - Right
+the -X- _ I-Context - Within - Right
+inning -X- _ I-Context - Within - Right
+. -X- _ O
+Bud -X- _ B-Name - Basic - Right
+Norris -X- _ I-Name - Basic - Right
+( -X- _ O
+1 -X- _ B-Number - Basic - Right
+- -X- _ O
+0 -X- _ B-Number - Basic - Right
+) -X- _ O
+worked -X- _ O
+a -X- _ O
+perfect -X- _ B-Word - Within - Right
+ninth -X- _ I-Word - Within - Right
+for -X- _ O
+the -X- _ O
+win -X- _ B-Word - Basic - Right
+. -X- _ O
+Nate -X- _ O
+Jones -X- _ O
+worked -X- _ O
+the -X- _ O
+eighth -X- _ B-Number - Basic - Right
+and -X- _ O
+Nate -X- _ B-Other - Basic - Wrong
+Jones -X- _ I-Other - Basic - Wrong
+worked -X- _ I-Other - Basic - Wrong
+the -X- _ I-Other - Basic - Wrong
+ninth -X- _ I-Other - Basic - Wrong
+. -X- _ O
+Tommy -X- _ B-Name - Basic - Right
+Pham -X- _ I-Name - Basic - Right
+hit -X- _ O
+a -X- _ O
+leadoff -X- _ B-Word - Within - Right
+homer -X- _ B-Word - Basic - Right
+in -X- _ O
+the -X- _ O
+first -X- _ O
+for -X- _ O
+the -X- _ O
+Cardinals -X- _ B-Name - Basic - Right
+, -X- _ O
+who -X- _ O
+have -X- _ O
+lost -X- _ O
+five -X- _ B-Number - Across - Wrong
+of -X- _ O
+six -X- _ O
+. -X- _ O
+Shields -X- _ B-Name - Basic - Right
+, -X- _ O
+who -X- _ O
+was -X- _ O
+making -X- _ B-NC - Across - Wrong
+his -X- _ I-NC - Across - Wrong
+second -X- _ I-NC - Across - Wrong
+start -X- _ I-NC - Across - Wrong
+since -X- _ I-NC - Across - Wrong
+coming -X- _ I-NC - Across - Wrong
+off -X- _ I-NC - Across - Wrong
+the -X- _ I-NC - Across - Wrong
+disabled -X- _ I-NC - Across - Wrong
+list -X- _ I-NC - Across - Wrong
+, -X- _ O
+allowed -X- _ O
+one -X- _ B-Number - Basic - Right
+run -X- _ O
+and -X- _ O
+two -X- _ B-Number - Basic - Right
+hits -X- _ O
+in -X- _ O
+six -X- _ B-Number - Basic - Right
+innings -X- _ O
+. -X- _ O
+He -X- _ O
+struck -X- _ O
+out -X- _ O
+four -X- _ B-Number - Basic - Right
+and -X- _ O
+walked -X- _ O
+none -X- _ B-Number - Basic - Right
+. -X- _ O
+Tommy -X- _ B-Name - Basic - Right
+Pham -X- _ I-Name - Basic - Right
+hit -X- _ O
+a -X- _ O
+leadoff -X- _ B-Word - Within - Right
+homer -X- _ B-Word - Basic - Right
+in -X- _ O
+the -X- _ O
+first -X- _ O
+for -X- _ O
+the -X- _ O
+Cardinals -X- _ B-Name - Basic - Right
+, -X- _ O
+who -X- _ O
+have -X- _ O
+lost -X- _ O
+five -X- _ B-Number - Across - Wrong
+of -X- _ O
+six -X- _ O
+. -X- _ O
+Shields -X- _ O
+, -X- _ O
+who -X- _ O
+was -X- _ O
+making -X- _ B-NC - Across - Wrong
+his -X- _ I-NC - Across - Wrong
+second -X- _ I-NC - Across - Wrong
+start -X- _ I-NC - Across - Wrong
+since -X- _ I-NC - Across - Wrong
+coming -X- _ I-NC - Across - Wrong
+off -X- _ I-NC - Across - Wrong
+the -X- _ I-NC - Across - Wrong
+disabled -X- _ I-NC - Across - Wrong
+list -X- _ I-NC - Across - Wrong
+, -X- _ O
+allowed -X- _ O
+one -X- _ B-Number - Basic - Right
+run -X- _ O
+and -X- _ O
+two -X- _ B-Number - Basic - Right
+hits -X- _ O
+in -X- _ O
+six -X- _ B-Number - Basic - Right
+innings -X- _ O
+. -X- _ O
+He -X- _ O
+struck -X- _ O
+out -X- _ O
+four -X- _ B-Number - Basic - Right
+and -X- _ O
+walked -X- _ O
+none -X- _ B-Number - Basic - Right
+. -X- _ O
+The -X- _ O
+White -X- _ B-Name - Basic - Right
+Sox -X- _ I-Name - Basic - Right
+took -X- _ O
+a -X- _ O
+2 -X- _ B-Number - Basic - Right
+- -X- _ O
+1 -X- _ B-Number - Basic - Right
+lead -X- _ B-Word - Within - Right
+in -X- _ O
+the -X- _ O
+fourth -X- _ O
+when -X- _ B-Context - Within - Right
+Trayce -X- _ B-Name - Basic - Right
+Thompson -X- _ I-Name - Basic - Right
+drew -X- _ O
+a -X- _ O
+one -X- _ B-Word - Basic - Right
+- -X- _ I-Word - Basic - Right
+out -X- _ I-Word - Basic - Right
+walk -X- _ I-Word - Basic - Right
+and -X- _ B-Context - Within - Right
+Adam -X- _ B-Name - Basic - Right
+Engel -X- _ I-Name - Basic - Right
+drew -X- _ O
+a -X- _ O
+one -X- _ B-Word - Basic - Right
+- -X- _ I-Word - Basic - Right
+out -X- _ I-Word - Basic - Right
+walk -X- _ I-Word - Basic - Right
+. -X- _ O
+After -X- _ B-Context - Within - Right
+Shields -X- _ I-Context - Within - Right
+struck -X- _ I-Context - Within - Right
+out -X- _ I-Context - Within - Right
+, -X- _ O
+Yoan -X- _ B-Name - Basic - Right
+Moncada -X- _ I-Name - Basic - Right
+hit -X- _ O
+a -X- _ O
+two -X- _ B-Number - Basic - Right
+- -X- _ O
+run -X- _ O
+double -X- _ O
+to -X- _ O
+right -X- _ B-NC - Basic - Wrong
+. -X- _ O
+The -X- _ O
+Cardinals -X- _ B-Context - Within - Wrong
+had -X- _ I-Context - Within - Wrong
+runners -X- _ I-Context - Within - Wrong
+on -X- _ I-Context - Within - Wrong
+second -X- _ I-Context - Within - Wrong
+and -X- _ I-Context - Within - Wrong
+third -X- _ I-Context - Within - Wrong
+with -X- _ O
+one -X- _ B-Number - Basic - Right
+out -X- _ O
+in -X- _ O
+the -X- _ O
+fourth -X- _ O
+, -X- _ O
+but -X- _ O
+Shields -X- _ B-Name - Basic - Right
+got -X- _ O
+Jose -X- _ B-Name - Basic - Wrong
+Martinez -X- _ I-Name - Basic - Wrong
+to -X- _ O
+ground -X- _ B-Word - Basic - Right
+out -X- _ O
+to -X- _ B-Context - Within - Right
+end -X- _ I-Context - Within - Right
+the -X- _ I-Context - Within - Right
+inning -X- _ I-Context - Within - Right
+. -X- _ O
+Luke -X- _ B-Name - Basic - Right
+Gregerson -X- _ I-Name - Basic - Right
+pitched -X- _ O
+a -X- _ O
+perfect -X- _ B-Word - Within - Right
+sixth -X- _ I-Word - Within - Right
+inning -X- _ O
+for -X- _ O
+St. -X- _ O
+Louis -X- _ O
+. -X- _ O
+The -X- _ O
+White -X- _ B-Context - Within - Wrong
+Sox -X- _ I-Context - Within - Wrong
+had -X- _ I-Context - Within - Wrong
+a -X- _ I-Context - Within - Wrong
+chance -X- _ I-Context - Within - Wrong
+to -X- _ I-Context - Within - Wrong
+tie -X- _ I-Context - Within - Wrong
+it -X- _ I-Context - Within - Wrong
+in -X- _ I-Context - Within - Wrong
+the -X- _ I-Context - Within - Wrong
+bottom -X- _ I-Context - Within - Wrong
+of -X- _ I-Context - Within - Wrong
+the -X- _ I-Context - Within - Wrong
+sixth -X- _ I-Context - Within - Wrong
+when -X- _ O
+Kolten -X- _ B-Other - Within - Wrong
+Wong -X- _ I-Other - Within - Wrong
+was -X- _ I-Other - Within - Wrong
+thrown -X- _ I-Other - Within - Wrong
+out -X- _ I-Other - Within - Wrong
+trying -X- _ I-Other - Within - Wrong
+to -X- _ I-Other - Within - Wrong
+stretch -X- _ I-Other - Within - Wrong
+a -X- _ I-Other - Within - Wrong
+single -X- _ I-Other - Within - Wrong
+into -X- _ I-Other - Within - Wrong
+a -X- _ I-Other - Within - Wrong
+double -X- _ I-Other - Within - Wrong
+. -X- _ O
+The -X- _ O
+White -X- _ B-Context - Within - Wrong
+Sox -X- _ I-Context - Within - Wrong
+had -X- _ I-Context - Within - Wrong
+runners -X- _ I-Context - Within - Wrong
+on -X- _ I-Context - Within - Wrong
+second -X- _ I-Context - Within - Wrong
+and -X- _ I-Context - Within - Wrong
+third -X- _ I-Context - Within - Wrong
+with -X- _ I-Context - Within - Wrong
+one -X- _ I-Context - Within - Wrong
+out -X- _ I-Context - Within - Wrong
+in -X- _ O
+the -X- _ O
+seventh -X- _ O
+, -X- _ O
+but -X- _ O
+Jordan -X- _ B-Context - Within - Wrong
+Hicks -X- _ I-Context - Within - Wrong
+retired -X- _ I-Context - Within - Wrong
+the -X- _ I-Context - Within - Wrong
+next -X- _ I-Context - Within - Wrong
+three -X- _ I-Context - Within - Wrong
+batters -X- _ I-Context - Within - Wrong
+. -X- _ O
+The -X- _ O
+White -X- _ B-Context - Within - Wrong
+Sox -X- _ I-Context - Within - Wrong
+had -X- _ I-Context - Within - Wrong
+runners -X- _ I-Context - Within - Wrong
+on -X- _ I-Context - Within - Wrong
+first -X- _ I-Context - Within - Wrong
+and -X- _ I-Context - Within - Wrong
+second -X- _ I-Context - Within - Wrong
+with -X- _ I-Context - Within - Wrong
+two -X- _ I-Context - Within - Wrong
+outs -X- _ I-Context - Within - Wrong
+in -X- _ O
+the -X- _ O
+third -X- _ O
+, -X- _ O
+but -X- _ O
+Jose -X- _ B-Context - Within - Wrong
+Abreu -X- _ I-Context - Within - Wrong
+lined -X- _ I-Context - Within - Wrong
+out -X- _ I-Context - Within - Wrong
+to -X- _ I-Context - Within - Wrong
+right -X- _ I-Context - Within - Wrong
+to -X- _ I-Context - Within - Wrong
+end -X- _ I-Context - Within - Wrong
+the -X- _ I-Context - Within - Wrong
+inning -X- _ I-Context - Within - Wrong
+. -X- _ O
+
+MILWAUKEE -X- _ B-Name - Basic - Right
+-- -X- _ O
+Kris -X- _ B-Context - Within - Wrong
+Bryant -X- _ I-Context - Within - Wrong
+and -X- _ O
+the -X- _ O
+Chicago -X- _ B-Name - Basic - Right
+Cubs -X- _ I-Name - Basic - Right
+got -X- _ O
+a -X- _ O
+big -X- _ O
+hit -X- _ O
+from -X- _ O
+Kris -X- _ B-Name - Basic - Wrong
+Bryant -X- _ I-Name - Basic - Wrong
+in -X- _ O
+the -X- _ O
+top -X- _ O
+of -X- _ O
+the -X- _ O
+ninth -X- _ O
+inning -X- _ O
+. -X- _ O
+What -X- _ B-Context - Within - Right
+happened -X- _ I-Context - Within - Right
+next -X- _ I-Context - Within - Right
+was -X- _ I-Context - Within - Right
+. -X- _ O
+Ian -X- _ B-Name - Basic - Right
+Happ -X- _ I-Name - Basic - Right
+hit -X- _ O
+a -X- _ O
+go-ahead -X- _ O
+, -X- _ O
+two -X- _ B-Number - Basic - Right
+- -X- _ O
+run -X- _ O
+single -X- _ O
+in -X- _ O
+a -X- _ O
+four -X- _ B-Number - Basic - Right
+- -X- _ O
+run -X- _ O
+ninth -X- _ O
+inning -X- _ O
+, -X- _ O
+and -X- _ O
+the -X- _ O
+Cubs -X- _ B-Name - Basic - Right
+beat -X- _ B-Word - Within - Right
+the -X- _ O
+Milwaukee -X- _ B-Name - Basic - Right
+Brewers -X- _ I-Name - Basic - Right
+5 -X- _ B-Number - Basic - Right
+- -X- _ O
+2 -X- _ B-Number - Basic - Right
+on -X- _ O
+Tuesday -X- _ B-Word - Basic - Wrong
+night -X- _ O
+. -X- _ O
+Brandon -X- _ B-Name - Basic - Right
+Morrow -X- _ I-Name - Basic - Right
+pitched -X- _ O
+a -X- _ O
+scoreless -X- _ B-Word - Within - Right
+ninth -X- _ O
+for -X- _ O
+his -X- _ O
+first -X- _ B-Number - Basic - Right
+save -X- _ O
+of -X- _ O
+the -X- _ O
+season -X- _ O
+. -X- _ O
+Eric -X- _ B-Context - Within - Wrong
+Sogard -X- _ I-Context - Within - Wrong
+, -X- _ I-Context - Within - Wrong
+pinch-hitting -X- _ I-Context - Within - Wrong
+for -X- _ I-Context - Within - Wrong
+Pedro -X- _ I-Context - Within - Wrong
+Strop -X- _ I-Context - Within - Wrong
+( -X- _ O
+2 -X- _ B-Number - Basic - Right
+- -X- _ O
+0 -X- _ B-Number - Basic - Right
+) -X- _ O
+, -X- _ O
+was -X- _ O
+hit -X- _ B-Context - Within - Wrong
+by -X- _ I-Context - Within - Wrong
+a -X- _ I-Context - Within - Wrong
+pitch -X- _ I-Context - Within - Wrong
+from -X- _ I-Context - Within - Wrong
+Steve -X- _ I-Context - Within - Wrong
+Cishek -X- _ I-Context - Within - Wrong
+with -X- _ O
+one -X- _ B-Number - Basic - Right
+out -X- _ O
+in -X- _ O
+the -X- _ O
+bottom -X- _ B-Word - Basic - Wrong
+of -X- _ O
+the -X- _ O
+inning -X- _ O
+. -X- _ O
+Eric -X- _ B-Context - Within - Wrong
+Sogard -X- _ I-Context - Within - Wrong
+followed -X- _ I-Context - Within - Wrong
+with -X- _ O
+a -X- _ O
+bloop -X- _ O
+double -X- _ B-Number - Basic - Right
+down -X- _ B-NC - Within - Wrong
+the -X- _ I-NC - Within - Wrong
+right-field -X- _ I-NC - Within - Wrong
+line -X- _ I-NC - Within - Wrong
+, -X- _ O
+and -X- _ O
+Lorenzo -X- _ B-Context - Within - Right
+Cain -X- _ I-Context - Within - Right
+followed -X- _ I-Context - Within - Right
+with -X- _ O
+a -X- _ O
+sacrifice -X- _ B-Word - Basic - Right
+fly -X- _ I-Word - Basic - Right
+to -X- _ O
+make -X- _ O
+it -X- _ O
+2 -X- _ B-Number - Basic - Right
+- -X- _ O
+1 -X- _ B-Number - Basic - Right
+. -X- _ O
+Albert -X- _ B-Context - Within - Wrong
+Almora -X- _ I-Context - Within - Wrong
+Jr. -X- _ I-Context - Within - Wrong
+struck -X- _ I-Context - Within - Wrong
+out -X- _ I-Context - Within - Wrong
+to -X- _ I-Context - Within - Wrong
+end -X- _ I-Context - Within - Wrong
+the -X- _ I-Context - Within - Wrong
+inning -X- _ I-Context - Within - Wrong
+, -X- _ O
+and -X- _ O
+Brandon -X- _ B-Context - Within - Right
+Morrow -X- _ I-Context - Within - Right
+pitched -X- _ I-Context - Within - Right
+a -X- _ I-Context - Within - Right
+scoreless -X- _ I-Context - Within - Right
+ninth -X- _ I-Context - Within - Right
+for -X- _ O
+his -X- _ O
+first -X- _ B-Number - Basic - Right
+save -X- _ O
+. -X- _ O
+Kris -X- _ O
+Bryant -X- _ O
+hit -X- _ O
+a -X- _ O
+solo -X- _ O
+homer -X- _ O
+in -X- _ O
+the -X- _ O
+first -X- _ B-Number - Basic - Wrong
+inning -X- _ O
+for -X- _ O
+the -X- _ O
+Cubs -X- _ O
+, -X- _ O
+who -X- _ O
+have -X- _ O
+lost -X- _ O
+five -X- _ B-Number - Across - Wrong
+of -X- _ O
+six -X- _ O
+. -X- _ O
+Darvish -X- _ B-Context - Within - Wrong
+struck -X- _ I-Context - Within - Wrong
+out -X- _ I-Context - Within - Wrong
+the -X- _ I-Context - Within - Wrong
+side -X- _ I-Context - Within - Wrong
+in -X- _ O
+the -X- _ O
+first -X- _ O
+inning -X- _ O
+, -X- _ O
+then -X- _ B-Context - Within - Wrong
+struck -X- _ I-Context - Within - Wrong
+out -X- _ I-Context - Within - Wrong
+the -X- _ I-Context - Within - Wrong
+side -X- _ I-Context - Within - Wrong
+in -X- _ O
+the -X- _ O
+third -X- _ O
+. -X- _ O
+He -X- _ B-Context - Within - Wrong
+struck -X- _ I-Context - Within - Wrong
+out -X- _ I-Context - Within - Wrong
+the -X- _ I-Context - Within - Wrong
+side -X- _ I-Context - Within - Wrong
+in -X- _ I-Context - Within - Wrong
+the -X- _ I-Context - Within - Wrong
+fourth -X- _ I-Context - Within - Wrong
+. -X- _ O
+Darvish -X- _ B-Context - Within - Wrong
+struck -X- _ I-Context - Within - Wrong
+out -X- _ I-Context - Within - Wrong
+the -X- _ I-Context - Within - Wrong
+side -X- _ I-Context - Within - Wrong
+in -X- _ I-Context - Within - Wrong
+the -X- _ I-Context - Within - Wrong
+third -X- _ I-Context - Within - Wrong
+, -X- _ O
+but -X- _ O
+he -X- _ B-Context - Within - Wrong
+was -X- _ I-Context - Within - Wrong
+able -X- _ I-Context - Within - Wrong
+to -X- _ I-Context - Within - Wrong
+get -X- _ I-Context - Within - Wrong
+out -X- _ I-Context - Within - Wrong
+of -X- _ I-Context - Within - Wrong
+the -X- _ I-Context - Within - Wrong
+inning -X- _ I-Context - Within - Wrong
+when -X- _ I-Context - Within - Wrong
+he -X- _ I-Context - Within - Wrong
+struck -X- _ I-Context - Within - Wrong
+out -X- _ I-Context - Within - Wrong
+Kyle -X- _ I-Context - Within - Wrong
+Schwarber -X- _ I-Context - Within - Wrong
+and -X- _ I-Context - Within - Wrong
+got -X- _ I-Context - Within - Wrong
+Jonathan -X- _ I-Context - Within - Wrong
+Villar -X- _ I-Context - Within - Wrong
+to -X- _ O
+fly -X- _ O
+out -X- _ O
+. -X- _ O
+Darvish -X- _ B-Context - Within - Right
+struck -X- _ I-Context - Within - Right
+out -X- _ I-Context - Within - Right
+the -X- _ I-Context - Within - Right
+side -X- _ I-Context - Within - Right
+in -X- _ I-Context - Within - Right
+the -X- _ I-Context - Within - Right
+fifth -X- _ I-Context - Within - Right
+. -X- _ O
+He -X- _ O
+struck -X- _ B-Context - Within - Wrong
+out -X- _ I-Context - Within - Wrong
+Orlando -X- _ I-Context - Within - Wrong
+Arcia -X- _ I-Context - Within - Wrong
+to -X- _ I-Context - Within - Wrong
+end -X- _ I-Context - Within - Wrong
+the -X- _ I-Context - Within - Wrong
+inning -X- _ I-Context - Within - Wrong
+, -X- _ O
+then -X- _ O
+struck -X- _ O
+out -X- _ O
+Jett -X- _ B-Name - Basic - Wrong
+Bandy -X- _ I-Name - Basic - Wrong
+to -X- _ O
+end -X- _ O
+the -X- _ O
+inning -X- _ O
+. -X- _ O
+Darvish -X- _ B-Name - Basic - Right
+struck -X- _ B-Number - Basic - Right
+out -X- _ I-Number - Basic - Right
+Orlando -X- _ B-Name - Basic - Right
+Arcia -X- _ I-Name - Basic - Right
+to -X- _ O
+start -X- _ B-Word - Within - Right
+the -X- _ O
+fifth -X- _ O
+, -X- _ O
+then -X- _ O
+struck -X- _ B-Word - Basic - Right
+out -X- _ I-Word - Basic - Right
+Jett -X- _ B-Name - Basic - Right
+Bandy -X- _ I-Name - Basic - Right
+to -X- _ B-Word - Within - Right
+end -X- _ I-Word - Within - Right
+the -X- _ I-Word - Within - Right
+inning -X- _ I-Word - Within - Right
+. -X- _ O
+He -X- _ B-Context - Within - Right
+struck -X- _ I-Context - Within - Right
+out -X- _ I-Context - Within - Right
+the -X- _ I-Context - Within - Right
+side -X- _ I-Context - Within - Right
+in -X- _ O
+the -X- _ O
+fifth -X- _ O
+. -X- _ O
+Bryant -X- _ O
+led -X- _ B-Word - Within - Right
+off -X- _ I-Word - Within - Right
+the -X- _ O
+sixth -X- _ O
+with -X- _ O
+a -X- _ O
+home -X- _ B-Word - Basic - Right
+run -X- _ I-Word - Basic - Right
+to -X- _ O
+left -X- _ B-NC - Basic - Right
+field -X- _ I-NC - Basic - Right
+to -X- _ O
+tie -X- _ B-Context - Within - Right
+the -X- _ O
+game -X- _ O
+at -X- _ O
+1 -X- _ B-Number - Basic - Right
+- -X- _ O
+1 -X- _ B-Number - Basic - Right
+. -X- _ O
+Brian -X- _ O
+Duensing -X- _ O
+got -X- _ O
+the -X- _ O
+first -X- _ O
+two -X- _ B-Number - Within - Right
+outs -X- _ O
+of -X- _ O
+the -X- _ O
+seventh -X- _ O
+before -X- _ O
+Brian -X- _ B-Name - Basic - Wrong
+Duensing -X- _ I-Name - Basic - Wrong
+got -X- _ O
+the -X- _ O
+first -X- _ B-Word - Within - Right
+two -X- _ O
+outs -X- _ O
+of -X- _ O
+the -X- _ O
+inning -X- _ O
+. -X- _ O
+Brian -X- _ B-Context - Within - Wrong
+Duensing -X- _ I-Context - Within - Wrong
+came -X- _ I-Context - Within - Wrong
+on -X- _ I-Context - Within - Wrong
+and -X- _ I-Context - Within - Wrong
+retired -X- _ I-Context - Within - Wrong
+Kyle -X- _ I-Context - Within - Wrong
+Schwarber -X- _ I-Context - Within - Wrong
+on -X- _ O
+a -X- _ O
+popup -X- _ B-Context - Within - Wrong
+to -X- _ I-Context - Within - Wrong
+second -X- _ I-Context - Within - Wrong
+baseman -X- _ I-Context - Within - Wrong
+Jonathan -X- _ I-Context - Within - Wrong
+Villar -X- _ I-Context - Within - Wrong
+, -X- _ O
+who -X- _ O
+made -X- _ B-NC - Within - Wrong
+a -X- _ I-NC - Within - Wrong
+strong -X- _ I-NC - Within - Wrong
+throw -X- _ I-NC - Within - Wrong
+to -X- _ I-NC - Within - Wrong
+first -X- _ I-NC - Within - Wrong
+to -X- _ I-NC - Within - Wrong
+get -X- _ I-NC - Within - Wrong
+Schwarber -X- _ I-NC - Within - Wrong
+at -X- _ I-NC - Within - Wrong
+first -X- _ I-NC - Within - Wrong
+. -X- _ O
+Dan -X- _ B-Context - Within - Right
+Jennings -X- _ I-Context - Within - Right
+replaced -X- _ I-Context - Within - Right
+Jeffress -X- _ I-Context - Within - Right
+and -X- _ O
+got -X- _ O
+Kyle -X- _ B-Name - Basic - Right
+Schwarber -X- _ I-Name - Basic - Right
+to -X- _ O
+fly -X- _ B-Word - Basic - Wrong
+out -X- _ I-Word - Basic - Wrong
+to -X- _ O
+center -X- _ O
+to -X- _ O
+end -X- _ B-Word - Within - Wrong
+the -X- _ I-Word - Within - Wrong
+inning -X- _ I-Word - Within - Wrong
+. -X- _ O
+
+BOSTON -X- _ B-Name - Basic - Right
+-- -X- _ O
+Red -X- _ B-NC - Across - Wrong
+Sox -X- _ I-NC - Across - Wrong
+manager -X- _ I-NC - Across - Wrong
+Terry -X- _ I-NC - Across - Wrong
+Francona -X- _ I-NC - Across - Wrong
+knew -X- _ I-NC - Across - Wrong
+it -X- _ I-NC - Across - Wrong
+was -X- _ I-NC - Across - Wrong
+a -X- _ I-NC - Across - Wrong
+matter -X- _ I-NC - Across - Wrong
+of -X- _ I-NC - Across - Wrong
+time -X- _ I-NC - Across - Wrong
+. -X- _ O
+Rafael -X- _ B-Name - Basic - Right
+Devers -X- _ I-Name - Basic - Right
+hit -X- _ O
+a -X- _ O
+two -X- _ B-Number - Basic - Right
+- -X- _ O
+run -X- _ O
+double -X- _ O
+in -X- _ O
+a -X- _ O
+four -X- _ B-Number - Basic - Wrong
+- -X- _ O
+run -X- _ O
+eighth -X- _ O
+inning -X- _ O
+, -X- _ O
+and -X- _ O
+the -X- _ O
+Red -X- _ B-Name - Basic - Right
+Sox -X- _ I-Name - Basic - Right
+rallied -X- _ O
+for -X- _ O
+an -X- _ O
+8 -X- _ B-Number - Basic - Right
+- -X- _ O
+7 -X- _ B-Number - Basic - Right
+victory -X- _ B-Word - Within - Right
+over -X- _ O
+the -X- _ O
+Tampa -X- _ B-Name - Basic - Right
+Bay -X- _ I-Name - Basic - Right
+Rays -X- _ I-Name - Basic - Right
+on -X- _ O
+Wednesday -X- _ B-Word - Basic - Wrong
+night -X- _ O
+. -X- _ O
+The -X- _ O
+Red -X- _ B-Name - Basic - Right
+Sox -X- _ I-Name - Basic - Right
+won -X- _ O
+for -X- _ O
+the -X- _ O
+fourth -X- _ B-Number - Across - Wrong
+time -X- _ O
+in -X- _ O
+five -X- _ O
+games -X- _ O
+. -X- _ O
+Ryan -X- _ B-Name - Basic - Right
+Yarbrough -X- _ I-Name - Basic - Right
+allowed -X- _ O
+one -X- _ B-Number - Basic - Right
+run -X- _ O
+and -X- _ O
+two -X- _ B-Number - Basic - Right
+hits -X- _ O
+in -X- _ O
+four -X- _ B-Number - Basic - Right
+innings -X- _ O
+, -X- _ O
+striking -X- _ O
+out -X- _ O
+three -X- _ B-Number - Basic - Right
+and -X- _ O
+walking -X- _ O
+three -X- _ B-Number - Basic - Right
+. -X- _ O
+Ryan -X- _ B-Name - Basic - Wrong
+Yarbrough -X- _ I-Name - Basic - Wrong
+and -X- _ I-Name - Basic - Wrong
+Ryan -X- _ I-Name - Basic - Wrong
+Yarbrough -X- _ I-Name - Basic - Wrong
+gave -X- _ O
+up -X- _ O
+a -X- _ B-Number - Basic - Right
+run -X- _ O
+in -X- _ O
+the -X- _ O
+sixth -X- _ O
+. -X- _ O
+The -X- _ O
+Red -X- _ B-Name - Basic - Right
+Sox -X- _ I-Name - Basic - Right
+scored -X- _ O
+four -X- _ B-Number - Within - Wrong
+runs -X- _ O
+in -X- _ O
+the -X- _ O
+eighth -X- _ O
+off -X- _ O
+Matt -X- _ B-Name - Basic - Right
+Andriese -X- _ I-Name - Basic - Right
+, -X- _ O
+who -X- _ O
+allowed -X- _ O
+four -X- _ B-Number - Basic - Right
+runs -X- _ O
+and -X- _ O
+four -X- _ B-Number - Basic - Right
+hits -X- _ O
+in -X- _ O
+two -X- _ B-Number - Basic - Right
+- -X- _ I-Number - Basic - Right
+thirds -X- _ I-Number - Basic - Right
+of -X- _ O
+an -X- _ O
+inning -X- _ O
+. -X- _ O
+Alex -X- _ B-Name - Basic - Right
+Colome -X- _ I-Name - Basic - Right
+( -X- _ O
+0 -X- _ B-Number - Basic - Right
+- -X- _ O
+1 -X- _ B-Number - Basic - Right
+) -X- _ O
+took -X- _ O
+the -X- _ O
+loss -X- _ B-Word - Basic - Right
+. -X- _ O
+Hanley -X- _ B-Name - Basic - Wrong
+Ramirez -X- _ I-Name - Basic - Wrong
+hit -X- _ O
+a -X- _ O
+two -X- _ B-Number - Basic - Right
+- -X- _ O
+run -X- _ O
+double -X- _ B-Number - Basic - Right
+off -X- _ O
+Matt -X- _ B-Name - Basic - Right
+Andriese -X- _ I-Name - Basic - Right
+in -X- _ O
+the -X- _ O
+eighth -X- _ O
+, -X- _ O
+and -X- _ O
+Christian -X- _ B-Name - Basic - Right
+Vazquez -X- _ I-Name - Basic - Right
+followed -X- _ B-Word - Within - Right
+with -X- _ O
+an -X- _ B-Number - Basic - Right
+RBI -X- _ O
+single -X- _ B-Number - Basic - Right
+. -X- _ O
+Christian -X- _ B-Name - Basic - Wrong
+Vazquez -X- _ I-Name - Basic - Wrong
+followed -X- _ O
+with -X- _ O
+an -X- _ O
+RBI -X- _ O
+single -X- _ B-Number - Basic - Right
+and -X- _ B-Word - Within - Right
+Andrew -X- _ B-Name - Basic - Right
+Benintendi -X- _ I-Name - Basic - Right
+added -X- _ O
+an -X- _ O
+RBI -X- _ O
+double -X- _ B-Number - Basic - Right
+. -X- _ O
+Carson -X- _ B-Name - Basic - Right
+Smith -X- _ I-Name - Basic - Right
+( -X- _ O
+1 -X- _ B-Number - Basic - Right
+- -X- _ O
+1 -X- _ B-Number - Basic - Right
+) -X- _ O
+pitched -X- _ O
+a -X- _ O
+scoreless -X- _ B-Word - Within - Right
+eighth -X- _ B-Number - Basic - Right
+for -X- _ O
+the -X- _ O
+win -X- _ B-Word - Basic - Right
+. -X- _ O
+Craig -X- _ B-Name - Basic - Right
+Kimbrel -X- _ I-Name - Basic - Right
+pitched -X- _ B-Word - Within - Right
+a -X- _ O
+perfect -X- _ O
+ninth -X- _ B-Number - Basic - Right
+for -X- _ O
+his -X- _ O
+third -X- _ B-Number - Basic - Right
+save -X- _ O
+in -X- _ O
+three -X- _ B-Number - Across - Wrong
+opportunities -X- _ O
+. -X- _ O
+The -X- _ O
+Red -X- _ B-Name - Basic - Right
+Sox -X- _ I-Name - Basic - Right
+took -X- _ O
+a -X- _ O
+1 -X- _ B-Number - Basic - Right
+- -X- _ O
+0 -X- _ B-Number - Basic - Right
+lead -X- _ B-Word - Within - Right
+in -X- _ O
+the -X- _ O
+first -X- _ O
+when -X- _ O
+Mookie -X- _ B-Name - Basic - Right
+Betts -X- _ I-Name - Basic - Right
+doubled -X- _ B-Number - Basic - Right
+and -X- _ O
+scored -X- _ O
+on -X- _ O
+Hanley -X- _ B-Name - Basic - Right
+Ramirez -X- _ I-Name - Basic - Right
+'s -X- _ I-Name - Basic - Right
+groundout -X- _ B-Word - Basic - Right
+. -X- _ O
+Cron -X- _ B-Name - Basic - Right
+led -X- _ B-Word - Within - Right
+off -X- _ I-Word - Within - Right
+the -X- _ O
+second -X- _ O
+with -X- _ O
+a -X- _ O
+homer -X- _ B-Word - Basic - Right
+into -X- _ O
+the -X- _ O
+Green -X- _ B-NC - Within - Wrong
+Monster -X- _ I-NC - Within - Wrong
+seats -X- _ O
+to -X- _ O
+tie -X- _ B-Word - Within - Right
+it -X- _ O
+at -X- _ O
+1 -X- _ B-Number - Basic - Right
+. -X- _ O
+The -X- _ O
+Rays -X- _ B-Name - Basic - Right
+took -X- _ O
+a -X- _ O
+2 -X- _ B-Number - Basic - Right
+- -X- _ O
+1 -X- _ B-Number - Basic - Right
+lead -X- _ B-Word - Within - Right
+in -X- _ O
+the -X- _ O
+third -X- _ B-Number - Basic - Right
+when -X- _ O
+Rob -X- _ B-Context - Within - Wrong
+Refsnyder -X- _ I-Context - Within - Wrong
+drew -X- _ I-Context - Within - Wrong
+a -X- _ I-Context - Within - Wrong
+one -X- _ I-Context - Within - Wrong
+- -X- _ I-Context - Within - Wrong
+out -X- _ I-Context - Within - Wrong
+walk -X- _ I-Context - Within - Wrong
+and -X- _ I-Context - Within - Wrong
+took -X- _ I-Context - Within - Wrong
+second -X- _ I-Context - Within - Wrong
+on -X- _ I-Context - Within - Wrong
+a -X- _ I-Context - Within - Wrong
+single -X- _ I-Context - Within - Wrong
+by -X- _ I-Context - Within - Wrong
+Matt -X- _ I-Context - Within - Wrong
+Duffy -X- _ I-Context - Within - Wrong
+. -X- _ O
+Carlos -X- _ B-Name - Basic - Right
+Gomez -X- _ I-Name - Basic - Right
+followed -X- _ B-Word - Within - Right
+with -X- _ O
+an -X- _ O
+RBI -X- _ O
+double -X- _ B-Number - Basic - Right
+. -X- _ O
+The -X- _ O
+Rays -X- _ B-Name - Basic - Right
+took -X- _ O
+a -X- _ O
+2 -X- _ B-Number - Basic - Right
+- -X- _ O
+1 -X- _ B-Number - Basic - Right
+lead -X- _ B-Word - Within - Right
+in -X- _ O
+the -X- _ O
+third -X- _ B-Number - Basic - Right
+when -X- _ O
+Rob -X- _ B-Context - Within - Wrong
+Refsnyder -X- _ I-Context - Within - Wrong
+drew -X- _ I-Context - Within - Wrong
+a -X- _ I-Context - Within - Wrong
+one -X- _ I-Context - Within - Wrong
+- -X- _ I-Context - Within - Wrong
+out -X- _ I-Context - Within - Wrong
+walk -X- _ I-Context - Within - Wrong
+and -X- _ I-Context - Within - Wrong
+went -X- _ I-Context - Within - Wrong
+to -X- _ I-Context - Within - Wrong
+third -X- _ I-Context - Within - Wrong
+on -X- _ I-Context - Within - Wrong
+a -X- _ I-Context - Within - Wrong
+single -X- _ I-Context - Within - Wrong
+by -X- _ I-Context - Within - Wrong
+Matt -X- _ I-Context - Within - Wrong
+Duffy -X- _ I-Context - Within - Wrong
+. -X- _ O
+Adeiny -X- _ B-Name - Basic - Right
+Hechavarria -X- _ I-Name - Basic - Right
+'s -X- _ O
+RBI -X- _ O
+double -X- _ B-Number - Basic - Wrong
+made -X- _ B-Word - Within - Right
+it -X- _ O
+3 -X- _ B-Number - Basic - Right
+- -X- _ O
+1 -X- _ B-Number - Basic - Right
+. -X- _ O
+The -X- _ O
+Rays -X- _ B-Context - Within - Wrong
+took -X- _ I-Context - Within - Wrong
+a -X- _ I-Context - Within - Wrong
+2 -X- _ I-Context - Within - Wrong
+- -X- _ I-Context - Within - Wrong
+1 -X- _ I-Context - Within - Wrong
+lead -X- _ I-Context - Within - Wrong
+in -X- _ I-Context - Within - Wrong
+the -X- _ I-Context - Within - Wrong
+fourth -X- _ I-Context - Within - Wrong
+when -X- _ I-Context - Within - Wrong
+Rob -X- _ I-Context - Within - Wrong
+Refsnyder -X- _ I-Context - Within - Wrong
+walked -X- _ I-Context - Within - Wrong
+, -X- _ I-Context - Within - Wrong
+took -X- _ I-Context - Within - Wrong
+third -X- _ I-Context - Within - Wrong
+on -X- _ I-Context - Within - Wrong
+a -X- _ I-Context - Within - Wrong
+single -X- _ I-Context - Within - Wrong
+by -X- _ I-Context - Within - Wrong
+Matt -X- _ I-Context - Within - Wrong
+Duffy -X- _ I-Context - Within - Wrong
+and -X- _ I-Context - Within - Wrong
+scored -X- _ I-Context - Within - Wrong
+on -X- _ I-Context - Within - Wrong
+Adeiny -X- _ I-Context - Within - Wrong
+Hechavarria -X- _ I-Context - Within - Wrong
+'s -X- _ I-Context - Within - Wrong
+RBI -X- _ I-Context - Within - Wrong
+single -X- _ I-Context - Within - Wrong
+. -X- _ O
+The -X- _ O
+Rays -X- _ B-Name - Basic - Right
+took -X- _ I-Name - Basic - Right
+a -X- _ O
+3 -X- _ B-Number - Basic - Right
+- -X- _ O
+1 -X- _ B-Number - Basic - Right
+lead -X- _ B-Word - Within - Right
+in -X- _ O
+the -X- _ O
+fourth -X- _ O
+on -X- _ O
+Adeiny -X- _ B-Name - Basic - Right
+Hechavarria -X- _ I-Name - Basic - Right
+'s -X- _ O
+RBI -X- _ O
+single -X- _ B-Number - Basic - Right
+off -X- _ O
+Ryan -X- _ B-Name - Basic - Wrong
+Yarbrough -X- _ I-Name - Basic - Wrong
+. -X- _ O
+Tampa -X- _ B-Name - Basic - Right
+Bay -X- _ I-Name - Basic - Right
+took -X- _ O
+a -X- _ O
+3 -X- _ B-Number - Basic - Right
+- -X- _ O
+1 -X- _ B-Number - Basic - Right
+lead -X- _ B-Word - Within - Right
+in -X- _ O
+the -X- _ O
+fourth -X- _ O
+on -X- _ O
+Moreland -X- _ B-Name - Basic - Wrong
+'s -X- _ O
+RBI -X- _ O
+single -X- _ B-Number - Basic - Right
+off -X- _ O
+Ryan -X- _ B-Name - Basic - Wrong
+Yarbrough -X- _ I-Name - Basic - Wrong
+. -X- _ O
+Boston -X- _ B-Name - Basic - Right
+cut -X- _ B-Word - Within - Right
+it -X- _ O
+to -X- _ O
+4 -X- _ B-Number - Basic - Right
+- -X- _ O
+2 -X- _ B-Number - Basic - Right
+in -X- _ O
+the -X- _ O
+fifth -X- _ B-Number - Basic - Right
+when -X- _ O
+Eduardo -X- _ B-Name - Basic - Right
+Nunez -X- _ O
+walked -X- _ B-Word - Basic - Right
+, -X- _ O
+took -X- _ O
+third -X- _ B-Number - Basic - Wrong
+on -X- _ O
+a -X- _ O
+single -X- _ B-Word - Basic - Right
+by -X- _ O
+Christian -X- _ B-Name - Basic - Right
+Vazquez -X- _ I-Name - Basic - Right
+and -X- _ O
+scored -X- _ O
+on -X- _ O
+a -X- _ O
+two -X- _ B-Number - Basic - Right
+- -X- _ O
+out -X- _ O
+single -X- _ B-Number - Basic - Right
+by -X- _ O
+Ramirez -X- _ B-Name - Basic - Right
+. -X- _ O
+Wendle -X- _ B-Name - Basic - Right
+tripled -X- _ B-Number - Basic - Right
+off -X- _ O
+Brian -X- _ B-Name - Basic - Right
+Johnson -X- _ I-Name - Basic - Right
+in -X- _ O
+the -X- _ O
+seventh -X- _ B-Number - Basic - Right
+and -X- _ O
+scored -X- _ O
+on -X- _ O
+Sucre -X- _ B-Name - Basic - Right
+'s -X- _ O
+sacrifice -X- _ B-Word - Basic - Right
+fly -X- _ I-Word - Basic - Right
+. -X- _ O
+

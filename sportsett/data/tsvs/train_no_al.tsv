@@ -1,0 +1,1028 @@
+Sentence	B	W	A	H	Abs
+Washington shot a very impressive 65 percent from the field and 53 percent from three , and the victory moves them just one game behind both the Bulls and Raptors as they look to make a late push for third place in the Eastern_Conference .	1	0	1	0	DET-ORG PROPN-ORG X-CARDINAL_COMPARISON PROPN-GPE X-CARDINAL_COMPARISON PUNCT-) X-CARDINAL_COMPARISON PROPN-DATE PUNCT-.
+Jason Richardson shot his way out of a slump , scoring 15 points on 4 - of - 7 shooting in 25 minutes , as it was just the first time in five games that Richardson scored in double figures .	1	1	1	0	PROPN-GPE NUM-CARDINAL PUNCT-.
+The 76ers have lost nine of their last 10 games and hold the NBA 's second - worst record at 13 - 49 .	1	0	1	0	ADJ-ORDINAL X-CARDINAL_COMPARISON DET-ORG PROPN-ORG NUM-CARDINAL PUNCT-.
+Robert Covington ( elbow ) returned from a two - game absence , but struggled coming off the bench , recording just 5 points on 1 - of - 8 shooting and six rebounds in 18 minutes .	1	1	1	1	PROPN-PERSON DET-ORG PROPN-ORG X-CARDINAL_COMPARISON PUNCT-) DET-ORG PROPN-ORG X-CARDINAL_COMPARISON PROPN-DATE PUNCT-.
+DeRozan also forced his way to the free throw line , and converted on a perfect 10 - of - 10 attempts .	1	1	0	0	PROPN-PERSON NUM-CARDINAL NUM-TIME NOUN-TIME PUNCT-.
+After shooting less than 30 percent over his last two games , he finally got things turned around and exploded for a new season - high in points .	0	1	1	0	PROPN-DATE PROPN-GPE PROPN-ORG PUNCT-.
+The Sixers , who have dropped two straight , were led by 16 points and 10 rebounds from Luc Richard Mbah_a_Moute .	1	1	1	0	PROPN-GPE NUM-CARDINAL DET-DATE NOUN-DATE PUNCT-.
+The Hornets have a quick turnaround as they will host the Pacers on Sunday .	0	0	1	0	PROPN-ORG PUNCT-.
+The Bucks ' regular season will come to an end at home against the Boston Celtics on Wednesday , while the Sixers will be at home against the Miami Heat on Wednesday .	0	0	1	0	PROPN-PERSON PUNCT-PERSON PROPN-PERSON PROPN-DATE PROPN-ORG PUNCT-.
+Robinson posted 12 points ( 4 - 8 FG , 4 - 6 FT ) and six rebounds , while Sampson had 10 points ( 3 - 8 FG , 0 - 4 3Pt , 4 - 4 FT ) and five rebounds .	1	0	0	0	PUNCT-.
+Thomas Robinson and Jakaar Sampson finished in double figures off the bench .	0	1	0	0	PROPN-PERSON NUM-CARDINAL NUM-TIME NOUN-TIME PROPN-PERSON PUNCT-.
+Thompson shot less than 40 percent from the field in three of his last four games coming into this one , so it was a step in the right direction Monday with his performance .	0	0	1	0	PROPN-ORG ADJ-ORDINAL DET-DATE NOUN-DATE PROPN-DATE PROPN-ORG PUNCT-.
+Thompson , on the other hand , finished with 19 points ( 7 - 18 FG , 3 - 10 3Pt , 2 - 2 FT ) and four rebounds over 36 minutes .	1	0	0	0	PROPN-GPE X-CARDINAL_COMPARISON PROPN-GPE X-CARDINAL_COMPARISON PUNCT-) X-CARDINAL_COMPARISON PROPN-DATE NOUN-CARDINAL PROPN-GPE PUNCT-.
+He 's played well over these final games other than the turnovers , averaging 24 points over his last three .	0	0	1	0	X-CARDINAL_COMPARISON SYM-CARDINAL NUM-CARDINAL PROPN-ORG NOUN-CARDINAL PROPN-ORG X-CARDINAL_COMPARISON SYM-PRODUCT NUM-PRODUCT DET-DATE ADJ-DATE NOUN-DATE PROPN-ORG NUM-CARDINAL PUNCT-.
+It was n't all good for the forward though , as he turned the ball over a whopping 10 times .	0	1	0	0	PROPN-ORG X-CARDINAL_COMPARISON PUNCT-.
+Covington went 6 - for - 13 from the field , but just 1 - for - 6 from the three - point line to score a team - high of 25 points , while also adding seven rebounds and four blocked shots .	1	1	0	0	ADJ-ORDINAL PROPN-ORG ADJ-ORDINAL PUNCT-.
+The Sixers were led by the duo of Robert Covington and Hollis Thompson .	0	1	0	0	PROPN-PERSON PROPN-DATE PROPN-ORG PROPN-PERSON PUNCT-.
+Ilyasova finished with 13 points ( 5 - 8 FG , 2 - 3 3Pt , 1 - 2 FT ) and three steals , while Mayo posted 13 points ( 5 - 9 FG , 1 - 2 3Pt , 2 - 2 FT ) , four rebounds and three steals of his own .	1	0	0	0	PROPN-PERSON NUM-CARDINAL X-CARDINAL_COMPARISON NOUN-ORG X-CARDINAL_COMPARISON SYM-QUANTITY NUM-QUANTITY PROPN-QUANTITY NUM-CARDINAL PROPN-PERSON ADJ-ORDINAL DET-DATE NOUN-DATE PUNCT-.
+Mayo .	0	0	0	1	PROPN-PERSON X-CARDINAL_COMPARISON NUM-CARDINAL X-CARDINAL_COMPARISON NUM-CARDINAL PUNCT-.
+The only other two players to reach double figures in points were Ersan Ilyasova and O.J .	0	1	0	0	PROPN-PERSON AUX-PERSON NUM-CARDINAL DET-DATE NOUN-DATE PUNCT-.
+He 'll take season averages of 13 points and 7 rebounds into the Bucks ' final matchup on Wednesday .	0	0	1	0	PROPN-PERSON X-CARDINAL_COMPARISON NUM-CARDINAL X-CARDINAL_COMPARISON NUM-CARDINAL NUM-TIME NOUN-TIME PUNCT-.
+Giannis Antetokounmpo had a solid overall game as well , recording 12 points ( 3 - 9 FG , 6 - 10 FT ) , seven rebounds and three assists over 34 minutes .	1	1	0	0	PROPN-PRODUCT PROPN-PERSON NUM-CARDINAL PUNCT-.
+Over his last four games , he 's averaged 23 points , six assists and 3 steals , so the Bucks would love to see him stay this hot going into their playoff series with either the Toronto Raptors or Chicago Bulls .	0	0	1	0	PROPN-ORG PROPN-PERSON PUNCT-PERSON PROPN-PERSON NUM-CARDINAL PUNCT-.
+Michael Carter-Williams had another strong showing , finishing with 30 points ( 11 - 17 FG , 8 - 13 FT ) , five rebounds , five assists and three steals .	1	1	0	0	ADJ-ORDINAL DET-DATE NOUN-DATE PUNCT-.
+The Bucks were the superior shooters in this game , going 49 percent from the field and 44 percent from the three - point line , while the Sixers finished at 40 percent from the floor and just 21 percent from deep .	1	1	0	0	PROPN-PERSON PROPN-DATE PUNCT-.
+Mayo received technical fouls for the Bucks , while Jakaar Sampson picked one up for the Sixers .	0	1	0	0	PROPN-PERSON NUM-CARDINAL PROPN-PERSON ADJ-ORDINAL NUM-CARDINAL PUNCT-.
+The game did get somewhat chippy towards the end though , as both Jerryd Bayless and O.J .	0	1	0	0	ADJ-ORDINAL NUM-CARDINAL PROPN-PERSON PUNCT-.
+They 've already locked up the sixth seed in the Eastern_Conference standings , so this was another solid momentum builder for the playoffs that start this coming Saturday .	0	1	1	0	PROPN-PERSON NUM-CARDINAL PROPN-ORG PROPN-PERSON PART-PERSON NUM-CARDINAL DET-DATE NOUN-DATE PUNCT-.
+The Bucks continued to gain some steam as the regular season winds down , notching their third straight victory and finishing the season sweep over the Sixers .	0	1	1	0	PROPN-PERSON NUM-CARDINAL PUNCT-.
+The Milwaukee Bucks ( 41 - 40 ) defeated the Philadelphia 76ers ( 18 - 63 ) 107 - 97 on Monday at the Wells_Fargo_Center in Philadelphia .	1	1	0	0	PROPN-ORG PROPN-GPE PROPN-FAC PROPN-DATE PROPN-ORG DET-ORG PROPN-ORG PROPN-DATE PUNCT-.
+Up next , the Wizards will travel to Brooklyn Friday to play the Nets , while the 76ers will head to Chicago and go up against the Bulls on Saturday .	0	0	1	0	PROPN-ORG X-CARDINAL_COMPARISON PROPN-GPE PROPN-TIME NOUN-TIME PUNCT-.
+The team shot a woeful 35 percent from the field , but the loss does help Philadelphia in their quest for the No . 1 overall pick , as they continue to boast the third worst record in the league .	1	0	1	0	NUM-CARDINAL ADJ-DATE NOUN-DATE NUM-CARDINAL PUNCT-.
+Thomas Robinson scored 11 points and was the only other 76er to score in double figures , but he also added 12 rebounds to give himself a double - double on the night .	1	1	0	0	NUM-CARDINAL ADJ-DATE NOUN-DATE ADV-CARDINAL ADJ-CARDINAL SCONJ-CARDINAL NUM-CARDINAL DET-DATE ADJ-DATE NOUN-DATE PROPN-PERSON DET-DATE ADJ-DATE NOUN-DATE PUNCT-.
+Jason Richardson also had an efficient performance , scoring 17 points ( 6 - 7 FG , 4 - 5 3Pt ) in 21 minutes off the bench .	1	0	0	0	PROPN-PERSON ADJ-ORDINAL PROPN-PERSON NUM-CARDINAL NUM-QUANTITY PUNCT-QUANTITY ADP-QUANTITY PUNCT-QUANTITY NUM-QUANTITY NUM-CARDINAL NUM-TIME NOUN-TIME PUNCT-.
+Robert Covington had a great shooting night and led the way for the 76ers in the losing effort , posting 27 points ( 8 - 11 FG , 4 - 6 3Pt , 7 - 8 FT ) in just 24 minutes and was the only Philadelphia starter to reach double figures on the night .	1	1	0	0	PROPN-PERSON NUM-CARDINAL PROPN-PERSON NUM-CARDINAL X-CARDINAL_COMPARISON SYM-QUANTITY NUM-QUANTITY PROPN-QUANTITY NUM-CARDINAL PUNCT-.
+Paul Pierce was the only other starter to score in double figures with 10 points in 22 minutes , while Kevin Seraphin ( 12 ) and Will Bynum ( 10 ) each scored in double figures off the bench .	1	1	0	0	PROPN-ORG PROPN-PERSON NUM-CARDINAL PUNCT-.
+Bradley Beal led the team in scoring with an efficient 21 points ( 7 - 9 FG , 3 - 3 3Pt , 4 - 5 FT ) in 23 minutes , while Marcin Gortat also put up a nice stat line of 19 points ( 8 - 9 FG ) , seven rebounds and six assists in 26 minutes .	1	0	0	0	NOUN-ORG ADV-PERCENT NUM-PERCENT NOUN-PERCENT NUM-TIME PUNCT-TIME ADP-TIME PUNCT-TIME NUM-TIME PUNCT-.
+Ramon Sessions was great in replacing Wall in the starting lineup , posting 19 points ( 5 - 7 FG , 2 - 2 3Pt , 7 - 9 FT ) , seven assists and four rebounds in 29 minutes .	1	1	0	0	PROPN-ORG ADJ-ORDINAL PROPN-GPE PROPN-DATE PUNCT-.
+The Wizards were without All-Star point guard John Wall ( rest ) , but they still no issue dealing with the 76ers .	0	1	0	0	PROPN-GPE NUM-PERCENT NOUN-PERCENT NUM-CARDINAL PUNCT-.
+The Washington Wizards ( 45 - 33 ) defeated the Philadelphia 76ers ( 18 - 61 ) 119 - 90 on Wednesday in Philadelphia .	1	1	0	0	PROPN-PERSON NUM-CARDINAL X-CARDINAL_COMPARISON PROPN-ORG PUNCT-.
+Up next , the 76ers will take on the Knicks at home Friday , while the Pistons head home Saturday to take on the Bulls .	0	0	1	0	PROPN-PERSON NUM-CARDINAL PUNCT-.
+By losing 11 of their previous 12 games , they are destined for the NBA lottery .	0	0	1	0	NUM-CARDINAL PROPN-ORG PROPN-PERSON PUNCT-PERSON PROPN-PERSON NUM-CARDINAL PUNCT-.
+Beyond those two , the Pistons struggled , as no other Detroit player scored in double figures .	0	1	0	0	PROPN-PERSON NUM-CARDINAL PROPN-PERSON NUM-CARDINAL NUM-TIME NOUN-TIME PUNCT-.
+Kentavious Caldwell-Pope also followed up his 24 - point performance on Tuesday in a strong way , scoring 20 points on 7 - of - 16 shooting and grabbing eight rebounds in 36 minutes .	1	1	1	0	PROPN-ORG PROPN-GPE PROPN-ORG PROPN-TIME NOUN-TIME PUNCT-.
+Reggie Jackson followed up Tuesday night 's big game with a triple - double , putting up 11 points on just 4 - of - 17 shooting , 11 rebounds and 10 assists in 32 minutes .	1	1	1	0	PROPN-ORG DET-GPE PROPN-GPE PROPN-ORG PROPN-TIME NOUN-TIME PUNCT-.
+Despite the loss , Detroit did have some strong performances .	0	1	0	0	X-CARDINAL_COMPARISON SYM-DATE NUM-DATE PROPN-GPE NUM-76ers X-CARDINAL_COMPARISON SYM-CARDINAL NUM-CARDINAL PROPN-DATE NOUN-CARDINAL PROPN-GPE PUNCT-.
+They were without Greg Monroe , who sat out his second consecutive game with a strained knee .	0	0	1	1	X-CARDINAL_COMPARISON SYM-DATE NUM-DATE NUM-PERCENT NOUN-PERCENT NUM-PERCENT NOUN-PERCENT NUM-CARDINAL PROPN-ORG ADV-PERCENT NUM-PERCENT NOUN-PERCENT NUM-PERCENT NOUN-PERCENT PUNCT-.
+It was a quick fall back to reality for the Pistons , as just a day after upsetting the Grizzlies and ending a 10 - game losing streak , they lost to one of the NBA 's worst teams .	0	0	1	0	DET-ORG PROPN-ORG X-CARDINAL_COMPARISON SYM-DATE NUM-DATE PUNCT-) X-CARDINAL_COMPARISON SYM-DATE NUM-DATE PROPN-ORG X-CARDINAL_COMPARISON SYM-PRODUCT NUM-PRODUCT DET-ORG PROPN-ORG X-CARDINAL_COMPARISON SYM-DATE NUM-DATE DET-WORK_OF_ART PROPN-WORK_OF_ART X-CARDINAL_COMPARISON SYM-DATE NUM-DATE PUNCT-.
+The win is just Philadelphia 's third in 10 games , and they currently boast the third worst record in the NBA .	0	0	1	0	DET-ORG PROPN-ORG X-CARDINAL_COMPARISON SYM-DATE NUM-DATE PROPN-PERSON PROPN-DATE NUM-CARDINAL X-CARDINAL_COMPARISON SYM-TIME NUM-TIME NOUN-TIME X-CARDINAL_COMPARISON SYM-QUANTITY NUM-QUANTITY PROPN-QUANTITY NUM-CARDINAL PUNCT-.
+Thomas Robinson and Jerami Grant were able to make positive contributions in their reserve roles , scoring 12 and 10 points respectively .	1	1	0	0	PROPN-PERSON ADJ-ORDINAL DET-DATE NOUN-DATE PROPN-PERSON PART-PERSON NUM-CARDINAL PROPN-PERSON ADJ-TIME NUM-TIME PUNCT-.
+Conversely , Robert Covington struggled , as he shot just 1 - of - 6 from the field on his way to three points in 22 minutes off the bench .	1	1	0	0	PROPN-PERSON PUNCT-.
+Canaan struggled coming off the bench , putting up just nine points on 2 - of - 10 shooting and four assists in 22 minutes .	1	1	0	0	PROPN-PERSON X-CARDINAL_COMPARISON NUM-CARDINAL X-CARDINAL_COMPARISON NUM-CARDINAL PUNCT-.
+Smith thrived in the role , recording 15 points on 6 - of - 12 shooting , eight assists and three steals in 26 minutes .	1	1	0	0	PROPN-PERSON PROPN-DATE PROPN-NORP PROPN-PERSON PUNCT-.
+It was Ish Smith who led the way for Philadelphia , as he was moved into the starting point guard role while Isaiah Canaan was moved to the bench .	0	1	0	0	PROPN-PERSON ADJ-ORDINAL DET-DATE NOUN-DATE PROPN-PERSON DET-DATE ADJ-DATE NOUN-DATE NUM-CARDINAL X-CARDINAL_COMPARISON PROPN-ORG X-CARDINAL_COMPARISON SYM-QUANTITY NUM-QUANTITY PROPN-QUANTITY NUM-CARDINAL PUNCT-.
+He had 11 points on 5 - of - 10 shooting , four rebounds and three blocks in that time and did not return .	1	1	0	0	NUM-CARDINAL ADV-DATE DET-DATE NOUN-DATE PUNCT-.
+The 76ers were able to pull off the win despite Nerlens Noel leaving the game with a right foot contusion after playing just 22 minutes .	1	1	0	0	PROPN-PERSON NUM-CARDINAL X-CARDINAL_COMPARISON NOUN-ORG X-CARDINAL_COMPARISON SYM-CARDINAL NUM-CARDINAL X-CARDINAL_COMPARISON SYM-QUANTITY NUM-QUANTITY PROPN-QUANTITY NUM-TIME NOUN-TIME PUNCT-.
+The Philadelphia 76ers ( 16 - 52 ) defeated the Detroit Pistons ( 24 - 44 ) 94 - 83 on Wednesday in Philadelphia .	1	1	0	0	PROPN-ORG PROPN-PRODUCT PROPN-PERSON PUNCT-PERSON PROPN-PERSON PUNCT-.
+The Sixers get one day off before playing the Boston Celtics on the road .	0	0	1	0	PROPN-PERSON PUNCT-PERSON PROPN-PERSON PUNCT-PERSON PROPN-PERSON NUM-CARDINAL X-CARDINAL_COMPARISON NOUN-ORG X-CARDINAL_COMPARISON SYM-CARDINAL NUM-CARDINAL NOUN-CARDINAL X-CARDINAL_COMPARISON SYM-TIME NUM-TIME PROPN-TIME NUM-CARDINAL PUNCT-.
+The Brooklyn Nets take on the Minnesota Timberwolves , the worst Western_Conference team , on Monday for the first time since trading away Kevin Garnett for Thaddeus Young .	0	0	1	0	PROPN-PERSON PUNCT-PERSON PROPN-PERSON PART-PERSON NUM-CARDINAL PROPN-PERSON PUNCT-PERSON PROPN-PERSON NUM-CARDINAL PROPN-PERSON PUNCT-PERSON PROPN-PERSON PART-PERSON PROPN-ORG PUNCT-.
+Thomas Robinson grabbed 12 rebounds in 17 minutes and is averaging 9 rebounds per game in 18 minutes per game in nine games with the Sixers .	1	0	1	0	PROPN-ORG NUM-CARDINAL X-CARDINAL_COMPARISON PROPN-ORG X-CARDINAL_COMPARISON SYM-QUANTITY NUM-QUANTITY PROPN-QUANTITY NUM-CARDINAL PUNCT-.
+Glenn Robinson III played seven minutes in his 76ers ’ debut , forced into action after the Sixers were whistled for nine fouls in the first seven minutes .	1	1	0	0	NUM-CARDINAL PROPN-PERSON PUNCT-PERSON PROPN-PERSON PUNCT-PERSON PROPN-PERSON PART-PERSON ADV-CARDINAL NUM-CARDINAL PUNCT-.
+Nerlens Noel continued to pad his Rookie of the Year résumé , notching 17 points , seven rebounds , two assists , one steal and two blocks in 30 minutes before fouling out .	1	0	1	0	PROPN-PERSON NUM-CARDINAL X-CARDINAL_COMPARISON SYM-PERCENT NOUN-ORG X-CARDINAL_COMPARISON NUM-CARDINAL PUNCT-.
+Jerami Grant started his first game of the season because Luc Mbah_a_Moute was rested .	0	1	0	1	PROPN-WORK_OF_ART ADJ-ORDINAL DET-DATE NOUN-DATE ADJ-ORDINAL PROPN-PERSON NUM-CARDINAL PUNCT-.
+Brett Brown shuffled up the starting lineup , replacing Robert Covington with Jason Richardson , who rested Friday ’ s game .	0	1	0	1	PROPN-PRODUCT PUNCT-.
+Joe Johnson made a field goal for the 866th consecutive game , the longest active streak in the NBA .	0	0	1	0	PROPN-PERSON NUM-CARDINAL X-CARDINAL_COMPARISON PROPN-ORG X-CARDINAL_COMPARISON PROPN-QUANTITY NUM-TIME NOUN-TIME PUNCT-.
+They converted just 2 - of - 17 three - pointers .	1	0	0	0	PROPN-ORG DET-ORG PROPN-ORG PROPN-DATE PROPN-ORG DET-ORG PROPN-ORG PROPN-DATE PUNCT-.
+With the win , the Nets pulled to within three games of the eight seed .	0	0	1	0	PROPN-GPE X-CARDINAL_COMPARISON SYM-CARDINAL NUM-CARDINAL X-CARDINAL_COMPARISON PUNCT-) X-CARDINAL_COMPARISON PROPN-DATE PUNCT-.
+The oft - injured Brook Lopez played his 38th straight contest , more than double his total from last season .	0	0	1	1	PROPN-GPE ADJ-ORDINAL PROPN-PERSON PUNCT-PERSON PROPN-PERSON PUNCT-.
+Thaddeus Young scored his most points as a Net , recording 21 on 15 shots and hit a three - pointer for the 11th straight game , a career - high .	1	0	1	0	NUM-CARDINAL NOUN-CARDINAL PROPN-ORG X-CARDINAL_COMPARISON SYM-PRODUCT NUM-PRODUCT DET-DATE ADJ-DATE NOUN-DATE PUNCT-.
+The Sixers shot 8 - of - 37 on three - pointers in the loss .	1	0	0	0	PROPN-GPE PROPN-PERSON PUNCT-PERSON PROPN-PERSON PUNCT-.
+The Brooklyn Nets ( 26 - 38 ) helped their playoff chances with a 94 - 87 win over the Philadelphia 76ers ( 15 - 51 ) , snapping a five - game losing streak .	1	1	1	0	PROPN-ORG NUM-CARDINAL PROPN-PERSON PUNCT-PERSON PROPN-PERSON PUNCT-.
+The Sixers ' next game will be at home against the Brooklyn Nets on Saturday , while the Kings will travel to Washington to play the Wizards on Saturday .	0	0	1	0	PROPN-PERSON NUM-CARDINAL PROPN-GPE ADV-DATE ADP-DATE DET-DATE NOUN-DATE PROPN-DATE PUNCT-.
+The only other King in double figures was Derrick Williams , who came off the bench for 15 points ( 5 - 9 FG , 2 - 5 3Pt , 3 - 4 FT ) and three rebounds in 31 minutes .	1	1	0	0	PROPN-PERSON DET-TIME ADJ-TIME NOUN-TIME X-CARDINAL_COMPARISON NUM-CARDINAL NUM-TIME NOUN-TIME PUNCT-.
+Like Cousins , he 's played extremely well over his last five games , averaging 28 points during that span , while shooting over 40 percent in each of those matchups as well.	0	0	1	0	PROPN-GPE NUM-CARDINAL PROPN-GPE ADJ-ORDINAL PROPN-LOC PROPN-GPE PUNCT-.
+In 40 minutes on the court , Gay finished with 24 points ( 7 - 17 FG , 1 - 5 3Pt , 9 - 10 FT ) and four rebounds .	1	0	0	0	PROPN-ORG PROPN-DATE PUNCT-.
+Rudy Gay also did his best in keeping the Kings close .	0	1	0	0	PROPN-GPE X-CARDINAL_COMPARISON PROPN-GPE PROPN-DATE PROPN-GPE NUM-CARDINAL PROPN-GPE NUM-CARDINAL PROPN-DATE PUNCT-.
+Over that five - game stretch , he 's averaging 25 points and 16 rebounds , as he 's one of the hottest players in the league .	0	0	1	0	PROPN-PERSON NUM-CARDINAL NUM-TIME NOUN-TIME PUNCT-.
+Cousins continues to play well of late , as this was his fifth straight double - double .	0	0	1	0	PROPN-PERSON NUM-CARDINAL PUNCT-.
+Cousins went 12 - for - 24 from the field and 15 - for - 20 from the free throw line to score a game - high of 39 points , while also grabbing 24 rebounds in the process .	1	1	0	0	PROPN-PERSON PUNCT-PERSON PROPN-PERSON PROPN-DATE PROPN-PERSON PUNCT-PERSON PROPN-PERSON PROPN-GPE PROPN-DATE PROPN-PRODUCT PUNCT-.
+Despite taking the loss , DeMarcus Cousins had himself a monster game .	0	1	0	0	PROPN-ORG X-CARDINAL_COMPARISON NUM-CARDINAL PROPN-PERSON PUNCT-.
+Ish Smith added 10 points ( 3 - 11 FG , 0 - 2 3Pt , 4 - 6 FT ) , five rebounds and nine assists off the bench as well .	1	0	0	0	PROPN-GPE X-CARDINAL_COMPARISON DET-DATE ADJ-DATE NOUN-DATE NUM-CARDINAL NOUN-CARDINAL PUNCT-.
+He had gone a combined 1 - for - 7 from the field over his last two games , so it was good to see him get things turned around .	0	0	1	0	PROPN-ORG X-CARDINAL_COMPARISON ADV-CARDINAL NUM-CARDINAL PUNCT-.
+Grant went 5 - for - 7 from the field to score 13 points , while also adding two steals and four blocked shots in 29 minutes .	1	0	0	0	PROPN-PERSON NUM-CARDINAL NUM-QUANTITY PUNCT-QUANTITY ADP-QUANTITY PUNCT-QUANTITY NUM-QUANTITY PUNCT-.
+The Sixers also got some help from the bench from rookie Jerami Grant .	0	1	0	0	PROPN-PERSON NUM-CARDINAL PROPN-FAC NUM-CARDINAL PUNCT-.
+He 's averaging 9 points and 8 rebounds on the season .	0	0	1	0	PROPN-ORG X-CARDINAL_COMPARISON NUM-CARDINAL PROPN-GPE NUM-CARDINAL PUNCT-.
+Noel remains inconsistent with his scoring , but continues to dominate the boards and has grabbed double - digit rebounds in seven of his last eight games .	0	0	1	0	PROPN-PRODUCT NUM-CARDINAL PROPN-PERSON PUNCT-.
+Covington did receive some help though , as Nerlens Noel finished with 16 points ( 7 - 13 FG , 2 - 2 FT ) , 12 rebounds and a blocked shot .	1	1	0	0	PROPN-PERSON NUM-CARDINAL NOUN-CARDINAL NUM-CARDINAL PROPN-PERSON PUNCT-PERSON PROPN-PERSON NUM-CARDINAL PUNCT-.
+It was the most points he 's scored since the beginning of February , as he matched a season - high in hitting six three - point shots.	1	0	1	0	PROPN-PERSON PUNCT-PERSON PROPN-PERSON ADJ-ORDINAL ADJ-DATE SCONJ-DATE NUM-DATE NOUN-DATE PROPN-PERSON NUM-CARDINAL NUM-TIME NOUN-TIME PUNCT-.
+Robert Covington led the way , scoring 24 points ( 8 - 17 FG , 6 - 12 3Pt , 2 - 3 FT ) , to go along with two assists and three steals .	1	1	0	0	PROPN-ORG PROPN-GPE PROPN-ORG PROPN-DATE PUNCT-.
+The Sixers did n't have the best night shooting the ball , but they still finished at 47 percent from the field and 28 percent from the three - point line as a team .	1	1	0	0	PROPN-GPE PROPN-ORG PROPN-DATE PUNCT-.
+While both teams are likely going to miss the playoffs , it was still a nice win for the Sixers , who notch just their fifteenth victory of the season .	0	1	1	0	DET-ORG PROPN-ORG X-CARDINAL_COMPARISON PROPN-GPE NUM-76ers X-CARDINAL_COMPARISON PROPN-DATE NOUN-CARDINAL PROPN-GPE PUNCT-.
+They came out with a big third quarter though , where they out - scored the Kings 37 - 18 to give them just enough of a lead to secure the seven - point win in front of their home crowd .	0	1	0	0	DET-ORG PROPN-ORG X-CARDINAL_COMPARISON NUM-PERCENT NOUN-PERCENT NUM-PERCENT NOUN-PERCENT NUM-CARDINAL PROPN-ORG NUM-PERCENT NOUN-PERCENT NUM-PERCENT NOUN-PERCENT PUNCT-.
+After being out - scored by 20 points in the second quarter , the Sixers had themselves in a hole , as they were down 64 - 51 at the half .	0	1	0	0	DET-ORG PROPN-ORG X-CARDINAL_COMPARISON PROPN-ORG NUM-CARDINAL ADV-CARDINAL NUM-CARDINAL DET-ORG PROPN-ORG X-CARDINAL_COMPARISON DET-ORG PROPN-ORG X-CARDINAL_COMPARISON PROPN-GPE PROPN-DATE PUNCT-.
+The Philadelphia 76ers ( 15 - 50 ) defeated the Sacramento Kings ( 22 - 42 ) 114 - 107 on Friday at the Wells_Fargo_Center in Philadelphia .	1	1	0	0	DET-ORG PROPN-ORG X-CARDINAL_COMPARISON PROPN-PERSON PUNCT-.
+They will take on the East-leading Atlanta Hawks on Saturday .	0	0	1	0	X-CARDINAL_COMPARISON NUM-CARDINAL NOUN-CARDINAL NUM-CARDINAL PUNCT-.
+Jason Richardson also struggled , following up 29 - point performance Wednesday with zero points on 0 - of - 10 shooting Friday .	1	1	0	0	PROPN-PERSON NUM-CARDINAL PUNCT-.
+Luc Richard Mbah_a_Moute ( 14 ) and Ish Smith ( 14 ) round out the 76ers players in double figures .	1	1	0	0	ADJ-PERCENT SCONJ-PERCENT NUM-PERCENT NOUN-PERCENT NUM-CARDINAL PUNCT-.
+Thomas Robinson also recorded a double - double , recording 11 points and a team - high 12 rebounds in just 15 minutes of play .	1	1	0	0	PROPN-PERSON DET-DATE NOUN-DATE PROPN-PERSON NUM-CARDINAL X-CARDINAL_COMPARISON SYM-TIME NUM-TIME NOUN-TIME X-CARDINAL_COMPARISON NUM-CARDINAL PUNCT-.
+He also had six steals .	1	0	0	0	NUM-CARDINAL DET-DATE NOUN-DATE PUNCT-.
+Nerlens Noel had a double - double , putting up 10 points on 5 - of - 12 shooting and 11 rebounds in 37 minutes .	1	1	0	0	DET-ORG PROPN-ORG X-CARDINAL_COMPARISON DET-ORG PROPN-ORG X-CARDINAL_COMPARISON PUNCT-.
+Isaiah Canaan led the 76ers in scoring for the second game in a row , recording 16 points on 6 - of - 15 shooting to go along with four assists in 28 minutes .	1	1	0	0	NUM-CARDINAL X-CARDINAL_COMPARISON SYM-TIME NUM-TIME NOUN-TIME X-CARDINAL_COMPARISON SYM-QUANTITY NUM-QUANTITY PROPN-QUANTITY NUM-CARDINAL NUM-TIME NOUN-TIME PROPN-PERSON NUM-CARDINAL X-CARDINAL_COMPARISON SYM-PERCENT NUM-PERCENT NOUN-PERCENT X-CARDINAL_COMPARISON SYM-QUANTITY NUM-QUANTITY PROPN-QUANTITY NUM-CARDINAL NUM-TIME NOUN-TIME PUNCT-.
+The Jazz have now won eight of their last 11 games and will travel to Brooklyn Sunday to take on the Nets .	0	0	1	0	PROPN-ORG PROPN-PERSON NUM-CARDINAL X-CARDINAL_COMPARISON PUNCT-.
+Trey Burke was the only other member of Utah to score in double figures , putting up 10 points on 3 - of - 12 shooting in 30 minutes off the bench .	1	1	0	0	NUM-CARDINAL PUNCT-.
+Derrick Favors recorded 15 points and 10 rebounds , his first double - double in four games , while Rudy Gobert fell one point shy of a double - double , putting up nine points and a game - high 15 rebounds .	1	1	1	0	NUM-CARDINAL PUNCT-.
+The Jazz 's starting frontcourt was also strong in the winning effort .	0	1	0	0	PROPN-PERSON NUM-CARDINAL X-CARDINAL_COMPARISON NOUN-ORG X-CARDINAL_COMPARISON SYM-QUANTITY NUM-QUANTITY PROPN-QUANTITY NUM-CARDINAL PUNCT-.
+Hayward scored a game - high 25 points on 7 - of - 16 shooting and also recorded nine rebounds and four assists in 37 minutes .	1	1	0	0	PROPN-PRODUCT PUNCT-.
+The 76ers held a six - point lead early in the second half , but the Jazz slowly worked their way back and ultimately took the lead for good with Gordon Hayward leading the way .	0	1	0	0	ADV-ORDINAL NUM-CARDINAL PROPN-GPE NUM-CARDINAL PUNCT-.
+The Utah Jazz ( 25 - 36 ) defeated the Philadelphia 76ers ( 13 - 49 ) 89 - 83 on Friday .	1	1	0	0	PROPN-PERSON NUM-CARDINAL X-CARDINAL_COMPARISON SYM-TIME NUM-TIME NOUN-TIME X-CARDINAL_COMPARISON SYM-QUANTITY NUM-QUANTITY PROPN-QUANTITY NUM-CARDINAL ADV-TIME NUM-TIME NOUN-TIME PUNCT-.
+The Raptors ' next game will be at home against the Cleveland Cavaliers on Wednesday , while the Sixers will travel to Oklahoma_City to play the Thunder on Wednesday .	0	0	1	0	PROPN-PERSON ADJ-ORDINAL DET-DATE NOUN-DATE PUNCT-.
+Starting at point guard , Isaiah Canaan added 14 points ( 5 - 12 FG , 4 - 8 3Pt ) and three assists in 25 minutes as well .	1	0	0	0	PROPN-PERSON NUM-CARDINAL X-CARDINAL_COMPARISON SYM-PERCENT NOUN-ORG X-CARDINAL_COMPARISON NUM-CARDINAL NUM-TIME NOUN-TIME PUNCT-.
+It marked just his third time in double figures this season .	0	0	1	0	PROPN-ORG DET-ORG PROPN-ORG PROPN-DATE PROPN-ORG NOUN-ORG PROPN-DATE PUNCT-.
+Also coming off the bench , Thomas Robinson posted an efficient 13 points ( 6 - 8 FG , 1 - 2 FT ) and five rebounds in just 14 minutes .	1	0	0	0	DET-ORG PROPN-ORG X-CARDINAL_COMPARISON PROPN-GPE NUM-76ers X-CARDINAL_COMPARISON PROPN-DATE PUNCT-.
+Over his first five games since joining Philadelphia , he 's averaging 10 points and six assists .	0	0	1	0	PROPN-DATE NUM-CARDINAL DET-DATE ADJ-DATE NOUN-DATE DET-EVENT PROPN-EVENT PUNCT-EVENT X-CARDINAL_COMPARISON SYM-DATE NUM-DATE PROPN-GPE DET-ORG PROPN-ORG X-CARDINAL_COMPARISON SYM-DATE NUM-DATE PROPN-GPE PROPN-PERSON PUNCT-.
+It was far - and - away his best game since joining the Sixers at the trade deadline .	0	0	1	0	PROPN-PERSON NUM-CARDINAL NUM-DATE PUNCT-DATE ADP-DATE PUNCT-DATE NUM-DATE NUM-CARDINAL NUM-TIME NOUN-TIME PUNCT-.
+Coming off the bench , Ish Smith finished with 19 points ( 8 - 13 FG , 1 - 2 3Pt , 2 - 3 FT ) , five rebounds and nine assists .	1	0	0	0	DET-ORG PROPN-ORG X-CARDINAL_COMPARISON SYM-DATE NUM-DATE PROPN-GPE PROPN-DATE PUNCT-.
+Over his last three games , he 's now averaging 14 points and 11 rebounds , as he continues to improve as the season wears on .	0	0	1	0	PROPN-PERSON NUM-CARDINAL PROPN-ORG VERB-ORG ADJ-ORDINAL NUM-CARDINAL PROPN-PERSON NUM-CARDINAL PUNCT-.
+He also added seven rebounds and two steals .	1	0	0	0	PROPN-PERSON PROPN-GPE NUM-CARDINAL NUM-QUANTITY PUNCT-QUANTITY ADP-QUANTITY PUNCT-QUANTITY NUM-QUANTITY NUM-TIME NOUN-TIME PUNCT-.
+For the Sixers , Nerlens Noel continued with his strong play , posting 17 points on a perfect 7 - for - 7 from the field and 3 - for - 4 from the free throw line .	1	1	0	0	DET-ORG PROPN-ORG X-CARDINAL_COMPARISON PROPN-GPE NUM-CARDINAL X-CARDINAL_COMPARISON SYM-DATE NUM-DATE PROPN-GPE ADJ-DATE NUM-DATE PROPN-GPE PROPN-DATE PROPN-PERSON PUNCT-.
+Louis Williams went off for 21 points ( 6 - 15 FG , 2 - 9 3Pt , 7 - 7 FT ) and five assists in 30 minutes , while Patrick Patterson added 15 points ( 6 - 10 FG , 2 - 4 3Pt , 1 - 1 FT ) and four rebounds in 29 minutes .	1	0	0	0	PROPN-PERSON ADJ-ORDINAL NUM-CARDINAL NUM-QUANTITY PUNCT-QUANTITY ADP-QUANTITY PUNCT-QUANTITY NUM-QUANTITY NUM-CARDINAL NUM-TIME NOUN-TIME PUNCT-.
+The Raptors also got a huge boost from their bench though .	0	1	0	0	PROPN-PERSON NUM-CARDINAL NUM-TIME NOUN-TIME PUNCT-.
+It was his eighteenth start of the season , as he 's now pushed his season averages to 10 points and 4 assists on the year .	0	0	1	0	PROPN-PERSON NUM-CARDINAL PUNCT-.
+With Kyle Lowry sitting out on a day of rest , Greivis Vasquez started at the point , finishing with 12 points ( 5 - 8 FG , 2 - 4 3Pt ) and five assists .	1	1	0	1	PROPN-PERSON NUM-CARDINAL ADV-TIME NUM-TIME NOUN-TIME PUNCT-.
+He went 12 - for - 24 from the field and 1 - for - 3 from the three - point line to score a game - high of 35 points , while also adding nine rebounds and five assists .	1	1	0	0	PROPN-PERSON NUM-CARDINAL PROPN-PERSON NUM-CARDINAL PUNCT-) PROPN-DATE PUNCT-.
+Leading the Raptors was DeMar DeRozan , who was nearly unstoppable in this one .	0	1	0	0	PROPN-PERSON NUM-CARDINAL ADV-CARDINAL NUM-CARDINAL NUM-QUANTITY PUNCT-QUANTITY ADP-QUANTITY PUNCT-QUANTITY NUM-QUANTITY NUM-CARDINAL NUM-TIME NOUN-TIME PUNCT-.
+Despite an evenly played game , the Raptors forced the Sixers into 16 turnovers , while committing just 11 of their own , which may have made just enough of a difference to push the Raptors to a victory on the road in Philadelphia on Monday .	1	1	0	0	PROPN-PERSON NUM-CARDINAL PROPN-DATE NUM-CARDINAL NUM-DATE PUNCT-DATE ADP-DATE PUNCT-DATE NUM-DATE NOUN-DATE PROPN-DATE PUNCT-.
+Both teams shot surprisingly well in this one , with the Raptors finishing at 51 percent from the field and 41 percent from the three - point line , while the Sixers went 53 percent from the floor and 40 percent from deep .	1	1	0	0	NUM-CARDINAL ADJ-DATE NUM-DATE PROPN-ORG ADV-ORDINAL X-CARDINAL_COMPARISON PUNCT-.
+The Toronto Raptors ( 38 - 22 ) defeated the Philadelphia 76ers ( 13 - 47 ) 114 - 103 on Monday at the Wells_Fargo_Center in Philadelphia .	1	1	0	0	PROPN-DATE PROPN-LOC PROPN-ORG PROPN-DATE PUNCT-.
+Indiana returns home to host the Warriors , also on Sunday .	0	0	1	0	PROPN-GPE X-CARDINAL_COMPARISON SYM-CARDINAL NUM-CARDINAL DET-ORG PROPN-ORG NOUN-ORG X-CARDINAL_COMPARISON PROPN-DATE NOUN-CARDINAL PROPN-GPE PUNCT-.
+Up next , the Sixers head to Orlando to take on the Magic on Sunday .	0	0	1	0	NUM-CARDINAL DET-DATE ADJ-DATE NOUN-DATE PROPN-ORG PROPN-PRODUCT PROPN-ORG X-CARDINAL_COMPARISON PUNCT-.
+In his first game in more than two years , Jason Richardson scored seven points in 18 minutes .	1	0	1	0	PROPN-ORG DET-DATE ADJ-DATE NOUN-DATE PROPN-ORG X-CARDINAL_COMPARISON PROPN-ORG NUM-CARDINAL PROPN-ORG PUNCT-.
+Nerlens Noel added 12 points , nine rebounds and nine blocks , while Tim Frazier , who started with Michael Carter-Williams no longer on the roster , finished with 13 points .	1	0	0	0	PROPN-PRODUCT PROPN-ORG DET-DATE NOUN-DATE PUNCT-.
+The Pacers had 24 assists on 40 field goals and forced Philadelphia into 17 turnovers .	1	0	0	0	PROPN-ORG NUM-PERCENT NOUN-PERCENT NUM-PERCENT NOUN-PERCENT NUM-CARDINAL PUNCT-.
+Luis Scola added 16 points and seven rebounds , while Damjan Rudez chipped in 10 points .	1	0	0	0	PROPN-PERSON NUM-CARDINAL X-CARDINAL_COMPARISON NOUN-ORG X-CARDINAL_COMPARISON SYM-CARDINAL NUM-CARDINAL X-CARDINAL_COMPARISON SYM-QUANTITY NUM-QUANTITY PROPN-QUANTITY NUM-CARDINAL PUNCT-.
+Miles scored 17 points on 6 - of - 12 shooting .	1	0	0	0	PROPN-PERSON PART-PERSON DET-DATE NOUN-DATE ADP-DATE PROPN-DATE PROPN-PERSON NUM-CARDINAL PUNCT-.
+The Pacers had only one starter in double - figures , as C.J .	0	1	0	0	PROPN-PERSON NUM-CARDINAL X-CARDINAL_COMPARISON NOUN-ORG X-CARDINAL_COMPARISON NUM-CARDINAL PUNCT-.
+Indiana jumped out to a 23 - 16 lead in the first quarter and never looked back , extending the lead to 18 points at the half .	0	1	0	0	PROPN-PERSON NUM-CARDINAL PROPN-PERSON ADJ-DATE NUM-DATE PUNCT-.
+The Pacers ( 22 - 33 ) knocked off the 76ers ( 12 - 42 ) 106 - 95 behind 30 points and four assists from Rodney Stuckey .	1	1	0	0	PROPN-PERSON PART-PERSON NUM-CARDINAL DET-DATE NOUN-DATE PUNCT-.
+On the injury front , Michael Carter-Williams will work with team trainers Sunday to test out his injured foot and is considered questionable for Philadelphia 's next game , which is Monday against Golden_State .	0	0	0	1	PROPN-ORG PROPN-PERSON PUNCT-.
+Robert Covington had a game - high 22 points to go with eight rebounds and a block .	1	1	0	0	PROPN-PERSON X-CARDINAL_COMPARISON NUM-CARDINAL NUM-TIME NOUN-TIME PUNCT-.
+Tim Frazier moved into the starting lineup and dished out eight assists in 37 minutes of play .	1	0	0	0	PROPN-PERSON X-CARDINAL_COMPARISON PROPN-PERSON NUM-CARDINAL PROPN-PERSON PUNCT-.
+Philadelphia bounced back from a 107 - 96 loss in Boston on Friday to beat a Charlotte team that had won seven of its last ten games entering Saturday .	1	1	1	0	PROPN-PERSON NUM-CARDINAL X-CARDINAL_COMPARISON SYM-PERCENT NOUN-ORG X-CARDINAL_COMPARISON SYM-QUANTITY NUM-QUANTITY PROPN-QUANTITY NUM-CARDINAL PUNCT-.
+Charlotte has a slim one - game lead on Miami for the seventh spot in the East , with Brooklyn and Detroit also within striking distance .	0	0	1	0	PROPN-PERSON PUNCT-.
+Lance Stephenson had a tough night from the floor , going 3 - for - 11 on field goal attempts to finish with six points in 33 minutes on the floor .	1	1	0	0	PROPN-PERSON X-CARDINAL_COMPARISON NUM-CARDINAL PUNCT-.
+Charlotte notched two victories against Washington earlier in the week , but was unable to carry that momentum into Saturday 's contest .	0	0	1	0	PROPN-PERSON ADJ-ORDINAL PUNCT-.
+The Hornets were outscored by 17 after Kidd-Gilchrist left the contest .	0	1	0	0	NUM-CARDINAL PROPN-PERSON PART-PERSON NUM-CARDINAL PROPN-PERSON PART-PERSON NUM-CARDINAL PUNCT-.
+Charlotte 's Michael Kidd-Gilchrist went down with a hamstring injury and did not return .	0	0	0	1	PROPN-PERSON NOUN-ORG PUNCT-.
+The 76ers were down by six at the half , but outscored the Hornets 28 - 13 in the third quarter to gain the lead .	0	1	0	0	NUM-TIME NOUN-TIME PROPN-PERSON NUM-CARDINAL X-CARDINAL_COMPARISON SYM-TIME NUM-TIME PROPN-TIME X-CARDINAL_COMPARISON SYM-QUANTITY NUM-QUANTITY PROPN-QUANTITY NUM-CARDINAL PUNCT-.
+Philadelphia won its fourth straight home game despite being without point guard Michael Carter-Williams , who was sidelined with a foot injury .	0	0	1	1	PROPN-PERSON PART-PERSON PROPN-ORG NUM-CARDINAL ADP-PERCENT NUM-PERCENT NOUN-PERCENT PUNCT-.
+The Philadelphia 76ers ( 12 - 40 ) defeated the Charlotte Hornets ( 22 - 28 ) 89 - 81 on Saturday at the Wells_Fargo_Center .	1	1	0	0	PROPN-PERSON NUM-CARDINAL X-CARDINAL_COMPARISON NOUN-ORG X-CARDINAL_COMPARISON NUM-QUANTITY PROPN-QUANTITY NUM-CARDINAL NUM-TIME NOUN-TIME PUNCT-.
+The Knicks ' next game will be at home against the Orlando Magic on Friday , while the Sixers will be at home against the Toronto Raptors on Friday .	0	0	1	0	PROPN-ORG DET-ORG PROPN-ORG PROPN-DATE NOUN-ORG PROPN-GPE PROPN-ORG PROPN-DATE PUNCT-.
+McDaniels who had 12 points ( 4 - 13 FG , 2 - 3 3Pt , 2 - 2 FT ) in 24 minutes .	1	0	0	0	DET-ORG PROPN-ORG X-CARDINAL_COMPARISON DET-ORG PROPN-ORG X-CARDINAL_COMPARISON PROPN-GPE X-CARDINAL_COMPARISON NUM-CARDINAL PUNCT-.
+The only other Sixer to reach double figures in points was K.J .	0	1	0	0	PROPN-ORG NUM-CARDINAL PUNCT-.
+It was only his third double - double of the season , but second in his last three games .	0	0	1	0	PROPN-PERSON NUM-CARDINAL ADJ-ORDINAL PUNCT-.
+Henry Sims was able to notch a double - double , contributing 11 points ( 4 - 12 FG , 3 - 4 FT ) and 12 rebounds .	1	1	0	0	PROPN-PERSON ADJ-PERSON PROPN-PERSON ADJ-DATE NOUN-DATE PUNCT-.
+The four asssists marked a new season - high for him , as he 's averaged only 1 assists per game so far this season .	0	0	1	0	DET-WORK_OF_ART PROPN-WORK_OF_ART X-CARDINAL_COMPARISON PUNCT-) DET-LAW PROPN-LAW X-CARDINAL_COMPARISON NUM-CARDINAL PUNCT-.
+Covington on the other had finished with 17 points ( 5 - 11 FG , 3 - 8 3Pt , 4 - 4 FT ) and four assists .	1	0	0	0	DET-ORG PROPN-ORG X-CARDINAL_COMPARISON NUM-CARDINAL PUNCT-.
+He 's now scored 20 or more points in four out of his last six games , as he 's the clear scoring leader for this struggling Sixers team .	0	0	1	0	PROPN-PERSON PROPN-ORG PUNCT-.
+Carter-Williams had himself a day , finishing with 27 points ( 10 - 26 FG , 0 - 1 3Pt , 7 - 8 FT ) , six rebounds , seven assists and five steals .	1	0	0	0	PROPN-PERSON PROPN-DATE PUNCT-.
+The Sixers saw most of their production from the duo of Michael Carter-Williams and Robert Covington .	0	1	0	0	PROPN-PERSON ADJ-ORDINAL PROPN-PERSON PUNCT-.
+Coming off the bench , Tim Hardaway Jr. added 13 points ( 5 - 13 FG , 0 - 3 3Pt , 3 - 4 FT ) in 20 minutes .	1	0	0	0	PROPN-PERSON NUM-CARDINAL NUM-TIME NOUN-TIME PUNCT-.
+The rebounds , assists , steals and blocks all either marked a new season - high or matched one from earlier this month .	1	0	1	0	PROPN-PERSON NUM-TIME NOUN-TIME PROPN-PERSON PROPN-PRODUCT NUM-CARDINAL DET-TIME ADJ-TIME NUM-TIME NOUN-TIME PUNCT-.
+In just his sixth game and second start of the year , rookie Langston Galloway had a solid day , filling up the stat sheet with 11 points ( 5 - 11 FG , 1 - 2 3Pt , 0 - 1 FT ) , seven rebounds , four assists , two steals and a block .	1	1	1	0	PROPN-PERSON NUM-CARDINAL NUM-TIME NOUN-TIME NUM-CARDINAL NUM-TIME NOUN-TIME NUM-CARDINAL PROPN-PRODUCT PUNCT-.
+He had a very poor showing in Monday 's game against the Pelicans , so it was good to see him regain some of his confidence and shoot the ball well .	0	1	1	0	DET-ORG PROPN-ORG DET-ORG PROPN-ORG PROPN-DATE ADJ-ORDINAL PROPN-PERSON PUNCT-.
+He went 5 - for - 10 from the field and 3 - for - 6 from the three - point line to score 15 points , while adding seven assists as well .	1	0	0	0	PROPN-ORG NUM-DATE NOUN-DATE DET-ORG PROPN-ORG PUNCT-.
+Jose Calderon had a strong showing of his own .	0	1	0	0	PROPN-GPE X-CARDINAL_COMPARISON DET-ORG PROPN-ORG X-CARDINAL_COMPARISON SYM-DATE NUM-DATE PROPN-DATE PROPN-GPE PUNCT-.
+It was his fourth double - double of the season , while he 's averaged 25 points and 8 rebounds per game over his last three matchups .	0	0	1	0	PROPN-PERSON ADV-TIME NUM-TIME NOUN-TIME PUNCT-.
+For the Knicks , Carmelo Anthony came out firing Wednesday , scoring 27 points ( 8 - 24 FG , 2 - 7 3Pt , 9 - 10 FT ) , while also recording 11 rebounds and four assists .	1	0	0	0	NUM-CARDINAL NUM-QUANTITY PUNCT-QUANTITY ADP-QUANTITY PUNCT-QUANTITY NUM-QUANTITY NUM-CARDINAL PUNCT-.
+The Knicks also out - rebounded the Sixers 52 - 43 , even furthering their advantage in this one .	0	1	0	0	PROPN-PERSON PROPN-GPE PROPN-PERSON PUNCT-.
+The Knicks were the better shooters in this game , going 41 percent from the field and 35 percent from the three - point line , while the Sixers went just 37 percent from the floor and 35 percent from beyond the arc .	1	1	0	0	NUM-CARDINAL NUM-QUANTITY PUNCT-QUANTITY ADP-QUANTITY PUNCT-QUANTITY NUM-QUANTITY NUM-CARDINAL NUM-TIME NOUN-TIME PUNCT-.
+The New_York Knicks ( 7 - 36 ) defeated the Philadelphia 76ers ( 8 - 34 ) 98 - 91 on Wednesday at the Wells_Fargo_Center in Philadelphia .	1	1	0	0	PROPN-PERSON ADV-CARDINAL NUM-CARDINAL NUM-QUANTITY PUNCT-QUANTITY ADP-QUANTITY PUNCT-QUANTITY NUM-QUANTITY NUM-CARDINAL NUM-TIME NOUN-TIME PUNCT-.
+The Thunder will also travel to the Motor City for a date with the Pistons on Sunday evening .	0	0	1	0	PROPN-PERSON NUM-CARDINAL NUM-QUANTITY PUNCT-QUANTITY ADP-QUANTITY PUNCT-QUANTITY NUM-QUANTITY NUM-TIME NOUN-TIME ADJ-ORDINAL NUM-CARDINAL PROPN-PERSON PUNCT-.
+Next up , the Sixers head to Detroit to take on the Pistons on Saturday night .	0	0	1	0	PROPN-PERSON NUM-CARDINAL NUM-TIME NOUN-TIME PUNCT-.
+Nerlens Noel added 11 points and 10 rebounds , and Luc Richard Mbah_a_Moute had 11 points in 27 minutes .	1	0	0	0	PROPN-PERSON PROPN-ORG NUM-CARDINAL PUNCT-.
+Four Sixers ’ starters finished in double - figures , with Michael Carter-Williams ’ 16 points and 14 rebounds setting the pace .	1	1	0	0	PROPN-GPE NOUN-ORDINAL NUM-CARDINAL PROPN-PERSON ADJ-ORDINAL PROPN-ORG PUNCT-.
+McDaniels added 11 points .	1	0	0	0	PROPN-ORG PROPN-PERSON NUM-CARDINAL PROPN-PERSON PROPN-ORG PUNCT-.
+Robert Covington led the way with 21 points ( 8 - 13 FG ) off the bench , and K.J .	1	1	0	0	PROPN-PERSON ADJ-ORDINAL PUNCT-.
+Philadelphia shot a paltry 38 percent from the floor and committed 17 turnovers .	1	0	0	0	PROPN-GPE PUNCT-.
+The Sixers , meanwhile , came back to reality after winning their first game of the season over Minnesota on Wednesday .	0	0	1	1	PROPN-PERSON PROPN-TIME NOUN-TIME PART-TIME NUM-CARDINAL NOUN-CARDINAL NUM-CARDINAL NUM-TIME NOUN-TIME PUNCT-.
+Oklahoma_City shot nearly 50 percent from the field and converted 24 - of - 31 free throws .	1	1	0	0	PROPN-PERSON PUNCT-PERSON PROPN-PERSON PUNCT-PERSON PROPN-PERSON NUM-CARDINAL PROPN-DATE NUM-CARDINAL NUM-DATE PUNCT-DATE ADP-DATE PUNCT-DATE NUM-DATE NUM-CARDINAL NUM-TIME NOUN-TIME PUNCT-.
+The Thunder also got contributions from the bench , with Reggie Jackson and Jeremy Lamb contributing 11 and 15 points , respectively .	1	1	0	0	PROPN-PERSON PROPN-ORG PROPN-GPE PUNCT-.
+Serge Ibaka had 19 points and four rebounds , and Russell Westbrook put up a game - high 27 points ( 10 - 14 FT ) with seven assists and six turnovers .	1	1	0	0	NUM-CARDINAL PROPN-ORG PUNCT-.
+In just his second game back , Kevin Durant struggled , finishing with 10 points on 3 - of - 11 shooting to go with six rebounds and three assists in 29 minutes .	1	0	1	0	PROPN-DATE PROPN-PERSON PROPN-DATE PROPN-ORG PROPN-DATE PUNCT-.
+The lead was extended to as much as 18 in the third quarter , and coach Scott Brooks held out many of his regulars for most of the fourth quarter .	0	1	0	0	DET-ORG PROPN-ORG X-CARDINAL_COMPARISON PROPN-GPE NUM-76ers X-CARDINAL_COMPARISON SYM-CARDINAL NUM-CARDINAL PROPN-DATE PROPN-GPE PUNCT-.
+Oklahoma_City jumped out to a seven - point first quarter lead and led by 10 points at halftime .	0	1	0	0	DET-ORG PROPN-ORG X-CARDINAL_COMPARISON ADP-without PROPN-PERSON DET-ORG PROPN-ORG X-CARDINAL_COMPARISON SYM-DATE NUM-DATE PROPN-DATE PUNCT-.
+The Thunder ( 6 - 13 ) knocked off the 76ers ( 1 - 18 ) 103 - 91 in Philadelphia on Friday night .	1	1	0	0	PROPN-PERSON NUM-CARDINAL X-CARDINAL_COMPARISON NOUN-ORG X-CARDINAL_COMPARISON SYM-TIME NUM-TIME PROPN-TIME NUM-CARDINAL NUM-TIME NOUN-TIME PUNCT-.
+The Blazers ' next game will be on the road in Charlotte against the Hornets on Wednesday , while the Sixers will be at home against the Brooklyn Nets on Wednesday .	0	0	1	0	PROPN-PERSON NUM-CARDINAL X-CARDINAL_COMPARISON NOUN-ORG X-CARDINAL_COMPARISON SYM-CARDINAL NUM-CARDINAL X-CARDINAL_COMPARISON SYM-QUANTITY NUM-QUANTITY PROPN-QUANTITY NUM-TIME NOUN-TIME PROPN-PERSON NUM-CARDINAL X-CARDINAL_COMPARISON PROPN-ORG NUM-CARDINAL NUM-TIME NOUN-TIME PUNCT-.
+Coming off the bench , Nerlens Noel had 12 points and five rebounds .	1	0	0	0	PROPN-PERSON NUM-CARDINAL NUM-TIME NOUN-TIME PROPN-PERSON NUM-CARDINAL PROPN-PERSON NUM-CARDINAL PUNCT-) PUNCT-.
+Sims finished with 22 points , which was a nice surprise for the Sixers as he 's only averaging 9 points on the season .	1	0	1	0	PROPN-GPE NUM-PERCENT NOUN-PERCENT NUM-PERCENT NOUN-PERCENT NUM-CARDINAL DET-ORG PROPN-ORG CCONJ-ORG PROPN-ORG ADJ-ORDINAL NOUN-PERSON PUNCT-.
+The third Sixer who reached the 20 - point mark was starting center Henry Sims .	0	1	0	0	PROPN-PERSON NOUN-TIME NUM-CARDINAL X-CARDINAL_COMPARISON SYM-PERCENT PROPN-ORG X-CARDINAL_COMPARISON SYM-TIME NUM-TIME PROPN-TIME ADV-TIME NUM-TIME NOUN-TIME PROPN-GPE DET-TIME NOUN-TIME PUNCT-.
+He came one assist shy of his second double - double of the season and finished with 20 points and nine assists .	1	1	1	0	PROPN-PERSON NUM-CARDINAL X-CARDINAL_COMPARISON NOUN-ORG X-CARDINAL_COMPARISON NUM-TIME NOUN-TIME PUNCT-.
+Fellow backcourt mate Tony Wroten also had a solid all - around game on Monday .	0	1	0	0	PROPN-PERSON NUM-CARDINAL PROPN-PERSON NUM-CARDINAL PROPN-PERSON DET-TIME NOUN-TIME PUNCT-.
+It was his seventh game of the season after sitting out with injury , and he seems to be getting back in a rhythm .	0	0	1	1	NUM-PERCENT NOUN-PERCENT PROPN-GPE NUM-CARDINAL ADJ-ORDINAL PUNCT-.
+The Sixers were led by Michael Carter-Williams , who scored a season - high 24 points , while also grabbing seven rebounds .	1	1	1	0	PROPN-ORG PROPN-GPE PROPN-DATE PROPN-PERSON NOUN-DATE PROPN-GPE PROPN-ORG PROPN-DATE PUNCT-.
+The only other Blazer to reach double figures in scoring was Robin Lopez , who had 12 points and eight rebounds .	1	1	0	0	DET-ORG PROPN-ORG X-CARDINAL_COMPARISON PROPN-GPE NUM-76ers X-CARDINAL_COMPARISON PROPN-DATE NOUN-CARDINAL PROPN-GPE PUNCT-.
+Wes Matthews was the other major contributor on the offensive side of the ball , as he shot 6 - for - 16 from the field and 2 - for - 8 from beyond the arc to score 17 points in 32 minutes .	1	1	0	0	DET-ORG PROPN-ORG X-CARDINAL_COMPARISON DET-ORG PROPN-ORG X-CARDINAL_COMPARISON ADJ-ORDINAL PROPN-ORG PUNCT-.
+He 's now averaging 20 points and 7 assists on the year .	0	0	1	0	DET-ORG PROPN-ORG X-CARDINAL_COMPARISON ADJ-ORDINAL NOUN-PERSON DET-DATE VERB-DATE PROPN-DATE PUNCT-.
+Fellow superstar Damian Lillard shot 6 - for - 11 from the field and 1 - for - 4 from the three - point line to score 16 points , while also grabbing five rebounds and handing out four assists .	1	0	0	0	PROPN-PERSON NOUN-ORG PUNCT-.
+He went off for 33 points ( 13 - 20 FG , 1 - 1 3Pt , 6 - 7 FT ) and 11 rebounds , giving him his second straight double - double and fifth on the year .	1	1	1	0	PROPN-ORG DET-ORG PROPN-ORG X-CARDINAL_COMPARISON PROPN-PERSON NUM-CARDINAL PROPN-PRODUCT PUNCT-.
+LaMarcus Aldridge was an unstoppable force on Monday , as the Sixers ' young frontcourt had no answer for him .	0	1	0	0	DET-ORG PROPN-ORG X-CARDINAL_COMPARISON NUM-PERCENT NOUN-PERCENT NUM-PERCENT NOUN-PERCENT NUM-CARDINAL PROPN-ORG NUM-PERCENT NOUN-PERCENT ADV-PERCENT NUM-PERCENT NOUN-PERCENT PUNCT-.
+This is the eigth straight victory for the Blazers , who now have the second best record in the Western_Conference .	0	0	1	0	PROPN-PERSON PUNCT-PERSON PROPN-PERSON NUM-CARDINAL X-CARDINAL_COMPARISON NOUN-ORG X-CARDINAL_COMPARISON NUM-CARDINAL PUNCT-.
+The Sixers big men also struggled with the Blazers ' bigs , as they were out - rebounded by a hefty 52 - 29 margin .	0	1	0	0	PROPN-PERSON PUNCT-PERSON PROPN-PERSON NUM-CARDINAL PROPN-PERSON PUNCT-PERSON PROPN-PERSON PART-PERSON NUM-CARDINAL DET-ORG PROPN-ORG X-CARDINAL_COMPARISON PUNCT-) DET-ORG PROPN-ORG X-CARDINAL_COMPARISON PROPN-PERSON PUNCT-PERSON PROPN-PERSON DET-ORG PROPN-ORG X-CARDINAL_COMPARISON DET-ORG PROPN-ORG PUNCT-.
+Despite taking a 52 - 50 lead into halftime , the Sixers came out of the half cold and were out - scored by the Blazers 39 - 28 in the third quarter , allowing them to coast to the 10 - point victory .	0	1	0	0	PROPN-PERSON NUM-CARDINAL X-CARDINAL_COMPARISON NOUN-ORG X-CARDINAL_COMPARISON SYM-TIME NUM-TIME PROPN-TIME NUM-CARDINAL NUM-TIME NOUN-TIME PUNCT-.
+The Portland Trail_Blazers ( 11 - 3 ) defeated the Philadelphia 76ers ( 0 - 14 ) 114 - 104 on Monday at the Wells_Fargo_Center in Philadelphia .	1	1	0	0	PROPN-PERSON NUM-CARDINAL DET-ORG PROPN-ORG X-CARDINAL_COMPARISON PROPN-DATE PUNCT-.
+The Sixers will have a legitmitate chance at their first win of the season Saturday when they go to New_York to face the Knicks .	0	0	1	0	ADJ-CARDINAL NUM-CARDINAL PROPN-PERSON NOUN-ORG PUNCT-.
+McDaniels scored a career - high 17 points in 28 minutes , and the fact that he played so many minutes after commenting to the media that he is frustrated with his playing time indicates that the team did n't take much offense to his comments .	1	0	1	1	PUNCT-.
+K.J .	0	0	0	1	PROPN-PERSON NUM-CARDINAL X-CARDINAL_COMPARISON NOUN-ORG X-CARDINAL_COMPARISON SYM-QUANTITY NUM-QUANTITY PROPN-QUANTITY NUM-CARDINAL PROPN-ORG NUM-CARDINAL X-CARDINAL_COMPARISON NOUN-ORG X-CARDINAL_COMPARISON SYM-QUANTITY NUM-QUANTITY PROPN-QUANTITY NUM-CARDINAL PROPN-PERSON PUNCT-.
+Tony Wroten started at shooting guard next to Michael Carter-Williams on Friday , an experiment the Sixers seemed to be opposed to coming into this season , and it 's a starting lineup that is unlikely to stick .	0	0	1	1	PROPN-ORG PROPN-PERSON PUNCT-.
+While that 's a deplorable situation to be in regardless of the situation , it 's in no way a surprise that the Sixers have n't been able to pull off a win .	0	0	1	1	PROPN-PERSON X-CARDINAL_COMPARISON NUM-CARDINAL X-CARDINAL_COMPARISON NUM-CARDINAL PUNCT-.
+Philadelphia has lost 12 straight games to start the season .	0	0	1	0	NUM-CARDINAL PUNCT-.
+They 'll continue their trip Saturday in Indiana against the Pacers .	0	0	1	0	NUM-CARDINAL PUNCT-.
+He put up 23 points and eight rebounds in 24 minutes off the bench .	1	0	0	0	PROPN-PERSON NUM-CARDINAL X-CARDINAL_COMPARISON SYM-TIME NUM-TIME PROPN-TIME X-CARDINAL_COMPARISON SYM-CARDINAL NUM-CARDINAL X-CARDINAL_COMPARISON SYM-QUANTITY NUM-QUANTITY PROPN-QUANTITY NUM-CARDINAL NUM-TIME NOUN-TIME PUNCT-.
+Isaiah Thomas paced the Suns on Friday .	0	1	0	0	PROPN-PERSON ADJ-PERCENT SCONJ-PERCENT NUM-PERCENT NOUN-PERCENT NUM-CARDINAL PROPN-PERSON ADJ-DATE NUM-DATE PROPN-DATE PROPN-PERSON PUNCT-.
+After dropping the first game of the trip 120 - 107 to the Los Angeles Clippers , they 've rattled off three consecutive wins over some of the never - weres of the Eastern_Conference .	0	0	1	0	PROPN-PERSON PUNCT-.
+Phoenix is in the midst of a six - game road trip .	0	0	1	0	PROPN-PERSON NUM-CARDINAL X-CARDINAL_COMPARISON SYM-PERCENT NOUN-ORG X-CARDINAL_COMPARISON NUM-CARDINAL PROPN-PERSON NUM-CARDINAL X-CARDINAL_COMPARISON NOUN-ORG X-CARDINAL_COMPARISON SYM-CARDINAL NUM-CARDINAL X-CARDINAL_COMPARISON PROPN-QUANTITY NUM-CARDINAL PUNCT-.
+The Phoenix Suns ( 8 - 5 ) defeated the Philadelphia 76ers ( 0 - 12 ) 122 - 96 on Friday .	1	1	0	0	PROPN-ORG DET-ORG PROPN-ORG PROPN-DATE PROPN-ORG DET-ORG PROPN-ORG PROPN-DATE PUNCT-.
+For the Raptors , Kyle Lowry went 6 - for - 20 from the field and 2 - for - 4 from the three - point line to match a team - high of 16 points , while also recording six rebounds and four assists .	1	1	0	0	
+The Clippers shot 49 percent from three - point range , while the Celtics shot 26 percent .	1	0	0	0	
+Giannis Antetokounmpo struggled , scoring only 10 points on 3 - of - 13 shooting .	1	1	0	0	
+The Wizards shot 46 percent from the field , compared to Milwaukee ’ s 43 percent .	1	1	0	0	
+The Heat 's next game will be on the road against the Los_Angeles Lakers on Tuesday , while the Clippers will travel to Portland to play the Trail_Blazers on Wednesday .	0	0	1	0	
+They just did n't have the scoring balance to keep it close .	0	1	0	0	
+The Clippers bench had a very poor showing , contributing only15 points .	0	1	0	0	
+J.J. Redick was the other Clipper to reach double figures in points with 14 ( 6 - 10 FG , 2 - 4 3Pt ) of his own .	1	1	0	0	
+This marked the first time over his last four games failing to surpass the 10 assist mark .	0	0	1	0	
+He nearly posted a double - double , as he finished with 23 points ( 9 - 17 FG , 3 - 8 3Pt , 2 - 2 FT ) and nine assists .	1	1	0	0	
+Chris Paul also found a lot of success against the Heat .	0	1	0	0	
+He 's had a very strong week , averaging 25 points and eight rebounds per game over his last four games .	0	0	1	0	
+He went 10 - for - 19 from the floor and 1 - for - 3 from the three - point line to score a team - high of 26 points .	1	1	0	0	
+The Clippers were led by Blake Griffin in this game .	0	1	0	0	
+The only other Heat player to reach double figures in points was Luol Deng , who had 10 points ( 4 - 9 FG , 2 - 5 3Pt ) .	1	1	0	0	
+He 's received more playing time lately and has cashed in with four straight double - digit point performances , despite not recording one at any other time in the season .	0	0	1	0	
+He went 10 - for - 13 from the field for 23 points , while adding 16 rebounds , two steals and two blocked shots in 28 minutes .	1	0	0	0	
+In another surprise performance , the Heat received a huge contribution from Hassan Whiteside off of the bench .	0	1	1	0	
+It was only his third double - double so far this year .	0	0	1	0	
+Wade on the other hand recorded 17 points ( 5 - 15 FG , 0 - 2 3Pt , 7 - 9 FT ) and 10 assists .	1	0	0	0	
+The 34 points matched a season - high for him , pushing his season average to 22 points per game .	0	0	1	0	
+Bosh led all scorers , going 13 - for - 20 from the field and 2 - for - 5 from the three - point line to score 34 points , while also adding seven rebounds .	1	1	0	0	
+The Heat 's duo of Chris Bosh and Dwyane Wade were again a big reason for their success .	0	1	0	0	
+The Heat out - rebounded the Clippers 46 - 27 , which gave them just enough of an advantage to secure the victory .	0	1	0	0	
+They got it done on the defensive side of the ball in the second half , allowing them to secure the road win .	0	1	0	0	
+The Heat had a strong first half in this one , out - scoring the Clippers 62 - 53 to give them a nice lead heading into the third quarter .	0	1	0	0	
+The Miami Heat ( 16 - 21 ) defeated the Los_Angeles Clippers ( 25 - 13 ) 104 - 90 on Sunday at the Staples_Center in Los_Angeles .	1	1	0	0	
+Ersan Ilyasova ( concussion ) and John Henson ( foot ) remain out , and it seems Ilyasova may be closer to returning than Henson .	0	1	0	0	
+Larry Sanders returned to the starting lineup after sitting out Thursday 's game on a league mandated one - game suspension .	0	0	1	0	
+He played over 37 minutes for the second straight game Saturday , which is ten more minutes than his season average of 27 minutes per game .	0	0	1	0	
+In the three games since Jabari Parker went down with a season - ending ACL injury , coach Jason Kidd has cut the umbilical cord they had on Giannis Antetokounmpo .	0	0	1	0	
+Even with the loss , Milwaukee finished their four - game Western_Conference road trip 2 - 2 , a job well done by the developing squad .	0	0	1	0	
+The Clippers have a tough stretch of their schedule coming up with the Spurs , Hawks , Warriors and Raptors all on this week 's docket .	0	0	1	0	
+DeAndre Jordan continued his impressive work on the boards , pulling down 16 rebounds , and Blake Griffin and J.J. Redick joined Paul in scoring over 20 points .	1	0	1	0	
+Chris Paul paced the team with a game - high 27 points and nine assists .	1	1	0	0	
+Los_Angeles has won three of their last four games .	0	0	1	0	
+The Los_Angeles Clippers ( 19 - 8 ) defeated the Milwaukee Bucks ( 14 - 14 ) 106 - 102 on Saturday .	1	1	0	0	
+The Suns ' next game will be at home against the Miami Heat on Tuesday , while the Clippers will travel to Indiana to play the Pacers on Wednesday .	0	0	1	0	
+Their was a nice bench presence as well , with Alex Len , Gerald Green and Marcus Morris all reaching double figures in points .	0	1	0	0	
+Both Markief Morris and Goran Dragic also had big games , with Morris contributing 21 points and seven rebounds , and Dragic having 17 points and eight assists .	1	1	0	0	
+He has been on fire offensively of late , so we 'll see if he can continue with that type of production .	0	0	1	0	
+The points , assists and rebounds were all season - highs for Bledsoe , who notched his first triple - double of the year .	0	0	1	0	
+Bledsoe was able to convert on a perfect 9 - of - 9 from the free throw line as well .	1	0	0	0	
+He shot 8 - for - 16 from the field and 2 - for - 6 from beyond the arc to score 27 points , while also adding 16 assists , 11 rebounds and two blocks .	1	0	0	0	
+For the Suns , Eric Bledsoe exploded for a monster line Monday .	0	1	0	0	
+J.J. Redick chipped in 17 points as well .	1	0	0	0	
+It was the fifteenth time in his last sixteen games that he 's recorded at least 11 rebounds .	0	0	1	0	
+DeAndre Jordan also recorded a double - double of his own , with 10 points and 14 rebounds .	1	1	0	0	
+It marked his third double - double in a row and eleventh on the year .	0	0	1	0	
+Chris Paul scored 20 points ( 8 - 23 FG , 1 - 9 3Pt , 3 - 4 FT ) , while also recording 10 assists .	1	0	0	0	
+Griffin did have some help though .	0	1	0	0	
+He 's now combined for 75 points in the last two games and is on a scoring tear .	0	0	1	0	
+He was able to get to the free throw line at will , and finished the game making 15 - of - 17 .	1	1	0	0	
+Griffin was a force tonight , as he went 14 - for - 24 from the field and 2 - for - 2 from the three - point line to score a season - high of 45 points .	1	1	1	0	
+Although they were n't able to seal the win at the end of regulation , the Clippers still got the last laugh , as Blake Griffin capped off his spectacular night with a three - point dagger at the buzzer .	0	1	0	0	
+He barely got the shot off , but it did n't matter , as Eric Bledsoe got a hand on it , therefore pushing the game to overtime .	0	1	0	0	
+With the game tied at the end of the fourth quarter , Chris Paul was chosen to take the final shot .	0	1	0	0	
+The Los_Angeles Clippers ( 15 - 5 ) defeated the Phoenix Suns ( 12 - 10 ) 121 - 120 on Monday at the Staples_Center in Los_Angeles .	1	1	0	0	
+The Pelicans will stay in Los_Angeles to play the Los_Angeles Lakers on the second game of their back - to - back set .	0	0	1	0	
+Anthony Davis finished with 26 points but corralled just three rebounds .	1	0	0	0	
+Gal Mekel made his Pelicans debut , dishing six assists in just 11 minutes of action off the bench .	1	0	1	0	
+New_Orleans has dropped five of their last six games , reeling due to the absence of Eric Gordon , or simply a lack of cohesion on a team that is starting to appear as though it will fail to meet expectations for a second straight season .	0	0	1	0	
+They 'll stay home to host the Phoenix Suns on Monday .	0	0	1	0	
+As a team , the Clippers shot 55 percent from the field and 53 percent from beyond the three - point line .	1	0	0	0	
+Chris Paul displayed his scoring and dishing talents , finishing with 18 points and 16 assists in 30 minutes .	1	1	0	0	
+Blake Griffin led the way with a game - high 30 points in 30 minutes .	1	1	0	0	
+Los_Angeles has won seven straight games , coasting through arguably the easiest stretch of their schedule this season .	0	0	1	0	
+The Los_Angeles Clippers ( 14 - 5 ) defeated the New_Orleans Pelicans ( 8 - 10 ) 120 - 100 on Saturday .	1	1	0	0	
+The Clippers remain home and will face the Magic , also on Wednesday .	0	0	1	0	
+Up next , the Timberwolves play host to the winless 76ers on Wednesday .	0	0	1	0	
+Spencer Hawes provided a solid 20 minutes off the bench , knocking down four threes en route to 14 points , four rebounds and two assists .	1	1	0	0	
+J.J. Redick added 23 points of his own , and DeAndre Jordan had an 11 - point , 13 rebound double - double .	1	1	0	0	
+The Clippers were led by 23 points and eight rebounds from Blake Griffin , who converted 8 - of - 14 field goal attempts .	1	1	0	0	
+Minnesota shot just 43 percent as a team and was out - rebounded 50 - 32 .	1	1	0	0	
+Robbie Hummel and Zach Lavine had 13 and 10 points , respectively , while Andrew Wiggins was the only starter in double - figures with 14 .	1	1	0	0	
+The Wolves were led Monday by second - year swingman Shabazz Muhammad , who scored 18 points to go with 10 rebounds and four assists in 27 minutes off the bench .	1	1	0	0	
+It was the second loss in as many nights for the Timberwolves , who fell to Portland 107 - 93 on Sunday .	0	0	1	0	
+The Clippers ( 12 - 5 ) extended their winning streak to five games Monday night , knocking off the Timberwolves 127 - 101 at the Staples_Center .	1	1	1	0	
+The Bulls ' will stay on the road as their next game will be in Sacramento on Thursday , while Los_Angeles will travel to Orlando to face the Magic on Wednesday .	0	0	1	0	
+The NBA 's leading rebounder , DeAndre Jordan , continued to clean up the glass , as he collected 17 rebounds , while also adding 10 points ( 5 - 6 FG ) .	1	1	0	0	
+While Griffin was the better all - around player , Clippers sixth man Jamal Crawford lead the entire team with 24 points ( 10 - 17 FG , 1 - 5 3Pt , 3 - 5 FT ) , while also dishing out five assists .	1	1	0	0	
+The Los_Angeles Clippers were lead by potential MVP candidate Blake Griffin , who had a 19 point ( 7 - 15 FG , 5 - 10 FT ) , 10 rebound double - double performance .	1	1	0	0	
+Coming off the bench , rookie forward Nikola Mirotic had an extremely solid performance , as he had 11 points ( 5 - 10 FG , 1 - 4 3Pt ) , while also grabbing seven rebounds .	1	1	0	0	
+While he only had 11 points ( 5 - 8 FG ) , Joakim Noah was able to make a tremendous impact as he had a season - high 16 rebounds and six assists .	1	1	1	0	
+The Chicago Bulls had all five starters score in double - digits , with Jimmy Butler leading the way scoring 22 points ( 6 - 17 FG , 1 - 4 3Pt , 9 - 10 FT ) , while also contributing six rebounds and a game - high eight assists .	1	1	0	0	
+As the game transitioned to the second half , Chicago 's offense heated up as they shot an outstanding 59 percent until the end of the game , while Los_Angeles only shot 44 percent .	0	1	0	0	
+Despite the double - digit victory , Chicago trailed Los_Angeles 50 - 48 going into halftime .	0	1	0	0	
+Meanwhile , Los_Angeles is now tied with New Orleans for the eigth seed in the Western_Conference .	0	0	1	0	
+With their victory over Los_Angeles , Chicago moves within a half game of the Eastern_Conference leading Toronto Raptors .	0	0	1	0	
+The Chicago Bulls ( 8 - 3 ) defeated the Los_Angeles Clippers ( 5 - 4 ) 105 - 89 on Monday at the Staples_Center in Los_Angeles .	1	1	0	0	
+Phoenix began a six - game roadtrip Saturday , and their next game will be against the Celtics in Boston on Monday .	0	0	1	0	
+The Suns shot 38 percent from the field , while the Clippers converted 53 percent of their shots , a statistic that tells the game story simply .	1	1	0	0	
+Phoenix was playing the second night of a back - to - back , coming off a loss at home to the Charlotte Hornets .	0	0	1	0	
+Los_Angeles will host the Chicago Bulls on Monday before embarking on a seven - game roadtrip .	0	0	1	0	
+Both players played 27 minutes and were positive contributors in plus/minus .	0	1	0	0	
+Matt Barnes was moved back into the starting lineup at small forward , and Jamal Crawford moved back to a bench role .	0	1	0	0	
+They began the season with a two - game win streak , but since then , the Clippers have recorded wins and losses like coin flips .	0	0	1	0	
+Los_Angeles has been trading wins for losses lately .	0	0	1	0	
+The Los_Angeles Clippers ( 5 - 3 ) defeated the Phoenix Suns ( 5 - 5 ) 120 - 107 on Saturday .	1	1	0	0	
+The Clippers finish off a back - to - back set to start the season on Friday when they play Lakers .	0	0	1	0	
+It was expected Hawes might carve out a big enough role to steal some minutes from starters Blake Griffin and DeAndre Jordan , but that was n't the case in the opener as Hawes played just 19 minutes off the bench , while Griffin played 38 and Jordan played 35 .	1	0	1	0	
+Spencer Hawes was brought in this offseason to help shore up the Clippers ' frontcourt depth by giving them a versatile shooter off the bench .	0	0	1	0	
+The Clippers could n't create much separation from Oklahoma_City despite all of the injuries the Thunder are dealing with .	0	0	1	0	
+They may only have eight healthy players for their next game if no one returns to action Saturday against the Denver Nuggets .	0	0	1	0	
+In addition to Durant , the Thunder are also dealing with injuries to Anthony Morrow , Mitch McGary , Jeremy Lamb , Grant Jerrett , and Reggie Jackson .	0	0	1	0	
+With Kevin Durant already sidelined due to foot surgery for at least the first month of the season , the Thunder are in danger of digging a hole to start their season that may be too deep to crawl out of and reach the playoffs in the Western_Conference .	0	0	1	0	
+It is unclear how long Westbrook will be out with the injury , but some reports suggested he could miss a few as two weeks .	0	0	1	0	
+Russell Westbrook left the game in the first quarter with a broken right hand and did not return to the game .	0	1	0	0	
+The Los_Angeles Clippers defeated the Oklahoma_City Thunder ( 0 - 2 ) 93 - 90 on Thursday at the Staples_Center in Los_Angeles .	1	1	0	0	
+The Celtics will close out the regular season on the road against the Milwaukee Bucks on Wednesday , while the Raptors will be at home against the Charlotte Hornets on Wednesday .	0	0	1	0	
+Jonas Valanciunas nearly came up with a double - double , posting 10 points ( 4 - 8 FG , 2 - 4 FT ) , eight rebounds and two blocked shots , while Greivis Vasquez chipped in with 11 points ( 4 - 7 FG , 3 - 6 3Pt ) , five rebounds and seven assists .	1	1	0	0	
+Williams continues to be a great offensive option off the Raptors ' bench , averaging 21 points over his last six games .	0	0	1	0	
+Despite struggling with his shot similar to Lowry , Louis Williams still posted 16 points ( 3 - 13 FG , 0 - 4 3Pt ) , as he was able to get to the free throw line 11 times , while converting on 10 - of - 11 .	1	0	1	0	
+Lowry has really struggled with his shot lately , combining to go just 9 - for - 34 from the field over his last two games , so he really needs to get things turned around if the Raptors want to have some success in the playoffs .	0	0	1	0	
+Bass finished with 13 points ( 4 - 11 FG , 0 - 1 3Pt , 5 - 5 FT ) and nine rebounds , while Zeller added 12 points ( 5 - 11 FG , 2 - 2 FT ) and eight rebounds .	1	0	0	0	
+Brandon Bass and Tyler Zeller were the other two starters in double figures .	0	1	0	0	
+He 'll likely sit Wednesday 's finale out in order to get healthy for their first playoff matchup .	0	0	1	0	
+Bradley recorded 14 points ( 5 - 11 FG , 1 - 5 3Pt , 3 - 3 FT ) of his own , to go along with three rebounds and two assists , but he ended up suffering a left quad contusion and was forced to leave the game .	1	1	0	0	
+He 's combined for 29 points and 14 assists over his last two games , and he 'll need to continue to play well if the Celtics want any chance at pulling off an upset during the playoffs .	0	0	1	0	
+It was n't all good for the forward though , as he did record seven turnovers as well .	1	1	0	0	
+Turner nearly came out with a triple - double , finishing with 14 points ( 7 - 14 FG ) , seven rebounds and nine assists .	1	1	0	0	
+It was the duo of Avery Bradley and Evan Turner that had the biggest impact in securing the win Tuesday .	0	1	0	0	
+The Raptors , on the other hand , moved down into the fourth seed in the East , a game behind the Chicago Bulls , which would mean they could end up playing the fiffth - seeded Washington Wizards in their first playoff matchup .	0	0	1	0	
+It was a solid victory for the Celtics , as they 're now going to go into the playoffs as the seventh seed in the Eastern_Conference standings , meaning they 'll take on the Cleveland Cavaliers during the first round .	0	1	1	0	
+It was the Celtics who came out with the last laugh though , as Jae Crowder hit a clutch jump shot with just under a second left in regulation to pull out the victory .	0	1	0	0	
+Down two points with just over 10 seconds left in the game , Kyle Lowry brought the Raptors back to tie the Celtics after a driving layup .	0	1	0	0	
+The Boston Celtics ( 39 - 42 ) defeated the Toronto Raptors ( 48 - 33 ) 95 - 93 on Tuesday at the TD_Garden in Boston .	1	1	0	0	
+The Clippers have finished the season 3 - 1 against the Celtics .	0	0	1	0	
+However , they ’ re only a half - game behind the eighth - place Nets .	0	0	1	0	
+Boston has lost five of its last seven and is currently ninth in the Eastern_Conference .	0	0	1	0	
+The Clippers are fifth in the Western_Conference and have clinched a playoff birth .	0	0	1	0	
+Kelly Olynyk had 14 points ( 6 - 11 FG , 1 - 3 3Pt ) , five rebounds , two assists and one steal in 22 minutes .	1	0	0	0	
+Tyler Zeller had 16 points ( 7 - 12 FG ) and five rebounds in 21 minutes .	1	0	0	0	
+However , it appears he ’ s shaken off the rust , scoring a combined 37 points off the bench in his last two games .	0	0	1	0	
+Thomas ( back ) only scored four points against the Heat on Wednesday after an eight - game absence .	1	0	1	0	
+Thomas went 4 - for - 12 from the field and 2 - for - 7 from three - point range in 26 minutes of play .	1	0	0	0	
+The Celtics ’ Isaiah Thomas came off the bench to lead the team in scoring with 19 points .	1	1	0	0	
+DeAndre Jordan had 15 points ( 6 - 8 FG ) , 14 rebounds and one steal in 29 minutes .	1	0	0	0	
+Paul went 3 - for - 4 from three - point land and contributed three rebounds , 10 assists , two steals and one block in 35 minutes .	1	0	0	0	
+The Clippers ’ Blake Griffin and Chris Paul each had 21 points .	0	1	0	0	
+And the Clippers pulled down 13 more boards than the Celtics over the course of the game .	0	1	0	0	
+The Clippers went to the line almost twice as much as the Celtics , attempting 40 free throws compared to Boston ’ s 23 .	1	1	0	0	
+At halftime they led by 21 points , and , going into the fourth quarter , they were up 105 - 79 .	0	1	0	0	
+The Clippers never gave up the lead .	0	1	0	0	
+That was the story all night long , as Redick finished with a team - high 27 points , going 5 - for - 6 from beyond the arc in 33 minutes .	1	1	0	0	
+The Clippers ’ J.J. Redick scored the first points of the game , knocking down a three - point jumper on Los_Angeles ’ first possession .	0	1	0	0	
+The Clippers ( 49 - 25 ) defeated the Celtics ( 32 - 41 ) 119 - 106 at TD_Garden on Sunday .	1	1	0	0	
+Up next , the Pistons will head home Tuesday to take on the Raptors , while Boston will travel to Brooklyn and play the Nets on Monday .	0	0	1	0	
+While they do hold the tiebreaker , Boston is now playing down the final stretch of the season where every game is crucial .	0	0	1	0	
+The loss was a costly one for the Celtics , as the loss brings them into a tie for the eighth spot in the Eastern_Conference with the Pacers and Hornets .	0	1	1	0	
+Brandon Bass ( 13 ) and Tyler Zeller ( 10 ) round out the starters in double figures while Jonas Jerebko scored 10 points in 21 minutes off the bench .	1	1	0	0	
+Marcus Smart served his one - game suspension and Avery Bradley took over the starting point guard duties as a result , but he had just 10 points on 3 - of - 10 shooting , four assists and four rebounds in 38 minutes .	1	1	1	0	
+Jae Crowder was next up , scoring 19 points on 7 - of - 16 shooting and seven rebounds in 45 minutes .	1	1	0	0	
+They were lead by Evan Turner , who posted 23 points on 10 - of - 21 shooting , eight assists , six rebounds and three steals .	1	1	0	0	
+All five Celtics starters scored in double figures , but that just was not enough .	0	1	0	0	
+The wins gives the Pistons their second in a row , but the team still remains far on the outside looking into the Eastern_Conference playoff race , sitting 5 games behind the Celtics for the eighth and final playoff spot .	0	0	1	0	
+Greg Monroe sat out for the fourth straight game with a knee injury , and Anthony Tolliver took his place in the starting lineup , scoring zero points in 25 minutes .	1	1	1	0	
+Also in the backcourt , Jackson recorded his fourth straight double - double and nearly his second triple - double in three games , posting 17 points on 5 - of - 13 shooting , 11 assists and nine rebounds in 37 minutes .	1	0	1	0	
+Kentavious Caldwell-Pope also had a huge game , scoring 27 points on 10 - of - 20 shooting and grabbing eight rebounds in 44 minutes .	1	1	0	0	
+It was the 21 - year - old 's first double - double in three games , but his sixth in the month of March .	0	0	1	0	
+The Pistons were led by another huge double - double from Andre Drummond , who posted 18 points on 8 - of - 17 shooting , 22 rebounds and four blocks in 40 minutes .	1	1	1	0	
+The Pistons then opened up the period on a 70 run and the Celtics were unable to recover after that , as Detroit went onto win 17 - 9 in overtime .	0	1	0	0	
+A short shot by Reggie Jackson tied the game at 88 with just under a minute remaining and neither team was able to score after that .	0	1	0	0	
+The Detroit Pistons ( 26 - 44 ) defeated the Boston Celtics ( 30 - 39 ) 105 - 97 in overtime on Sunday in Boston .	1	1	0	0	
+Boston will kick off a three - game road swing Friday in New_Orleans .	0	0	1	0	
+Kelly Olynyk returned to action Wednesday , but his impact was minimal as he finished with a rebound and an assist in seven minutes of action .	1	1	0	0	
+Isaiah Thomas was effective off the bench again , posting his fifth 20 - point performance as a Celtic .	0	1	1	0	
+Boston did n't let Tuesday 's blowout loss to Cleveland bleed into Wednesday as it notched a tough win against a resurgent Utah club .	0	0	1	0	
+The Jazz will look to bounce back Friday in Philadelphia .	0	0	1	0	
+Rudy Gobert was dominant on the glass once again , pulling down 16 rebounds to go with 10 points .	1	1	1	0	
+It looked like the Jazz were going to escape with the win after Hayward 's jumper , but the Celtics drew up the right play and Zeller sunk the game winner .	0	1	0	0	
+Utah is now 5 - 2 since the All-Star break after suffering Wednesday 's heart - breaking defeat .	0	0	1	0	
+Tyler Zeller converted a buzzer - beater under the hoop to give Boston the win .	0	1	0	0	
+Gordon Hayward hit the go - ahead shot with one second remaining , but Boston would have the last laugh .	0	1	0	0	
+The Celtics led 81 - 73 with just under 2:30 to play , but the Jazz battled back with contributions from Trey Burke , Gordon Hayward , and Rodney Hood to force the game to be decided on the last possession .	0	1	0	0	
+The Boston Celtics ( 24 - 35 ) held on in a nail - biter Wednesday to defeat the Utah Jazz ( 24 - 36 ) 85 - 84 at the TD_Garden .	1	1	0	0	
+Boston will take Saturday off before hosting the Golden_State Warriors on Sunday , and Charlotte will wrap up their four - game road trip Sunday against the Orlando Magic .	0	0	1	0	
+30 for a game that could lead to one team making the playoffs and the other team going to the lottery .	0	0	1	0	
+Charlotte owns the season series with Boston , holding a 2 - 1 lead after Friday 's game , and they 'll meet on Mar .	0	0	1	0	
+He finished with 12 points and 11 rebounds in 32 minutes .	1	0	0	0	
+Michael Kidd-Gilchrist continued his inspired play of late , posting a second straight double - double and a fourth straight game scoring in double digits .	0	0	1	0	
+All five starters scored in double digits for the Hornets , and Mo Williams put in a game - high 31 points , but their good work shooting the from the field could n't make up for their inability to protect the ball .	0	1	0	0	
+Jonas Jerebko back Thomas ' play , putting up his first double - double as a member of the Celtics with 16 points and 10 rebounds in 24 minutes off the bench .	1	1	1	0	
+Isaiah Thomas lead the Celtics ' attack on offense , posting 28 points and seven assists in 31 minutes off the bench .	1	1	0	0	
+The Celtics scored 21 points off 16 turnovers but gave up only eight points on eight turnovers .	1	0	0	0	
+Boston took the win Friday by limiting their turnovers while capitalizing on the Hornets ' inability to do so .	0	1	0	0	
+All five teams sit within a game of each other in the standings .	0	0	1	0	
+Both teams are fighting for the final playoff spot in the East , but they also have competitions from the Pacers , Nets and Pistons .	0	1	1	0	
+The Boston Celtics ( 23 - 33 ) defeated the Charlotte Hornets ( 23 - 33 ) 106 - 98 Friday .	1	1	0	0	
+The Celtics go into the break on a high note and will resume play with a three - game road swing starting in Sacramento on Feb. 20 .	0	0	1	0	
+Avery Bradley hit a three - pointer to bring Boston within one point with just under two minutes to go .	0	1	0	0	
+Jared Sullinger shook off a rough first half to finish the night with 17 points and 15 rebounds .	1	1	0	0	
+Boston was able to overcome a 32 percent shooting performance on the night as the Celtics got several great fourth quarter showings .	0	1	0	0	
+The Hawks have a tough stretch awaiting on the other side of the break with the Raptors , Bucks , and Mavericks on the slate .	0	0	1	0	
+Every starter except for Al Horford had poor nights shooting , highlighted by Jeff Teague 's 4 - for - 12 performance and Paul Millsap 's 3 - for - 11 outing .	0	1	0	0	
+Atlanta seemed poised to enter the All-Star break on a two game winning streak , but was unable to close out Boston .	0	1	1	0	
+Boston called on Evan Turner on inbounds play with six seconds left and Turner hit a floater to give the Celtics the lead with under a second remaining .	0	1	0	0	
+However , the Celtics made an unbelievable push to storm back .	0	1	0	0	
+When Atlanta 's Mike Scott jammed an alley oop home to put the Hawks up 79 - 65 in the fourth , it looked like this was going to be another easy win for the top team in the East .	0	1	1	0	
+The Boston Celtics ( 20 - 31 ) made an unbelievable comeback to defeat the top - seeded Atlanta Hawks ( 43 - 10 ) 89 - 88 on Wednesday at the TD_Garden .	1	1	0	0	
+The Celtics ' next game will be at home against the Atlanta Hawks on Wednesday , while the Pelicans will be on the road against the Detroit Pistons on Wednesday .	0	0	1	0	
+He chipped in with 19 points ( 7 - 15 FG , 1 - 3 3Pt , 4 - 6 FT ) and eight rebounds , playing just under 35 minutes because Jrue Holiday was forced from the game after only 15 minutes with a right ankle injury .	1	1	0	0	
+Coming off the bench with Gordon back in the starting lineup , Tyreke Evans still had a strong showing .	0	1	0	0	
+It was a season - high in points for him , as he 's dealt with injuries for a large portion of the year .	0	0	1	0	
+Eric Gordon had arguably his best game of the season , going 7 - for - 12 from the field and 3 - for - 5 from the three - point line to score 21 points .	1	0	1	0	
+He 's had the hot hand lately , averaging 29 points and 10 rebounds per game over his last three outings .	0	0	1	0	
+He was able to get to the line at will in this game , converting on 14 - of - 15 free throws .	1	1	0	0	
+Davis went 10 - for - 23 from the floor to score 34 points , while also adding nine rebounds and three blocked shots .	1	0	0	0	
+Despite the loss , the Pelicans received another huge performance from Anthony Davis .	0	1	0	0	
+Both Avery Bradley and Evan Turner also reached double figures with 10 points apiece .	0	1	0	0	
+Marcus Thornton had 13 points ( 2 - 8 FG , 1 - 3 3Pt , 8 - 9 FT ) in only 14 minutes , while Brandon Bass had 12 points ( 4 - 10 FG , 1 - 2 3Pt , 3 - 3 FT ) in 23 minutes .	1	0	0	0	
+The Celtics did receive plenty of help from their bench as well .	0	1	0	0	
+While the 22 points were a season - high for him , so were the blocks and steals , as he was a huge contributor on both the offensive and defensive side of the ball Monday .	0	1	1	0	
+Crowder on the other hand posted 22 points ( 9 - 14 FG , 2 - 4 3Pt , 2 - 2 FT ) , three assists , four steals and two blocks .	1	0	0	0	
+The 27 points were a season - high for him , while it marked his second double - double in as many games .	0	0	1	0	
+Sullinger led the team , scoring 27 points ( 9 - 17 FG , 1 - 4 3Pt , 8 - 9 FT ) and grabbing 10 rebounds in 32 minutes .	1	1	0	0	
+The Celtics received most of their production from their forward position , as Jae Crowder and Jared Sullinger both had strong performances .	0	1	0	0	
+The Celtics forced the Pelicans into 18 turnovers , while committing only 11 of their own , which may have been the difference in this game .	1	0	0	0	
+With a huge fourth quarter though , where the Celtics out - scored the Pelicans 36 - 24 , they were able to secure the eight point victory at home in front of their home crowd .	0	1	0	0	
+After coming out of the third quarter down 76 - 72 , the Celtics did n't look to be in the best of positions .	0	1	0	0	
+The Boston Celtics ( 13 - 23 ) defeated the New_Orleans Pelicans ( 18 - 19 ) 108 - 100 on Monday at the TD_Garden in Boston .	1	1	0	0	
+The Nets ' next game is Saturday on the road against the Detroit Pistons , while the Celtics will also go on the road Saturday and play the Houston Rockets .	0	0	1	0	
+Sullinger , who had an impressive preseason , finished with 13 points , four rebounds , two assists , and a pair of blocks .	1	0	1	0	
+Returning early from hand surgery , Rajon Rondo scored 13 points and dished out 12 assists .	1	1	0	0	
+Jeff Green started at small forward and contributed 17 points , six rebounds , three assists , and two steals .	1	0	0	0	
+Kelly Olynyk had the highest scoring output with 19 points , and he also put up six rebounds , two assists , and a steal in 28 minutes of action .	1	1	0	0	
+All five starters finished in double figures for the Celtics , along with three bench players as well .	0	1	0	0	
+Veteran Kevin Garnett began his 19th year in the league and finished with 10 points and six rebounds .	1	0	1	0	
+Starting at small forward , Joe Johnson matched Williams with 19 points and also contributed six rebounds , three assists , and a steal .	1	1	0	0	
+Deron Williams was n't far behind , and he finished with 19 points , three rebounds , eight assists , and two steals .	1	1	0	0	
+The Nets were led by Mirza Teletovic as he finished with 20 points ( 8 - 11 FG , 4 - 6 3Pt ) , six rebounds , one assist , and a pair of blocked shots coming off the bench .	1	1	0	0	
+The Celtics were also able to force the Nets into 21 turnovers , which contributed to the team pushing past the 120 - point benchmark for the game .	1	1	0	0	
+The Celtics finished the game shooting 56 percent from the field and 36 percent from behind the three - point line , while the Nets shot 49 percent from the field and 37 percent from behind the arc .	1	0	0	0	
+The Boston Celtics ( 10 ) defeated the Brooklyn Nets ( 0 - 1 ) 121 - 105 in impressive fasion Wednesday at the TD_Garden in Boston .	1	1	0	0	
+This marks the final regular season game for both teams , but each will head into the playoffs which start this weekend .	0	0	1	0	
+Seraphin recorded 12 points ( 6 - 13 FG , 0 - 1 FT ) , 12 rebounds and three blocked shots , while Sessions added 14 points ( 4 - 8 FG , 2 - 2 3Pt , 4 - 6 FT ) and six assists .	1	0	0	0	
+Both Kevin Seraphin and Ramon Sessions reached double figures in points as well .	0	1	0	0	
+It was a nice end to the season for Butler , who finishes the year with averages of 8 points and 3 rebounds over 74 games .	0	0	1	0	
+He finished with 17 points ( 7 - 19 FG , 3 - 8 3Pt ) , seven rebounds and two steals , while playing 45 minutes .	1	0	0	0	
+Rasual Butler was another reason the Wizards were able to keep this game close .	0	1	0	0	
+The 20 points were a new season - high for the forward , as he had yet to break double figures in points during this season .	1	0	1	0	
+It was Martell Webster who had the biggest outing , as he came off the bench for 20 points ( 5 - 9 FG , 3 - 5 3Pt , 7 - 8 FT ) and three rebounds over 36 minutes .	1	1	0	0	
+Like the Cavaliers , the Wizards rested the majority of their players , as John Wall , Bradley Beal and Paul Pierce were all held out of this matchup .	0	1	0	0	
+Playing just 18 minutes with the starters , Kevin Love was still very efficient with his time and chipped in with 19 points ( 6 - 12 FG , 5 - 6 3Pt , 2 - 2 FT ) and three rebounds before getting most of the night off for rest .	1	1	0	0	
+In 21 minutes , he finished with 12 points ( 4 - 7 FG , 4 - 4 FT ) and eight rebounds , boosting his April averages to 7 points and 8 rebounds per game over 23 minutes .	1	0	0	0	
+Tristan Thompson was the other bench player to reach double figures .	0	1	0	0	
+The double - double was the first for Dellavedova on the year , while both his point and assist totals were season - highs as well .	0	0	1	0	
+Dellavedova , on the other hand , went 6 - for - 11 from the floor and 4 - for - 5 from deep to score 18 points , to go along with 12 assists and two steals .	1	0	0	0	
+Shumpert went 7 - for - 12 from the field and 3 - for - 5 from the three - point line to score 18 points , while also adding six rebounds and two steals .	1	0	0	0	
+Iman Shumpert and Matthew Dellavedova had the biggest games off the bench .	0	1	0	0	
+With LeBron James being held out of the lineup and the usual starters getting very limited minutes , it was the bench that took over this game for the Cavaliers .	0	1	0	0	
+The Wizards will take on the Toronto Raptors in the first round , while the Cavaliers will play the Boston Celtics .	0	0	1	0	
+Both teams had locked up their playoff spots before this game , but we now know for sure who each will play .	0	0	1	0	
+In overtime , the Cavaliers took control of the game and ended up winning a momentum builder for the playoffs .	0	1	0	0	
+Matthew Dellavedova had a chance to win the game at the end of regulation , but he missed and it went to overtime .	0	1	0	0	
+It was Dejuan Blair who came up big for the Wizards though , banking in a shot to tie the game with just over seven seconds left in the game .	0	1	0	0	
+With 50 seconds left in the game , Kendrick Perkins was able to hit a jumper and put the Cavaliers up two .	0	1	0	0	
+The Cleveland Cavaliers ( 53 - 29 ) defeated the Washington Wizards ( 46 - 36 ) 113 - 108 on Wednesday at Quicken_Loans_Arena in Cleveland .	1	1	0	0	
+The Cavaliers have won the season series with the Bulls 3 - 1 .	0	0	1	0	
+They too have clinched a playoff spot .	0	0	1	0	
+The Bulls are third in the East , 12 games behind Atlanta .	0	0	1	0	
+The Cavaliers are second in the Eastern_Conference , 8 games behind the Hawks , and have clinched a playoff berth .	0	0	1	0	
+Jimmy Butler contributed 16 points ( 6 - 14 FG , 2 - 3 3Pt ) , four rebounds , five assists and three steals in 42 minutes .	1	0	0	0	
+Aaron Brooks had 17 points ( 6 - 13 FG , 2 - 6 3Pt ) , five rebounds , six assists and one steal in 38 minutes .	1	0	0	0	
+Mike Dunleavy was the Bulls ’ leading scorer with 24 points ( 8 - 12 FG , 4 - 6 3Pt ) , to go with five rebounds , four assists and one steal in 33 minutes .	1	1	0	0	
+Kevin Love ( back ) returned from a one - game absence , posting 11 points ( 4 - 12 FG , 3 - 8 3PT ) , four rebounds , two assists , two steals and one block in 31 minutes .	1	0	1	0	
+J.R. Smith decided to shoot all his shots from beyond the arc , going 8 - for - 17 for 24 points in 43 minutes .	1	1	0	0	
+Kyrie Irving was Cleveland ’ s leading scorer with 27 points ( 8 - 19 FG , 4 - 5 3Pt ) , to go with five rebounds , four assists , three steals and one block in 37 minutes .	1	1	0	0	
+LeBron James had a triple - double with 20 points ( 8 - 17 FG , 1 - 3 3Pt ) , 10 rebounds , 12 assists , three steals and one block in 37 minutes .	1	1	0	0	
+They came into the fourth quarter up eight points , and won by five as Chicago ’ s Jimmy Butler hit a three - pointer as time expired .	0	1	0	0	
+The Cavaliers never surrendered their halftime lead .	0	1	0	0	
+Cleveland went into halftime with a 10 - point lead , bolstered by a spectacular J.R. Smith 41 - foot jumper at the buzzer .	0	1	0	0	
+The Cavaliers ( 50 - 27 ) defeated the Bulls ( 46 - 31 ) 99 - 94 on Sunday at Quicken_Loans_Arena .	1	1	0	0	
+The Cavaliers ' next game will be at home against the Indiana Pacers on Friday , while the Nets will be at home against the Milwaukee Bucks on Friday .	0	0	1	0	
+Both Bojan Bogdanovic and Jarrett Jack played well off the bench and finished with 12 and 11 points respectively .	1	1	0	0	
+He has n't produced much offensively since losing a large portion of his playing time to Brook Lopez , as this was just the first time in his last six games that he reached double figures in points .	0	1	1	0	
+Center Mason Plumlee went a perfect 3 - for - 3 from the field , while going just 4 - for - 8 from the free throw line to score 10 points to go along with five rebounds in just 24 minutes .	1	0	0	0	
+The Nets also saw some solid contributions from their bench .	0	1	0	0	
+He 's been pretty inconsistent lately , but is averaging 10 points , 3 rebounds , 5 assists and 1 steals over his last five games .	0	0	1	0	
+In 28 minutes , he scored a team - high of 20 points ( 7 - 15 FG , 1 - 5 3Pt , 5 - 5 FT ) , while also adding six assists and two rebounds .	1	1	0	0	
+Despite suffering the loss , Deron Williams posted a solid all - around game .	0	1	0	0	
+Irving recorded 12 points ( 5 - 10 FG , 1 - 1 3Pt , 1 - 2 FT ) and 10 assists , while Love had 10 points ( 4 - 9 FG , 0 - 2 3Pt , 2 - 3 FT ) and 11 rebounds .	1	0	0	0	
+Both Kyrie Irving and Kevin Love chipped in with double - doubles .	0	1	0	0	
+James had scored over 20 points in each of his last four games , but he did n't need to Wednesday , as everyone seemed to play well offensively and put up some points .	0	1	1	0	
+LeBron James also got into the action and finished with 16 points ( 5 - 13 FG , 2 - 4 3Pt , 4 - 6 FT ) and seven assists .	1	0	0	0	
+Mozgov has picked his game up of late and is averaging 13 points and 4 rebounds over his last five games .	0	0	1	0	
+Mozgov finished with 17 points ( 7 - 8 FG , 3 - 5 FT ) and three rebounds in just 16 minutes , while Smith posted 17 points ( 6 - 13 FG , 5 - 10 3Pt ) and two assists over 27 minutes .	1	0	0	0	
+J.R. Smith and Timofey Mozgov led the team in scoring .	0	1	0	0	
+The Cavaliers shot really well in this game , going 55 percent from the field and 52 percent from the three - point line , while having seven players reach double figures in points .	1	1	0	0	
+This marks a tough loss for the Nets , as it pushes them to three games behind the Miami Heat for the final projected playoff seed in the East .	0	1	1	0	
+The Hawks still own a 10 and a half game lead for the top overall spot , so it remains unlikely the Cavaliers can make up that gap in time for the playoffs .	0	0	1	0	
+In securing this win , the Cavaliers continue to keep a strong hold on the second projected playoff seed in the Eastern_Conference standings , with both the Toronto Raptors and Chicago Bulls trailing them by two games or more .	0	1	1	0	
+The Cleveland Cavaliers ( 44 - 26 ) defeated the Brooklyn Nets ( 27 - 39 ) 117 - 92 on Wednesday at Quicken_Loans_Arena in Cleveland .	1	1	0	0	
+The Suns start their own five - game homestand Monday against the Golden_State Warriors .	0	0	1	0	
+The Cavaliers have two days off before beginning a four - game road trip against the Dallas Mavericks .	0	0	1	0	
+Brandan Wright played a season - high 30 minutes and provided seven points , seven rebounds , one assist , two steals and three blocks .	1	0	1	0	
+The starting lineup shot a combined 16 - of - 52 , and Markieff Morris scored a team - high 16 points .	1	1	0	0	
+T.J. Warren was the only Suns player to convert more than half his shots .	0	1	0	0	
+P.J.Tucker joined the starting lineup after a one - game demotion for missing the team bus to shootaround , shifting Marcus Morris back to a reserve role .	0	1	1	0	
+Irving picked up two fouls early in the first quarter and didn ’ t return until the third quarter .	0	1	0	0	
+Kyrie Irving and J.R. Smith combined to shoot 6 - of - 23 from the field .	0	1	0	0	
+Tristan Thompson was the unsung hero for the Cavaliers , producing 15 points , a team - high 12 rebounds , one assist , and one steal in 29 minutes off the bench .	1	1	0	0	
+The Suns outscored the Cavaliers 27 - 9 in the final period to make the game seem closer than the final score .	0	1	0	0	
+Earl Barron earned a start in Len ’ s absence .	0	1	0	0	
+Alex Len was held out after spraining his right ankle the previous night .	0	1	1	0	
+The Cleveland Cavaliers ( 40 - 25 ) improved to 21 - 5 over the past 26 games with their win over the Phoenix Suns ( 33 - 31 ) , 89 - 79 .	1	1	1	0	
+The Cavaliers will play the front end of a back - to - back Tuesday in Detroit before returning home to host the Trail Blazers on Wednesday .	0	0	1	0	
+Kevin Love turned in a solid effort , finishing with 19 points and 13 rebounds to mark his 24th double - double this season .	1	1	1	0	
+Cleveland has now won six in a row , with three of those wins coming against quality opponents .	0	0	1	0	
+The Thunder will return home Monday to host the Timberwolves .	0	0	1	0	
+Kendrick Perkins got the start at center and finished with four points and four rebounds before fouling out late in the fourth .	1	1	0	0	
+Steven Adams , the team 's usual starter , was dealing with migraines before tip off and did not play .	0	1	1	0	
+Oklahoma_City wrapped up its five game road trip Sunday with a 4 - 2 mark .	0	0	1	0	
+He landed awkwardly on a drive late in the fourth quarter , but was able to play through it for the rest of the game .	0	1	0	0	
+Durant countered with 32 points and nine assists .	1	0	0	0	
+James shouldered a bit more of the offensive load than usual , taking 25 shots from the floor to finish with 34 points .	1	0	1	0	
+In a matchup between two of the league 's biggest stars , LeBron James and Kevin Durant both put up huge games .	0	1	1	0	
+The Cleveland Cavaliers ( 25 - 20 ) continued their hot streak Sunday , beating the Oklahoma_City Thunder ( 22 - 22 ) 108 - 98 at the Quicken_Loans_Arena .	1	1	1	0	
+The Cavaliers ' next game will be at home against the Charlotte Hornets on Friday , while the Jazz will travel to Milwaukee to play the Bucks on Thursday .	0	0	1	0	
+Elijah Millsap recored 12 points ( 4 - 9 FG , 2 - 5 3Pt , 2 - 2 FT ) , while Elliot Williams had an efficient 10 points ( 3 - 4 FG , 3 - 3 3Pt , 1 - 2 FT ) .	1	0	0	0	
+The Jazz did see some solid contribution off their bench though .	0	1	0	0	
+It was n't his best game of the season , as he was averaging 19 points per game coming into Wednesday .	0	0	1	0	
+Gordon Hayward reached double figures as well , finishing with 14 points ( 4 - 11 FG , 2 - 4 3Pt , 4 - 4 FT ) and five rebounds .	1	1	0	0	
+He really struggled to get anything going over his last two outings , so it was a nice bounce back game for him .	0	0	1	0	
+The Jazz received most of their production from Enes Kanter , who recorded a monster line of 24 points ( 9 - 20 FG , 6 - 8 FT ) and 17 rebounds .	1	1	0	0	
+Kyrie Irving added 18 points ( 8 - 13 FG , 2 - 3 3Pt , 0 - 1 FT ) , while J.R. Smith had 15 points ( 5 - 16 FG , 2 - 11 3Pt , 3 - 4 FT ) .	1	1	0	0	
+He finished with 16 points and 11 rebounds in 40 minutes .	1	0	0	0	
+Timofey Mozgov continued his strong play , recording his second double - double in a row .	0	0	1	0	
+It was his second double - double in a row , combining for 35 points and 25 rebounds over those two games .	0	0	1	0	
+Kevin Love also had a big game , recording a double - double with 19 points ( 7 - 15 FG , 1 - 7 3Pt , 4 - 4 FT ) and 13 rebounds .	1	1	0	0	
+In the five games since he returned from his two week absence , he 's averaged 31 points as he 's been nearly unstoppable .	0	0	1	0	
+LeBron James led all scorers in this one , nearing a triple - double with 26 points ( 8 - 16 FG , 0 - 2 3Pt , 10 - 14 FT ) , seven rebounds and nine assists .	1	1	0	0	
+As a whole , the bench contributed only 12 points , although the Cavaliers were still able to come out with the victory .	0	1	0	0	
+The Cavaliers starters all reached double figures in points , as the bench really struggled to give them any help .	0	1	0	0	
+The Jazz turned the ball over 20 times , which also made a big difference Wednesday .	0	1	0	0	
+The Cavaliers were the superior shooters in this game , going 52 percent from the field while the Jazz went just 42 percent from the floor .	1	1	0	0	
+That set the tone for the rest of the game , as the Cavaliers went on to secure the 14 - point victory in front of their home crowd , notching their third straight victory in the process .	0	1	1	0	
+The Cavaliers came out firing in this game , out - scoring the Jazz 31 - 20 in the first quarter alone .	0	1	0	0	
+The Cleveland Cavaliers ( 23 - 20 ) defeated the Utah Jazz ( 14 - 28 ) 106 - 92 on Wednesday at Quicken_Loans_Arena in Cleveland .	1	1	0	0	
+The Rockets ' next game will be on the road against the New_York Knicks on Thursday , while the Cavaliers will travel to Oakland to play the Golden_State Warriors on Friday .	0	0	1	0	
+The Cavaliers ' bench combined for only 13 points .	0	1	0	0	
+The only other Cavalier to reach double - digit points was Tristan Thompson , who added 11 points ( 2 - 7 FG , 7 - 7 FT ) and six rebounds of his own .	1	1	0	0	
+It marked his third double - double in a row , where he 's averaged 25 points and 15 rebounds between those games .	0	0	1	0	
+Love on the other hand notched another double - double , finishing with 17 points ( 7 - 19 FG , 0 - 3 3Pt , 3 - 6 FT ) and 16 rebounds .	1	0	1	0	
+The points were a season - high for him as well , as he 's continued to get off the bulk of the shots with LeBron James still sitting out .	0	0	1	0	
+Irving had the biggest contribution , going 15 - for - 26 from the field and 4 - for - 8 from the three - point line to score a game - high of 38 points .	1	1	0	0	
+The Cavaliers got most of their production out of their two superstars , Kyrie Irving and Kevin Love .	0	1	0	0	
+The Rockets did have solid contributions off their bench as well with Josh Smith scoring 16 points ( 7 - 10 FG , 1 - 2 3Pt , 1 - 4 FT ) and Corey Brewer adding 12 points ( 4 - 8 FG , 2 - 3 3Pt , 2 - 2 FT ) .	1	1	0	0	
+He 's had a tremendous amount of steals over his last three games , combining for 14 over that period .	0	0	1	0	
+Trevor Ariza was able to do it on both sides of the ball , recording 13 points ( 5 - 13 FG , 3 - 10 3Pt ) , six rebounds and five steals .	1	1	0	0	
+He 's averaged 17 points and 15 rebounds over that stretch of three games .	0	0	1	0	
+He went off for 17 points ( 6 - 13 FG , 5 - 11 FT ) and 19 rebounds , marking his third double - double in a row .	1	0	1	0	
+As expected , Dwight Howard was able to use his size advantage over Tristan Thompson and the Cavaliers ' bigs .	0	1	0	0	
+He did turn the ball over seven times though , so he 'll need to cut those down in the near future .	0	1	1	0	
+He came close to a triple - double , finishing with 21 points ( 6 - 18 FG , 2 - 7 3Pt , 7 - 7 FT ) , seven rebounds and nine assists .	1	1	0	0	
+Like he 's done so many times already this season , James Harden led the Rockets to this victory .	0	1	1	0	
+The Rockets were able to out - rebound the Cavaliers 50 - 37 , only furthering their advantage in this one .	0	1	0	0	
+After ending the third quarter down 74 - 73 , the Rockets came out and had a strong fourth quarter , out - scoring the Cavaliers by an impresive 32 - 19 mark , allowing them to steal the victory on the road in Cleveland .	0	1	0	0	
+The Houston Rockets ( 24 - 11 ) defeated the Cleveland Cavaliers ( 19 - 17 ) 105 - 93 on Wednesday at Quicken_Loans_Arena in Cleveland .	1	1	0	0	
+Dallas heads east to Brooklyn to take on the Nets , also on Monday .	0	0	1	0	
+Up next , Cleveland travels to Philadelphia to take on the 76ers on Monday .	0	0	1	0	
+Cleveland shot just 41 percent from the field and converted 8 - of - 25 three - pointers .	1	0	0	0	
+Kyrie Irving , who finished with six points in 25 minutes , departed the game in the second half due to lower back soreness and did not return .	1	1	0	0	
+No other Cavaliers player scored in double - figures .	0	1	0	0	
+Matthew Dellavedova added 10 points , and Shawn Marion had 13 off the bench .	1	0	0	0	
+Playing without LeBron James for the fourth straight game , Cleveland leaned heavily upon Kevin Love , who posted 30 points and 10 rebounds in 32 minutes .	1	1	1	0	
+Dallas was out - rebounded 38 - 36 but was able to control Cleveland ’ s transition game , holding the Cavaliers without a single fast - break point .	1	1	0	0	
+Tyson Chandler and Chandler Parsons each scored 14 points , and Rajon Rondo finished with four points , four rebounds and eight assists .	1	1	0	0	
+Monta Ellis led the way with 20 points and two assists , while Dirk Nowitzki added 15 points and five boards .	1	1	0	0	
+The Mavericks scorched the nets to the tune of 56 percent shooting and converted 12 - of - 26 three - point field goals .	1	1	0	0	
+The Mavericks ( 25 - 10 ) handled the LeBron-less Cavaliers ( 19 - 15 ) 109 - 90 on Sunday in Cleveland .	1	1	0	0	
+The Cavaliers ' next game will be at home against the Minnesota Timberwolves on Tuesday , while the Grizzlies will play the Utah Jazz on Monday .	0	0	1	0	
+With the team shooting only 1 - for - 16 from the three - point line , it was tough for them to keep up offensively with the Cavaliers who found their stroke early and often in this one .	1	1	0	0	
+Mike Conley and Vince Carter were the only other two Grizzlies to reach double figures with 11 and 12 points respectively .	1	1	0	0	
+He made his first start of the season and finished with 16 points and seven rebounds in 30 minutes on the court .	1	0	1	0	
+Jon Leuer was also a big contributor in the loss .	0	1	0	0	
+He 's now averaging 20 points and eight rebounds on the season .	0	0	1	0	
+He also added 11 rebounds , giving him his second double - double in a row .	1	0	1	0	
+The Grizzlies were led by Marc Gasol , who went 10 - for - 17 from the field and 3 - for - 4 from the free throw line to score 23 points .	1	1	0	0	
+This was his second straight game struggling to score , so he 'll look to get things turned around as soon as possible .	0	0	1	0	
+Despite playing 35 minutes , Kevin Love did n't have much of an impact , as he finished with only eight points .	1	1	0	0	
+Irving went 8 - for - 13 from the field and 1 - for - 1 from the three - point line , while Varejao finished 9 - for - 12 from the field for 18 points .	1	0	0	0	
+Both Kyrie Irving and Anderson Varejao also reached double figures in scoring .	0	1	0	0	
+He 'll look to stay consistent off the bench in his next few games .	0	0	1	0	
+Dion Waiters also had a solid outing and finished with 21 points , marking the second time in the last three games that he 's finished with that number .	1	1	1	0	
+This was his tenth double - double on the year , as he 's now averaging 25 points , 8 assists and 5 rebounds on the season .	0	0	1	0	
+LeBron James led all scorers , as he went 9 - for - 15 from the field and 3 - for - 5 from the three - point line to score 25 points , while also chipping in 11 assists .	1	1	0	0	
+Despite turning the ball over more than the Grizzlies and being out - rebounded , the Cavaliers held on and secured their second straight win in front of their home fans .	0	1	1	0	
+The team shot 61 percent from the field and 50 percent from the three - point line , while the Grizzlies shot only 45 percent from the field and a meager six percent from beyond the arc .	1	0	0	0	
+The Cleveland Cavaliers used their superior shooting and a 28 - 21 fourth quarter advantage in points to get the win .	0	1	0	0	
+The Cleveland Cavaliers ( 15 - 10 ) defeated the Memphis Grizzlies ( 21 - 5 ) 105 - 91 on Sunday at Quicken_Loans_Arena in Cleveland .	1	1	0	0	
+The Cavaliers will host the Atlanta Hawks on Wednesday , while the Hornets will also play Wednesday , hosting the Phoenix Suns .	0	0	1	0	
+Kemba Walker led the fight back for the Hornets , finishing with a team - high 24 points , but it was the play of Charlotte 's bench that allowed them to end the game respectably .	1	1	0	0	
+Michael Kidd-Gilchrist reclaimed his spot as the starting small forward , pushing Gerald Henderson back to a bench role and Lance Stephenson back to shooting guard .	0	1	1	0	
+Charlotte got off to a horrible start in the first quarter , beginning the game on an 0 - 21 stretch in which the Hornets allowed 21 points to the Cavaliers , while scoring none of their own .	0	1	0	0	
+Dion Waiters ( abdomen ) and Matthew Delladova ( illness ) were able to play after dealing with ailments over the weekend .	0	0	1	0	
+Mike Miller sat out a sixth straight game with concussion symptoms .	0	0	1	0	
+Kevin Love chipped in a double - double of his own , putting up 22 points and 18 rebounds .	1	1	0	0	
+LeBron James led the way for the Cavs with a double - double of a game - high 27 points and 13 assists .	1	1	0	0	
+Cleveland ended their two - game losing streak with the win .	0	0	1	0	
+The Cleveland Cavaliers ( 14 - 9 ) defeated the Charlotte Hornets ( 6 - 18 ) 97 - 88 on Monday .	1	1	0	0	
+The Raptors took the game down to the wire , with Jonas Valanciunas ( 18 points , 15 rebounds ) and Kyle Lowry ( 16 points , 14 assists ) both putting up double - doubles , but their quality performances were n't enough to put the Raptors over the top .	1	1	0	0	
+They used Greivis Vasquez as the fill - in starter at shooting guard for the first five games DeRozan was out , but they opted to move Vasquez back to the bench and insert Landry Fields into the starting lineup Tuesday to try and put a bigger player on the wing to guard James .	0	1	1	0	
+DeMar DeRozan 's absence with an adductor injury is having a noticeable impact on the Raptors .	0	0	1	0	
+Toronto has dropped two of their last three games , both losses coming against the Cavaliers .	0	0	1	0	
+Tuesday was the earliest he could have returned , but he was n't ready .	0	1	0	0	
+Mike Miller has missed the last three games with a concussion .	0	0	1	0	
+LeBron James took on the scoring load Tuesday , finishing with 35 points , while Kyrie Irving facilitated and finished with a double - double of 13 points and 10 assists .	1	1	0	0	
+The Cavs and Raptors have played three games against each other already this season , with the Raptors taking their first matchup and the Cavaliers taking the last two .	0	0	1	0	
+Cleveland has won eight straight games , keeping their spot with the fourth - best record in the Eastern_Conference , trailing only the Raptors , Atlanta Hawks and Washington Wizards .	0	0	1	0	
+The Cleveland Cavaliers ( 13 - 7 ) defeated the Toronto Raptors ( 16 - 6 ) 105 - 101 on Tuesday .	1	1	0	0	
+The Pelicans are heading back home next , and they 'll be taking on Kobe Bryant and the Los_Angeles Lakers on Wednesday night .	0	0	1	0	
+We ca n't overlook the strong play of Anthony Davis once again either , as he had 27 points ( 12 - 21 FG , 0 - 2 3Pt , 3 - 4 FT ) , with 14 rebounds , four assists , four steals and three blocks in 40 minutes .	1	1	1	0	
+The Pelicans received a big boost off of the bench from Ryan Anderson on Monday night , as he scored 32 points ( 11 - 19 FG , 8 - 12 3Pt , 2 - 2 FT ) , with five rebounds , three assists and one steal in 34 minutes off the bench .	1	1	0	0	
+The Cavaliers will get a few days off before heading to Boston to take on the Celtics on Friday night .	0	0	1	0	
+Kyrie Irving had an impressive game as well , putting up 32 points ( 11 - 21 FG , 4 - 7 3Pt , 6 - 7 FT ) , with nine assists and five rebounds in 41 minutes .	1	1	0	0	
+The Cavaliers were led by none other than James , who had an impressive triple - double , with 32 points ( 9 - 17 FG , 1 - 3 3Pt , 13 - 17 FT ) , 12 rebounds and 10 assists in 40 minutes .	1	1	0	0	
+This win for LeBron James and company came over Anthony Davis and the up - and - coming New_Orleans Pelicans .	0	1	0	0	
+All of the sudden , the Cavaliers find themselves back at the .500 mark after a slow start to the season .	0	0	1	0	
+The Cleveland Cavaliers ( 3 - 3 ) took down the New_Orleans Pelicans ( 3 - 3 ) 118 - 111 on Monday night at the Quicken_Loans_Arena .	1	1	0	0	
+The Sixers commence a two - game homestand Monday against the Milwaukee Bucks .	0	0	1	0	
+The Bulls play their final road game Monday against the Brooklyn Nets .	0	0	1	0	
+Hollis Thompson and Jason Richardson combined for 34 points and eight three - pointers .	0	1	0	0	
+The sophomore D-league call - up and Sixers ’ leading scorer shot 1 - of - 9 on three - pointers .	1	1	0	0	
+Six of the nine players who suited up scored at least 10 points , led by Robert Covington ’ s 22 points and team - high five assists .	1	1	0	0	
+He finished the game with 18 points , seven rebounds , four assists and one three - pointer in 28 minutes .	1	0	0	0	
+Ish Smith and Isaiah Canaan , the team ’ s only functional point guards , were unavailable , forcing JaKarr Sampson to run the offense .	0	1	0	0	
+They ’ ve clinched at least a bottom - three record , pulling to within one and a half games of the Minnesota Timberwolves , who square off against the Golden State Warriors later Saturday night .	0	0	1	0	
+The Sixers lost their eighth straight contest .	0	0	1	0	
+Pau Gasol recorded his league - leading 52nd double - double , notching 24 points , 13 rebounds and three blocks in 31 minutes .	1	0	1	0	
+He leads the NBA with 39 minutes per game and is one of 19 players averaging at least 20 points per game this season .	0	0	1	0	
+Most Improved Player of the Year frontrunner , Jimmy Butler , was held to 15 points on 3 - of - 11 shooting to go with six rebounds , three assists , and two steals in 36 minutes .	1	0	1	0	
+Derrick Rose played his third straight game since returning from knee surgery , compiling 22 points , eight assists , six rebounds and three steals in 28 minutes .	1	0	1	0	
+His availability for the final two games is in doubt .	0	0	1	0	
+Rookie of the Year contender Nerlens Noel missed the game with a sprained right ankle .	0	1	1	0	
+The Chicago Bulls narrowly escaped with 114 - 107 win over the Philadelphia 76ers .	1	1	0	0	
+Up next , the Bulls will travel to Detroit Saturday to take on the Pistons , while Toronto will play the Knicks at home on Sunday .	0	0	1	0	
+The loss moves them back into fourth place in the East , where they hold just a half - game lead over the Wizards for fifth .	0	0	1	0	
+Patrick Patterson scored a solid 17 points on 7 - of - 11 shooting in 25 minutes off the bench , but as a team , the Raptors shot a poor 38 percent from the field .	1	0	0	0	
+Vasquez got the start after Kyle Lowry was ruled out prior to the game with a back injury .	0	1	0	0	
+Unfortunately for Toronto , the rest of the team was unable to contribute much more , as Greivis Vasquez served as the only other starter who scored in double figures , putting up 11 points , six assists and four rebounds in 37 minutes .	1	1	0	0	
+DeMar Derozan lead the way for the Raptors in the losing effort , recording 27 points on 8 - of - 14 shooting , seven rebounds and three assists in 37 minutes .	1	1	0	0	
+As a team , the Bulls shot an impressive 53 percent from the field and the win pushes them ahead of Toronto for third place in the Eastern_Conference , and they stand 3 games behind the Cavaliers for second .	1	0	1	0	
+Jimmy Butler ( elbow ) is practicing and is set to return soon , while Derrick Rose ( knee ) remains out but is on schedule in his recovery .	0	0	1	0	
+He played only 10 minutes and scored six points .	1	0	0	0	
+Taj Gibson returned to the rotation Friday after missing the previous 10 games with an ankle injury .	0	0	1	0	
+Paul Gasol put up 11 points , nine rebounds and six assists in 28 minutes , while Aaron Brooks had 11 points , six rebounds and five assists in 33 minutes .	1	0	0	0	
+Joakim Noah was just two points shy of a triple - double , recording eight points on 4 - of - 7 shooting , 14 assists and 10 rebounds in 32 minutes .	1	1	0	0	
+Mike Dunleavy scored 21 points on 8 - of - 13 shooting in 29 minutes and has also stepped up his game as of late , scoring 42 points in his last two outings .	1	0	1	0	
+Injuries have plagued Chicago , and it has been Mirotic 's play that has allowed the Bulls to continue winning regardless .	0	0	1	0	
+Nikola Mirotic continues to act as the best player on this Bulls team as of late , as Friday night he scored a game - high 29 points on 11 - of - 21 shooting , grabbed 11 rebounds and blocked four shots in 32 minutes .	1	1	1	0	
+The Chicago Bulls ( 42 - 28 ) defeated the Toronto Raptors ( 41 - 28 ) 108 - 92 on Friday in Chicago .	1	1	0	0	
+Up next , the Bulls will take on the Raptors at home on Friday , while the Pacers will head to Cleveland on Friday to play the Cavaliers .	0	0	1	0	
+However , they still stand just one game behind the seventh - place Heat .	0	0	1	0	
+The loss moves Indiana out of the current playoff race in the East , as the Celtics own the tie breaker over them .	0	0	1	0	
+Miles ( 10 ) round out the four Indiana starters in double figures , while Rodney Stuckey put up just 11 points on 4 - of - 11 shooting in 31 minutes off the bench .	1	1	0	0	
+Roy Hibbert ( 12 ) , George Hill ( 10 ) and C.J .	1	0	0	0	
+Solomon Hill led the team in scoring , putting up just 13 points on 5 - of - 10 shooting , six rebounds and three rebounds .	1	1	0	0	
+Four starters scored in double figures for the Pacers in the losing effort , but as a team , they could not get anything going , shooting poorly at 40 percent from the field .	1	1	0	0	
+However , they still only hold a one - game lead over the Wizards for fourth place .	0	0	1	0	
+The win pushes Chicago to just a half game behind the Raptors for third place in the Eastern_Conference standings and two and a half games behind the second - place Cavaliers .	0	0	1	0	
+Pau Gasol recorded yet another double - double , posting 19 points on 7 - of - 13 shooting and 12 rebounds in 33 minutes , while Joakim Noah scored just six points , but was active elsewhere , recording 14 rebounds and seven assists .	1	0	1	0	
+After four straight games scoring in single digits , Mike Dunleavy put together a solid performance , scoring 21 points on 7 - of - 14 shooting , to along with five rebounds .	1	1	1	0	
+In his last two games , Mirotic has scored 52 points and grabbed 13 rebounds and is due for a minutes increase even when Gibson returns from injury .	0	0	1	0	
+Mirotic scored a game - high 25 points on 8 - of - 15 shooting and grabbed nine rebounds in 30 minutes off the bench .	1	1	0	0	
+Nikola Mirotic has thrived in his sixth man role , as Taj Gibson missed his 10th straight game , and Wednesday was no different .	0	1	1	0	
+The Chicago Bulls ( 41 - 28 ) dominated the Indiana Pacers ( 30 - 37 ) 103 - 86 on Wednesday in Chicago .	1	1	0	0	
+Up next , the Bulls will stay home to take on the Oklahoma_City Thunder on Thursday , while the Wizards head home Friday to take on Miami .	0	0	1	0	
+As a team , the Wizards shot 42 percent from the field and were active defensively , recording 11 blocks and 10 steals .	1	1	0	0	
+Paul Pierce ( 16 ) , Bradley Beal ( 13 ) , and Otto Poter Jr. ( 11 ) rounded out the Washington players in double figures .	1	1	0	0	
+The effort was his second straight double - double and his sixth straight game with double - digit rebounds .	0	0	1	0	
+Marcin Gortat recorded 12 points on 6 - of - 9 shooting and 12 rebounds .	1	0	0	0	
+John Wall struggled shooting the ball ( 8 - of - 20 from the field ) but still managed to put up 21 points , 11 assists and four rebounds in 39 minutes .	1	1	0	0	
+The Bulls shot 42 percent from the field and had 16 turnovers to just 20 assists .	1	0	0	0	
+Tony Snell got the start for Butler but posted just 11 points on 4 - of - 12 shooting in 40 minutes .	1	1	0	0	
+Aaron Brooks got the start in place of Rose and while he shot an unimpressive 8 - of - 23 from the field , Brooks still finished with 22 points and eight assists in 35 minutes .	1	1	0	0	
+Gasol had 20 points on 8 - of - 11 shooting and 10 rebounds , while Noah recorded 14 points on 4 - of - 5 shooting and 12 rebounds .	1	0	0	0	
+Chicago 's starting frontcourt of Paul Gasol and Joakim Noah each posted double - doubles .	0	1	0	0	
+In his last two games , Mirotic has totaled 52 points and 17 rebounds and has proven to be a viable option off the bench in place of Gibson .	0	0	1	0	
+The Bulls were led by rookie Nikola Mirotic , who had a game - high 23 points on 6 - of - 13 shooting and eight rebounds in 32 minutes off the bench .	1	1	0	0	
+The Bulls , despite dealing with injuries to Derrick Rose ( knee ) , Jimmy Butler ( elbow ) , and Taj Gibson ( ankle ) , were able to pull out a win against a struggling Wizards team .	0	1	1	0	
+The Chicago Bulls ( 38 - 23 ) defeated the Washington Wizards 104 - 96 ( 24 - 27 ) on Tuesday in Chicago .	1	1	0	0	
+Los_Angeles will wrap up their road trip against the Timberwolves on Monday , and Chicago will stay home to host the Wizards on Tuesday .	0	0	1	0	
+The Clippers and Bulls split their season series 1 - 1 , with the Bulls having taken their first matchup 105 - 89 back on Nov. 17 .	0	0	1	0	
+With Gibson unavailable , Nikola Mirotic put up a game - high 29 points in 31 minutes off the bench .	1	1	0	0	
+Brooks finished with 14 points on 5 - of - 17 shooting from the field .	1	0	0	0	
+Aaron Brooks started a second straight game in place of Rose , who is expected to be sidelined four to six weeks following knee surgery .	0	0	1	0	
+He worked the glass for 15 rebounds , but with their shots not falling , the Bulls could n't make up the slack elsewhere .	1	1	0	0	
+Pau Gasol returned to action , playing through the illness that held him out of Friday 's game , but he had trouble against the Clippers ' defense , shooting 2 - for - 13 from the field in 33 minutes to finish with just four points .	1	1	1	0	
+Chicago were playing without Derrick Rose ( knee ) and Taj Gibson ( ankle ) on Sunday , and without Rose to initiate the offense , the team struggled , shooting 31 percent from the field .	1	1	0	0	
+Paul put up a team - high 29 points and 12 assists Sunday and has recorded double - digit assists in eight of his last nine games .	1	1	1	0	
+Chris Paul has also picked up his game to cover the team 's holes .	0	1	0	0	
+He 's recorded four games of 20 - plus rebounds over his last nine contests .	0	0	1	0	
+With Griffin out , Jordan has stepped up his game .	0	1	0	0	
+DeAndre Jordan continued his torrid work on the glass , pulling down 26 rebounds in 41 minutes .	1	0	1	0	
+Los_Angeles have won two straight games and are 6 - 3 since Blake Griffin started sitting out games following surgery to remove an infection in his elbow .	1	0	1	0	
+The Los_Angeles Clippers ( 39 - 21 ) defeated the Chicago Bulls ( 37 - 23 ) 96 - 86 on Sunday .	1	1	0	0	
+After the break , Cleveland will embark upon a three - game road trip , tipping off first against the Washington Wizards on Friday , Feb. 20 .	0	0	1	0	
+The Cavaliers ' foibles on offense were compounded by miserable success from three - point range - - just 8 - for - 31 , or 26 percent - - and subsequently , just three of James ' teammates scored in double figures , including Kyrie Irving ( 17 ) , Timofey Mozgov ( 13 ) , and Tristan Thompson ( 10 ) .	1	1	0	0	
+However , with Kevin Love out of commission as a result of a corneal abrasion sustained during Wednesday 's win against the Miami Heat , the road was all the more winding when 16 turnovers were transformed into 24 points for the Bulls .	1	0	1	0	
+Thursday 's defeat doubles as Cleveland 's second in four outings , but LeBron James did everything in his power to keep the deficit somewhat close , accruing 31 points , five rebounds , and four assists .	1	1	1	0	
+Once Chicago returns from their midseason respite , the Detroit Pistons await on Friday , Feb. 20 in the Palace_of_Auburn_Hills .	0	0	1	0	
+Meanwhile , Tony Snell garnered his third starting nod in six contests due to the absences of Jimmy Butler ( shoulder ) and Kirk Hinrich ( toe ) , and the second - year pro responded with 22 points and a game - high four three - pointers in 38 minutes .	1	1	1	0	
+In the frontcourt , both Pau Gasol ( 18 points and 10 rebounds ) and Joakim Noah ( 10 points and 15 boards ) tallied double - doubles , with the Spaniard notching his 14th in row .	1	1	1	0	
+Derrick Rose led the way with 30 points , marking just the fourth time this season he 's surpassed that threshold .	0	1	1	0	
+On the backs of five players achieving double - digit points , the Bulls outscored the Cavaliers in each quarter , yet remain behind in the season series , 1 - 2 .	0	1	1	0	
+Chicago enters the All-Star break with a four - game winning streak in hand , during which they held each opponent below 100 points .	0	1	1	0	
+The Chicago Bulls ( 34 - 20 ) handled the Cleveland Cavaliers ( 33 - 22 ) , 113 - 98 , on Thursday .	1	1	0	0	
+Chicago plays seven of its next eight games on the road , starting Friday in Dallas .	0	0	1	0	
+The Bulls came out with aggressiveness on both ends of the floor and were able to out - rebound the Spurs despite missing Joakim Noah .	0	1	0	0	
+Chicago needed to make a statement Thursday against one of the NBA 's deepest and well - coached teams .	0	0	1	0	
+The Spurs will wrap up a back - to - back set Friday against the Lakers .	0	0	1	0	
+Kawhi Leonard turned in another solid performance , putting up 16 points and 4 rebounds , but the Spurs were out of this game by the fourth quarter and no starter played more than 27 minutes .	1	1	1	0	
+The Spurs were on a four - game winning streak coming into this game and had won six of its last seven .	0	0	1	0	
+The Spurs were held to just 37 % shooting from the floor .	1	0	0	0	
+The Bulls started to pull away in the third quarter thanks to a solid combined effort from Derrick Rose , Jimmy Butler , and Taj Gibson .	0	1	0	0	
+Chicago entered Thursday 's game after a gutting loss to Cleveland on Monday that had people questioning the direction in which the Bulls season was going .	0	0	1	0	
+The Chicago Bulls ( 28 - 16 ) got a much needed win Thursday , beating the San_Antonio Spurs ( 27 - 17 ) 104 - 81 in at the United_Center .	1	1	1	0	
+The Magic will head home to face the Rockets ( 27 - 11 ) , and the Bulls will stay in Chicago to face the Wizards ( 25 - 12 ) on Wednesday .	0	0	1	0	
+Tony Snell started again for the Bulls , who hold the Eastern_Conference 's fourth - best record .	0	0	1	0	
+Chicago 's leading scorer this season , Jimmy Butler finished with 17 points in 43 minutes .	1	0	1	0	
+He wound up with 18 points , seven assists and two steals in 30 minutes .	1	0	0	0	
+Derrick Rose returned to the lineup after sitting out the Bulls ' previous game with soreness in his left knee .	0	1	1	0	
+Pau Gasol followed up Saturday 's 46 - point , 18 - rebound game with 28 points and 14 boards .	1	0	1	0	
+The Magic are nine wins away from matching their 2013 - 14 win total of 23 but still have the third - worst record in the Eastern_Conference .	0	0	1	0	
+Rookie Elfrid Payton shot 5 - of - 7 from the field for 10 points to go along with four rebounds , seven assists , two steals and one block .	1	0	0	0	
+He has now scored 33 or more in two straight games and has had a double - double in five straight .	0	0	1	0	
+Vucevic also had 11 rebounds and four assists .	1	0	0	0	
+Nikola Vucevic and Victor Oladipo each scored 33 points for the Magic , breaking a six - game losing streak .	0	1	1	0	
+The Orlando Magic ( 14 - 27 ) beat the Bulls ( 26 - 13 ) on Monday in Chicago .	1	1	0	0	
+Houston will continue their three - game road swing Wednesday in Cleveland , while the Bulls remain home for Wednesday 's outing against the Jazz .	0	0	1	0	
+However , knocking down only 8 - for - 25 from three - point range did n't do them any favors in the loss .	1	1	0	0	
+Harden still managed a stat - laden line , recording 20 points , three assists , two rebounds , two blocks , and one steal in 38 minutes , and backcourt mate Patrick Beverley aided the Rockets ' effort further with 14 points , six assists , and six rebounds .	1	0	0	0	
+While Dwight Howard posted a customary , but underwhelming double - double ( 12 points and 14 boards ) , James Harden was perhaps the primary reason for Houston 's downfall , missing all three field goal attempts and committing three fouls , including a charge for one of his two turnovers in the fourth quarter .	1	1	0	0	
+On the other side , the Rockets fell to 3 - 4 with newcomer Josh Smith , despite his team - high 21 points on 10 - of - 20 from the field .	1	1	0	0	
+By the final horn , the Bulls had accumulated a whopping 12 blocks , 10 steals , and 30 free - throw attempts , of which they knocked down 27 .	0	1	0	0	
+Meanwhile , Derrick Rose toughed out a right hip contusion en route to 19 points and nine assists in 34 minutes .	1	1	0	0	
+In the end , a Bulls squad without Mike Dunleavy ( ankle ) achieved its third victory in a row , and 10th in 11 contests , on the backs of a complete team effort led by Pau Gasol 's 27 points and 14 rebounds .	1	1	1	0	
+Thereafter , Chicago received scoring contributions from six different players , but their push in the final period was ultimately powered by rookie Nikola Mirotic and Jimmy Butler , who spearheaded a 31 - point explosion with a combined 17 points , nine rebounds , and three three - pointers .	1	1	0	0	
+Entering the fourth quarter with a six - point deficit facing them , the Bulls whittled away at the Rockets ' lead and finally knotted up the score at 100 with just under three minutes remaining .	0	1	0	0	
+The Chicago Bulls ( 25 - 10 ) fended off the Houston Rockets ( 23 - 11 ) , 114 - 105 , at the United_Center on Monday evening .	1	1	0	0	
+Chicago has now won eight of its last nine games and will continue its five - game homestand on Saturday when the Bulls take on the Celtics .	0	0	1	0	
+He was a perfect 4 - for - 4 from the floor , including 2 - for - 2 from beyond the arc as he scored 10 points in 27 minutes .	1	0	0	0	
+Kirk Hinrich returned to action for Chicago after missing five games with a hamstring injury .	0	0	1	0	
+Denver has now dropped three straight and five of its last six but will look to buck that trend it hosts Memphis on Saturday night .	0	0	1	0	
+Chandler led the Nuggets in scoring with 22 points in 34 minutes on the floor .	1	1	0	0	
+Fareid , who had `` dead legs `` Tuesday night did n't show any ill effects against the Bulls as he scored 18 points and pulled down 19 rebounds .	1	1	1	0	
+Denver had two of their big men banged up on Tuesday night as Kenneth Fareid and Wilson Chandler both were hampered by leg issues , but both managed to play Thursday .	0	1	0	0	
+Chicago 's Jimmy Butler shined again as he had a game - high 26 points in the Bulls ' victory over the Nuggets .	1	1	0	0	
+Denver 's Aaron Afflalo cut Chicago 's lead to five with just over two minutes remaining , but the Bulls responded with baskets from Derrick Rose and Taj Gibson to give them a solid lead .	0	1	0	0	
+The Nuggets saw a seemingly comfortable 12 - point lead in the third quarter evaporate as the Bulls stormed back to take the lead just before the fourth quarter began .	0	1	0	0	
+The Bulls ( 23 - 10 ) held off the Denver Nuggets ( 13 - 20 ) on Thursday by a score of 106 - 101 .	1	1	0	0	
+Los_Angeles continues the second half of their road back - to - back trip against Dallas on Friday .	0	0	1	0	
+Wesley Johnson was the Lakers ’ scoring leader on Thursday with 19 , while Ed Davis finished with 13 points and 14 rebounds for a his first career double - double as a member of the Lakers .	1	1	1	0	
+Without Bryant , Los_Angeles was able to beat conference leader Golden State on Tuesday , but they were unable to get a win in Chicago .	0	1	1	0	
+Los_Angeles found out earlier in the day that they would be without All-Star guard Kobe Bryant , who cited “ old age ” as the reason for his absence .	0	1	0	0	
+Chicago takes the court again on Saturday against New_Orleans .	0	0	1	0	
+Pau Gasol had a big game against his former team , finishing with 23 points and 13 rebounds for a double - double in 33 minutes .	1	1	1	0	
+Five Bulls players scored in double figures , while three players scored over 20 points .	0	1	0	0	
+Chicago had control of this game since the beginning and never let Los_Angeles take the lead in the game , despite giving up a 13 - 4 run to begin the third quarter .	0	1	0	0	
+Kirk Hinrich sat out a second straight game with a hamstring issue .	0	0	1	0	
+Chicago was able to win their fifth consecutive game on Thursday with a nearly - healthy lineup against the Lakers .	0	1	1	0	
+The Chicago Bulls ( 20 - 9 ) defeated the Los_Angeles Lakers ( 9 - 20 ) 113 - 93 on Thursday .	1	1	0	0	
+New_York returns home to host the Suns on Saturday .	0	0	1	0	
+Up next , the Bulls travel to Memphis to take on the red - hot Grizzlies on Friday .	0	0	1	0	
+They out - rebounded Chicago 41 - 32 but committed 16 turnovers , compared to the Bulls ’ 11 .	1	1	0	0	
+The Knicks shot 46 percent from the field and attempted only nine three - ponters , hitting six .	1	0	0	0	
+Aldrich also had 10 rebounds 26 minutes .	1	0	0	0	
+Tim Hardaway , Jr. led the team with 23 points , while Cole Aldrich and Jose Calderon added 13 points and 12 points , respectively .	1	1	0	0	
+New_York , which was without Carmelo Anthony and J.R. Smith , got contributions from a number of starters , including 16 points , six rebounds and four blocks from Amar ’ e Stoudemire .	1	1	0	0	
+Chicago shot 45 percent from the field and knocked down 12 threes .	1	0	0	0	
+Aaron Brooks had 18 points , including a trio of three - pointers .	1	0	0	0	
+Pau Gasol added 20 points , and Nikola Mirotic contributed 13 off the bench .	1	0	0	0	
+Playing without Derrick Rose , Chicago turned to Kirk Hinrich , who added eight points .	1	1	0	0	
+The Bulls got 35 points , five rebounds , seven assists and four steals from Jimmy Butler , who played 45 minutes .	1	0	0	0	
+The lead was whittled to just one with one minute remaining , but a Pau Gasol layup put Chicago up three , and the Knicks were unable to get any closer , while Chicago salted the game away at the line .	0	1	0	0	
+Chicago jumped out to a 10 - point first quarter lead but let the Knicks crawl back into the game in the third quarter .	0	1	0	0	
+The Bulls ( 16 - 9 ) held on to defeat the Knicks ( 5 - 23 ) at the United_Center on Thursday .	1	1	0	0	
+Chicago heads to Miami to take on the Heat on Sunday evening .	0	0	1	0	
+Up next , the Blazers conclude their five - game road swing in Indiana on Saturday night .	0	0	1	0	
+Aaron Brooks added 17 points off the bench , and Nikola Mitotic had 15 points and nine boards .	1	0	0	0	
+Taj Gibson , starting in place of the injured Joakim Noah , chipped in 10 points and 12 rebounds , and Pau Gasol had a 13 - point , 10 - rebound double - double .	1	1	0	0	
+Derrick Rose paced Chicago with 31 points ( 14 - 24 FG ) to go with five assists and three rebounds .	1	1	0	0	
+The Blazers shot 49 percent from the field and 50 percent from three but were out - rebounded 47 - 37 .	1	1	0	0	
+Nic Batum struggled , scoring seven points on just 3 - of - 12 shooting .	1	1	0	0	
+Damian Lillard added 35 points of his own , and Wes Matthews had 10 points and four rebounds .	1	0	0	0	
+Chicago was able to keep him under control the rest of the night , however , as Aldridge finished with 35 points and nine rebounds .	1	1	0	0	
+The Bulls withstood a huge first quarter from LaMarcus Aldridge , who scored 21 points on 10 - of - 12 shooting .	1	1	0	0	
+The Bulls ( 14 - 8 ) extended their winning streak to two games , knocking off the Blazers ( 17 - 6 ) in Chicago on Friday .	1	1	1	0	
+The Pistons now look to right the ship as they 'll head to Washington to take on the Wizards on Wednesday night .	0	0	1	0	
+Monroe scored 16 points ( 8 - 15 FG ) to go with 10 rebounds and two assists .	1	0	0	0	
+Both Josh Smith and Greg Monroe had double - double 's , with Smith collecting 11 rebounds , four assists and three blocks .	1	1	0	0	
+Detroit only played eight players in this game , and while seven of the eight scored at least nine points , no one scored more than 19 .	0	1	0	0	
+For the Pistons , they just could n't dig themselves out of a first half hole , and have lost two in a row now .	0	1	1	0	
+The Bulls look to keep their winning ways rolling as they head to Toronto to take on the Raptors on Thursday night .	0	0	1	0	
+Noah posted 13 points ( 5 - 13 FG , 3 - 4 FT ) with 14 rebounds and six assists .	1	0	0	0	
+Pau Gasol and Joakim Noah both posted double - doubles , with Gasol putting up 17 points ( 8 - 17 FG , 0 - 1 3Pt , 1 - 2 FT ) to go with 15 rebounds , four assists , four blocks and one steal .	1	1	0	0	
+While Derrick Rose led the team in scoring with 24 points ( 9 - 20 FG , 2 - 5 3Pt , 4 - 5 FT ) and seven assists , the Bulls got production from all over .	1	1	0	0	
+The Bulls are off to an impressive start to 2014 , and a large part of that has been due to a major team effort on the offensive end .	0	0	1	0	
+The Chicago Bulls ( 6 - 2 ) beat the Detroit Pistons ( 2 - 5 ) 102 - 91 on Monday night at the United_Center in Chicago .	1	1	0	0	
+The Magic 's next game with be on the road against the Philadelphia 76ers on Wednesday , while the Bulls will travel to Milwaukee to take on the Bucks on Wednesday .	0	0	1	0	
+He finished with 12 points , and this was his first game since the opener where he was able to score in double digits .	1	0	1	0	
+Rookie Doug McDermott found his stroke off the bench , shooting 4 - for - 6 from the field and 1 - for - 2 from three - point land .	1	1	0	0	
+Filling in for Rose at the point , Kirk Hinrich got the start but only scored five points and three assists in 30 minutes of action .	1	1	0	0	
+Joakim Noah sat out the game with an illness , pushing Taj Gibson into the starting lineup and forcing the team to lean more heavily on Gasol .	0	1	0	0	
+Pau Gasol recorded his second double - double of the season , going for 16 points and 13 rebounds in 40 minutes .	1	0	1	0	
+Butler shot 7 - for - 15 from the field to score 21 points and added nine rebounds .	1	0	0	0	
+Jimmy Butler led the Bulls to the win with Derrick Rose ( ankle ) out of the lineup once again .	0	1	1	0	
+Evan Fournier continued to start as the other guard and had 13 points of his own , to go along with two assists in 40 minutes .	1	0	1	0	
+Rookie Elfrid Payton struggled to find his shot and went 3 - for - 14 from the field to score nine points , while also adding seven assists .	1	1	0	0	
+Vucevic is now averaging 18 points and an absurd 15 rebounds per game .	0	0	1	0	
+Nikola Vucevic has been the other bright spot , and he posted his fourth double - double in as many games , finishing with 19 points and 13 rebounds .	1	0	1	0	
+Harris has been one of the few positives for this Orlando team and is averaging 18 points and 8 rebounds .	0	0	1	0	
+Tobias Harris recorded a team - high 21 points ( 9 - 15 FG , 0 - 1 3Pt ) and also had nine rebounds .	1	1	0	0	
+The Magic were able to keep the game even up until the third quarter but were outscored 29 - 21 in the fourth quarter , to drop their fourth straight game and remain winless during the 2014 - 15 season .	0	1	1	0	
+The Chicago Bulls ( 3 - 1 ) defeated the Orlando Magic ( 0 - 4 ) 98 - 90 on Tuesday at the United_Center in Chicago .	1	1	0	0	
+The only other Buck in double figures was OJ Mayo , who came off the bench for 11 points ( 4 - 12 FG , 1 - 5 3Pt , 2 - 2 FT ) The Cavaliers ' next game will be at home against the Boston Celtics on Friday , while the Bucks will travel to New_York to play the Knicks on Friday .	1	1	1	0	
+He posted 16 points , while shooting 7 - of - 10 from the field and a perfect 2 - of - 2 from deep .	1	0	0	0	
+Khris Middleton was hitting nearly all of his shots as well .	0	1	0	0	
+The five steals matched a season - high , while the double - double was his second of his last five games .	1	1	1	0	
+He finished with 19 points ( 8 - 13 FG , 3 - 5 FT ) , 10 rebounds and five steals .	1	0	0	0	
+Zaza Pachulia had a strong day from the field as well .	0	1	0	0	
+Carter-Williams has struggled with his shot lately , combining to go 7 - for - 22 from the field over his two previous games , so it was a step in the right direction for the guard , who recorded a new season - high in points .	0	0	1	0	
+He went 13 - for - 22 from the field and 1 - for - 3 from the three - point line to score a game - high of 30 points , while also adding eight assists over 36 minutes .	1	1	0	0	
+Michael Carter-Williams had one of his best offensive performances since joining the Bucks .	0	0	1	0	
+Tristan Thompson posted a double - double off the bench as well , finishing with 11 points ( 3 - 3 FG , 5 - 5 FT ) and 10 rebounds .	1	1	0	0	
+Kevin Love did his part in the victory , going 7 - for - 14 from the field , but just 1 - for - 5 from the three - point line to score 16 points , while also adding 11 rebounds to notch a double - double .	1	1	0	0	
+Irving has put in two impressive performances in a row as well , combining for 54 points , 13 assists and six steals during that span .	0	0	1	0	
+James has now posted 20 or more points in eight straight games , a stretch where he 's averaging 23 points .	0	0	1	0	
+James finished with 21 points ( 8 - 15 FG , 2 - 5 3Pt , 3 - 4 FT ) , nine rebounds and eight assists , while Irving recorded 27 points ( 7 - 13 FG , 4 - 8 3Pt , 9 - 11 FT ) , nine assists and three steals .	1	0	0	0	
+Both LeBron James and Kyrie Irving had impressive showings .	0	1	0	0	
+While many teams have been giving their players some time off for rest , coach David Blatt decided to keep his star players in the lineup with a full minutes load Wednesday .	0	0	1	1	
+Despite suffering the loss , the Bucks were the superior shooting team , going 50 percent from the field and 33 percent from the three - point line , while the Cavaliers finished at 49 percent from the floor and 32 percent from deep .	1	1	0	0	
+Both the Boston Celtics and Brooklyn Nets are just two games back from them though , so they 'll need to pick up some important wins over these final four games of the regular season in order to lock up that six seed .	0	0	1	0	
+The Bucks , on the other hand , are currently the sixth projected playoff seed in the East .	0	0	1	0	
+The Cavaliers are now riding a four - game win streak and have clinched the second seed in the Eastern_Conference playoffs .	0	0	1	0	
+The Cleveland Cavaliers ( 51 - 27 ) defeated the Milwaukee Bucks ( 38 - 40 ) 104 - 99 on Wednesday at the BMO_Harris_Bradley_Center in Milwaukee .	1	1	0	0	
+Up next , the Pelicans will travel to Brooklyn Tuesday to take on the Nets , while the Bucks will stay home and play the Magic on Wednesday .	0	0	1	0	
+As a team , Milwaukee shot 52 percent from the field in the losing effort , and the loss leaves them in sixth place in the Eastern_Conference .	1	1	1	0	
+Khris Middleton scored 17 points on 6 - of - 11 shooting in a team - high 40 minutes .	1	1	0	0	
+Michael Carter-Williams also played his best game as a member of the Bucks , recording 25 points on 8 - of - 17 shooting and seven assists in 32 minutes .	1	0	1	0	
+Giannis Antetokounmpo scored a career - high 29 points for Milwaukee on 11 - 16 shooting to go along with five rebounds , four assists , three steals , and three blocks in 37 minutes .	1	0	1	0	
+There was nothing the Bucks could do defensively to stop them and the win puts New_Orleans just a half - game behind the Thunder for eighth place in the Western_Conference .	0	1	1	0	
+As a team , the Pelicans shot 59 percent from the field , 60 percent from three , and 81 percent from the free - throw line .	1	0	0	0	
+Eric Gordon ( 16 ) and Norris Cole ( 11 ) were the other New_Orleans players to score in double figures .	1	1	0	0	
+Tyreke Evans had 13 points on 6 - of - 10 shooting and six assists in 27 minutes before suffering a left ankle injury in the fourth quarter and did not return .	1	1	0	0	
+In his four games since returning from a shoulder injury , Davis is averaging 34 points , 12 rebounds , and 5 blocks .	0	0	1	0	
+Davis scored a game - high 43 points on 17 - of - 23 shooting to go along with 10 rebounds and two blocks .	1	1	0	0	
+Anthony Davis was dominant once again for the Pelicans , helping the team close out the game down the final stretch .	0	1	1	0	
+The New_Orleans Pelicans ( 35 - 29 ) defeated the Milwaukee Bucks ( 33 - 30 ) 114 - 103 in Milwaukee on Monday .	1	1	0	0	
+They ’ ll play at Oklahoma_City on Sunday night , while Milwaukee will host the Hawks on Sunday afternoon .	0	0	1	0	
+Denver has now dropped seven of eight dating back to late - January .	0	0	1	0	
+Jusuf Nurkic had 11 points and 15 rebounds , and Kenneth Faried finished with eight points and five boards .	1	0	0	0	
+Playing without Ty Lawson , who was benched after being late to shootaround , Denver was led by Wilson Chandler , who had 19 points in 38 minutes .	1	1	0	0	
+Denver , which dealt Arron Afflalo to Portland at the deadline , managed just 36 percent shooting and had only two players make more than half of their field goal attempts .	1	1	1	0	
+Another new acquisition , rookie Tyler Ennis , played 18 minutes and four points on 1 - of - 4 shooting .	1	0	1	0	
+He did lead the Bucks with nine rebounds , however .	1	1	0	0	
+Khris Middleton added 15 points and four rebounds , while John Henson had 14 points and and four rebounds of his own .	1	0	0	0	
+Bayless finished with 11 points , eight assists and seven rebounds in 38 minutes .	1	0	0	0	
+In its first game since dealing Brandon Knight to Phoenix , Milwaukee started Jerryd Bayless at point guard , as newly acquired Michael Carter-Williams ( toe ) was unavailable .	0	1	1	0	
+The Bucks ( 31 - 23 ) held off the Nuggets ( 20 - 34 ) 89 - 81 at the Bradley Center on Friday night .	1	1	0	0	
+Meanwhile , the Bucks will have a chance to double their win total from last season before the All-Star break when they host the Sacramento Kings on Wednesday .	0	0	1	0	
+The Nets will take on the Memphis Grizzlies on Wednesday .	0	0	1	0	
+Brooklyn is currently the first team on the outside looking in at the Eastern_Conference playoff picture .	0	0	1	0	
+Joe Johnson played a game - high 42 minutes , scoring 19 points and recording six assists .	1	1	0	0	
+Deron Williams had been suffering from an illness and did n't look like himself , going 0 - for - 5 from the floor for zero points in 23 minutes off the bench .	1	1	1	0	
+He put up 26 points on 10 - of - 15 from the field , and had four rebounds and eight assists to boot .	1	0	0	0	
+Jarrett Jack had a nice game for the Nets .	0	1	0	0	
+He finished with five points , five rebounds and three steals in 16 minutes off the bench .	1	0	0	0	
+In the frontcourt , Zaza Pachulia returned to the Bucks ' lineup after missing six games with a calf injury .	0	1	1	0	
+Over his past five games , he 's averaging 18 points , 11 rebounds , 4 assists , 2 blocks , and 1 steals per game .	0	0	1	0	
+For someone who did n't play in the fourth quarter , the statistical line was all the more impressive .	0	1	0	0	
+Seven of the assists came in the first half , as he helped his team recover from a 17 - point deficit .	0	1	0	0	
+He scored 12 points , grabbed nine rebounds , stole the ball three times , and added one block to go along with a season - high eight assists .	1	0	1	0	
+This time , it was in the assists category .	0	1	0	0	
+Giannis Antetokounmpo continued his streak of season highs .	0	0	1	0	
+The Milwaukee Bucks ( 29 - 23 ) beat the Brooklyn Nets ( 21 - 30 ) , 103 - 97 , on Monday .	1	1	0	0	
+The Bucks conclude a two - game road trip Sunday against the Toronto Raptors .	0	0	1	0	
+The Bucks travel to San_Antonio for a game Sunday .	0	0	1	0	
+Jennings and Kentavious Caldwell-Pope each picked up a technical foul .	0	1	0	0	
+Kyle Singler wore a protective mask after suffering a broken nose earlier this week .	0	0	1	1	
+The injured Brandon Jennings finished with a team - high 16 points on 6 - of - 14 shooting in 26 minutes .	1	1	0	0	
+The Pistons converted 6 - of - 25 three - pointers .	1	0	0	0	
+The Bucks shot 11 - of - 17 from behind the three - point line .	1	0	0	0	
+Giannis Antetokounmpo turned the ball over seven times in a team - high 36 minutes .	1	1	0	0	
+Former Pistons Khris Middleton and Brandon Knight combined to score 30 points , grab 13 rebounds and dish out nine assists .	0	1	0	0	
+Mayo scored a team - high 20 points on 8 - of - 14 shooting , and Jared Dudley and John Henson added 12 points each .	1	1	0	0	
+O.J .	0	0	0	1	
+The severity is unknown , and he 'll be re - evaluated Sunday .	0	0	0	1	
+Brandon Jennings suffered a non - contact leg injury and required assistance leaving the court .	0	1	0	0	
+The Milwaukee Bucks ( 22 - 21 ) defeated the Detroit Pistons ( 17 - 27 ) , 101 - 86 .	1	1	0	0	
+They shot a paltry 3 - of - 20 from three - point range against the Suns and now have a quick turnaround as they travel to Philadelphia to take on the 76ers on Wednesday .	1	1	1	0	
+The Bucks dropped their fourth consecutive game at home Tuesday .	0	0	1	0	
+The Suns will travel to Minnesota to take on the Timberwolves on Wednesday .	0	0	1	0	
+Isaiah Thomas made a big contribution , coming off the bench with 19 points in 31 minutes on the floor .	1	1	0	0	
+Phoenix got a big game from Markieff Morris , who posted a double - double with 26 points and 10 rebounds .	1	1	0	0	
+Phoenix 's Markieff Morris drained a deep three to all - but seal the game with under a minute in the fourth .	0	1	0	0	
+The Suns ' defense clamped down in the fourth quarter , however , allowing just 24 points in the period with four of those points coming when the game was out of reach .	0	1	0	0	
+The tide seemed to be turning in Milwaukee 's favor in the third quarter when the Bucks ' Brandon Knight threw down an emphatic dunk to tie it at 56 .	0	1	0	0	
+The Phoenix Suns ( 21 - 16 ) defeated the Milwaukee Bucks ( 18 - 18 ) 102 - 96 Tuesday at the BMO_Harris_Bradley_Center .	1	1	0	0	
+The Pacers ' next game will be on the road against the Los_Angeles Lakers on Sunday , while the Bucks will travel to New_York to play the Knicks on Sunday .	0	0	1	0	
+It was arguably his best game of the year considering he set season - highs in both points and rebounds .	0	0	1	0	
+Henson was very efficient as he did this in only 23 minutes .	0	1	0	0	
+Also with a double - double , John Henson came off the bench for 14 points and 10 rebounds .	1	1	0	0	
+It was only his third double - double of the year .	0	0	1	0	
+Pachulia finished with a double - double , posting 12 points and 14 rebounds .	1	1	0	0	
+Zaza Puchilia did everything he could to combat Hibbert .	0	1	0	0	
+He 's averaging 18 points and 5 assists on the year .	0	0	1	0	
+Knight continues to be one of the more reliable offensive threats for the Bucks and has now combined for 46 points over his last two outings .	0	0	1	0	
+The Bucks were led by Brandon Knight , as he went 9 - for - 19 from the field and 2 - for - 5 from the three - point line to score 20 points , while also adding seven assists and four steals .	1	1	0	0	
+The only other Pacer to reach double figures in points was Rodney Stuckey , who had 11 points .	1	1	0	0	
+He had 14 points ( 7 - 9 FG , 0 - 2 FT ) and five rebounds in only 17 minutes .	1	0	0	0	
+Luis Scola also had an efficient game off the bench .	0	1	0	0	
+He 's now combined for 47 points over the last two games , as he 's taken it upon himself to give the Pacers another proven scorer .	0	0	1	0	
+Miles went 8 - for - 14 from the field and 6 - for - 9 from the three - point line to score 22 points in 32 minutes .	1	0	0	0	
+Leading all scorers , C.J .	0	1	0	0	
+The Pacers did receive a couple of big contributions off the bench .	0	1	0	0	
+Hibbert is only averaging 11 points so far this season , so it was good to see him heat up a little bit against a mostly inexperienced Bucks front line .	0	1	1	0	
+Hibbert went 6 - for - 11 from the field and a perfect 6 - for - 6 from the free throw line to score 18 points , while also adding seven rebounds .	1	1	0	0	
+Roy Hibbert was a force in this one , as the Bucks did n't have much of an answer for him .	0	1	0	0	
+While both teams finished at 43 percent from the field , the Pacers were better from the three - point line , as they shot 40 percent from deep , while the Bucks shot just 29 percent .	1	1	0	0	
+Despite the Bucks finishing the third quarter up 68 - 66 , the Pacers were able to out - score Milwaukee 28 - 23 in the final quarter to secure a close three - point victory in a tough conference road game .	1	1	0	0	
+The Indiana Pacers ( 13 - 21 ) defeated the Milwaukee Bucks ( 17 - 17 ) 94 - 91 on Friday at the BMO_Harris_Bradley_Center in Milwaukee .	1	1	0	0	
+The Bucks will continue their road trip against the Charlotte Hornets on Monday .	0	0	1	0	
+Khris Middleton found success off the bench , putting up a team - high 21 points in 37 minutes .	1	1	0	0	
+Milwaukee was playing without Ersan Ilyasova ( concussion ) and Larry Sanders ( illness ) , leaving them inadequately supplied to deal with the strength and skill of Al Horford and Paul Millsap .	0	1	0	0	
+The Hawks shot a putrid 37 percent from the field but were able to secure the win by holding the Bucks to an unremarkable 39 percent shooting from the field and by getting 32 easy points on 19 turnovers by the Bucks .	1	1	0	0	
+Jeff Teague paced the team with a game - high 25 points in 37 minutes , indicating that he is probably over his hamstring injury .	1	1	0	0	
+They gave up most of their lead in the second quarter but had enough to hang on for the win .	0	1	0	0	
+Atlanta jumped out to a 21 - 10 lead after the first quarter .	0	1	0	0	
+Playing on the second night of a home - and - home back - to - back between these two teams , the Hawks came into Saturday 's game looking for revenge after they took a beating at the hands of the Bucks 107 - 77 on Friday , and they got their revenge .	0	1	1	0	
+The Atlanta Hawks ( 22 - 8 ) defeated the Milwaukee Bucks ( 15 - 16 ) 90 - 85 on Saturday .	1	1	0	0	
+They 'll go on the road to face the Atlanta Hawks on Friday .	0	0	1	0	
+Despite dropping a few games recently , the Bucks have stayed competitive every night .	0	0	1	0	
+Ersan Ilyasova ( concussion ) returned from nine - game absence , putting up four points and four rebounds in 16 minutes off the bench .	1	0	1	0	
+Brandon Knight tried his best to keep the Bucks in a position to win , putting up a game - high 34 points in 34 minutes .	1	1	0	0	
+Milwaukee has dropped two straight and three of their last four games as they struggle to try and fill the hole of Jabari Parker ( knee ) being out for the rest of the season .	0	0	1	0	
+Charlotte will go on the road to face the Oklahoma_City Thunder on Friday .	0	0	1	0	
+Kemba Walker led with the way Tuesday , putting up a team - high 27 points in 36 minutes .	1	1	0	0	
+Stephenson has missed the last four games , coinciding with the Hornets ' resurgence , and while they have no doubt played remarkably better of late , putting all the blame on one player is misleading .	0	0	1	0	
+Charlotte has won four straight games , and while the wins have come during an easy part of their schedule ( Sixers , Jazz , Nuggets , Bucks ) , the talking heads have tried to fit the narrative of Lance Stephenson ( groin ) sitting out as the reason for the Hornets ' success .	0	0	1	0	
+The Charlotte Hornets ( 10 - 19 ) defeated the Milwaukee Bucks ( 14 - 15 ) 108 - 101 on Tuesday .	1	1	0	0	
+They 'll look to end the protraction of their losing streak when they host the Detroit Pistons on Monday .	0	0	1	0	
+Matt Barnes scored a game - high 26 points , and Chris Paul turned the ball over six times in what was an all - around obtuse game for the Clippers .	1	1	0	0	
+Chris Douglas-Roberts returned from a 17 - game absence with an Achilles injury to play six minutes off the bench .	0	0	1	0	
+Confronted with more top - level teams , the Clippers have buckled , and with Spencer Hawes ( knee ) sitting out Saturday , they lacked depth in the frontcourt , putting an even greater onus on their starting lineup .	0	1	1	0	
+Prior to their most recent losses , the Clippers went on a nine - game win streak in what will probably prove to be the easiest stretch of their schedule this season .	0	0	1	0	
+Los_Angeles has dropped two straight games .	0	0	1	0	
+The Bucks have been wading through a tough stretch of their schedule that will continue as they embark on a four - game Western_Conference road trip Monday against the Phoenix Suns .	0	0	1	0	
+Brandon Knight scored a team - high 22 points , and the Bucks had six players finish in double figures .	1	1	0	0	
+The Bucks shot 57 percent from the field and 64 percent from beyond the arc , dissecting the Clippers ' defense quite masterfully .	1	1	0	0	
+Milwaukee capped their two - game losing streak with the win .	0	0	1	0	
+The Milwaukee Bucks ( 12 - 12 ) defeated the Los_Angeles Clippers ( 16 - 7 ) 111 - 106 on Saturday .	1	1	0	0	
+Miami travels to Memphis to take on the Grizzlies on Sunday .	0	0	1	0	
+Next up , the Bucks play host to the Mavericks on Saturday in the second meeting in four days between the two teams .	0	0	1	0	
+James Ennis led the bench with seven points in 24 minutes .	1	1	0	0	
+Mario Chalmers had nine points , six assists and six steals , while Danny Granger finished with seven points and five fouls .	1	0	0	0	
+They didn ’ t receive much help , though , as no other Heat player scored in double - figures .	0	1	0	0	
+Miami got solid performances from its two stars , as Chris Bosh ( 21 points ) and Dwyane Wade ( 28 ) combined for 49 points , nine assists and nine boards .	1	1	0	0	
+Milwaukee shot nearly 57 percent from the field and knocked down 9 - of - 16 three - point attempts .	1	0	0	0	
+Jabari Parker , Giannis Antetokounmpo ( 8 - 11 FT ) , and Khris Middleton each finished with 14 points .	0	1	0	0	
+Brandon Knight had 13 points , five rebounds and three assists , while Jerryd Bayless added 12 points off the bench .	1	0	0	0	
+The Bucks were led by an unlikely face in Kendall Marshall , who scored a season - high 20 points ( 7 - 8 FG , 4 - 5 3Pt ) in 24 minutes .	1	1	1	0	
+The lead grew to eight at the end of the third quarter , and the Bucks blew the game open in the final period , outscoring Miami by 15 in the fourth .	0	1	0	0	
+Milwaukee fell behind early but clawed back into the game in the second quarter and held a four - point advantage at half .	0	1	0	0	
+It was the second victory over Miami for the Bucks this season after emerging victorious in Miami 91 - 84 on Nov. 16 .	0	0	1	0	
+The Bucks ( 10 - 10 ) handled the Heat ( 9 - 9 ) 109 - 85 on Friday night in Milwaukee .	1	1	0	0	
+The Bucks have been up and down all year , as is evident from their 10 - 10 record .	0	0	1	0	
+Khris Middleton led the bench with 30 minutes played , and produced nicely , adding 21 points ( 8 - 13 FG , 1 - 1 3Pt , 4 - 6 FT ) to go with eight rebounds , three steals and one block .	1	1	0	0	
+Milwaukee got an impressive 25 points from Brandon Knight ( 8 - 16 FG , 2 - 5 3Pt , 7 - 7 FT ) , who also put up six rebounds , five assists and four steals .	1	0	0	0	
+While the Bucks out - shot the Mavericks , hitting 52 percent from the field and 64 percent from behind the three - point line , it still was n't enough .	1	1	0	0	
+The Bucks just could n't do enough to knock off the Mavericks on this night , as only three players scored in double figures .	0	1	0	0	
+To make the win even more impressive , the Mavs decided to rest Dirk Nowitzki on Wednesday .	0	1	0	0	
+Tyson Chandler scored 18 points ( 8 - 11 FG , 2 - 6 FT ) to go with 20 rebounds .	1	0	0	0	
+Ellis has been on fire lately , but he got plenty of help on Wednesday , as six players scored in double figures .	0	1	1	0	
+No bucket was bigger than his fadeaway game - winner though .	0	0	1	0	
+After a double - overtime thriller against the Chicago Bulls on Tuesday where Ellis scored 38 points , he led the team in scoring 23 points ( 11 - 26 FG , 0 - 3 3Pt , 1 - 1 FT ) to go with seven assists and three steals .	1	1	1	0	
+It was Monta Ellis once again who led the way for the Mavericks .	0	1	1	0	
+The Dallas Mavericks ( 15 - 5 ) went on the road and knocked off the Milwaukee Bucks ( 10 - 10 ) 107 - 105 on Wednesday night at the BMO_Harris_Bradley_Center .	1	1	1	0	
+The Bucks ' next game will be on the road against the Minnesota Timberwolves on Wednesday , while the Pistons will be at home against the Los_Angeles Clippers on Wednesday .	0	0	1	0	
+The Pistons ' bench struggled to offer any help , as they had only 20 of the 86 total points .	0	1	0	0	
+He shot 4 - for - 11 from the field and 1 - for - 1 from the three - point line to score 11 points , while handing out seven assists .	1	0	0	0	
+Augustin was the starter at point guard .	1	0	0	0	
+With Brandon Jennings sitting out , D.J .	0	0	0	1	
+Greg Monroe came two rebounds shy of his own double - double , and he finished the game with 15 points and eight rebounds .	1	1	0	0	
+He has now recorded 10 or more rebounds in an impressive 11 of 14 games this season .	0	0	1	0	
+Despite the loss , the Pistons were led by a double - double from center Andre Drummond who scored 23 points and grabbed 10 rebounds in 32 minutes .	1	1	0	0	
+The Bucks have been a surprise this season and will look to continue with their momentum .	0	0	1	0	
+Sanders had 12 points and nine rebounds , while Parker had 14 points and nine rebounds .	1	0	0	0	
+Larry Sanders and Jabari Parker both played well in the victory and were big reasons for the rebound advantage .	0	1	0	0	
+He 's averaging only 11 points on the year , so the promotion into the starting lineup may have provided him some extra motivation .	0	1	1	0	
+He capitalized on his opportunity as he shot 5 - for - 10 from the field and 3 - for - 4 from the three - point line to score 17 points .	1	1	0	0	
+Mayo was in the starting lineup at shooting guard for the first time this season .	0	1	1	0	
+O.J .	0	0	0	1	
+He 's now combined for 47 points in the last two games , as he has found his shooting stroke as of late .	0	0	1	0	
+The Bucks were led by Brandon Knight , who despite being questionable to play with a quad injury , took the court and recorded 20 points ( 7 - 12 FG , 3 - 5 3Pt , 3 - 4 FT ) and eight assists .	1	1	0	0	
+They also out - rebounded the Pistons 50 - 36 , giving them even more of an advantage .	1	1	0	0	
+The Bucks were able to out - score the Pistons 30 - 19 in the third quarter , setting themselves up for the victory .	0	1	0	0	
+The Pistons continued with their season struggles against the Bucks on Tuesday , as they suffered their fifth loss in a row and now sit at the bottom of the Eastern_Conference , above only the lowly Philadelphia 76ers .	0	1	1	0	
+The Milwaukee Bucks ( 8 - 7 ) defeated the Detroit Pistons ( 3 - 11 ) 98 - 86 on Tuesday at the BMO_Harris_Bradley_Center in Milwaukee .	1	1	0	0	
+Up next , the Bucks play host the Pistons on Tuesday , while the Wizards host the Hawks , also on Tuesday .	0	0	1	0	
+Milwaukee was out - rebounded 53 - 36 overall and 20 - 8 on the offensive glass .	0	1	0	0	
+Jabari Parker had just six points on 3 - of - 11 shooting .	1	0	0	0	
+Giannis Antetokounmpo scored a career - high 20 points ( 8 - 8 FT ) in 35 minutes , and Ersan Ilyasova added 13 points off the bench .	1	0	1	0	
+Brandon Knight led all scorers with 27 points to go with six assists and five rebounds .	1	1	0	0	
+The Bucks , who jumped out to a seven - point first quarter lead , were unable to translate that success to the second half , putting up only 17 points in the third period as the Wizards began to pull away .	0	1	0	0	
+Bradley Beal added 17 points off the bench , and Kris Humphries had 12 points and nine rebounds in 20 minutes .	1	0	0	0	
+Marcin Gortat added 10 points and 12 rebounds , and John Wall finished with 19 points and nine assists .	1	0	0	0	
+Paul Pierce led the way with 25 points and 10 rebounds before fouling out after 28 minutes of play .	1	1	0	0	
+The Wizards committed 12 turnovers in the first half but finished with only 14 , while registering 24 assists on 43 field goals .	0	1	0	0	
+Washington , which prevailed 108 - 87 on Nov. 1 , used a strong second half to overcome early turnovers and extend their winning streak to two games after beating the Cavaliers on Friday .	0	1	1	0	
+The Wizards ( 9 - 3 ) defeated the Bucks ( 7 - 7 ) 111 - 100 on Saturday night for the second time this season .	1	1	0	0	
